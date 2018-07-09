@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR180708 (YYMMDD) - v0.1.1449.6902 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- version FR180709 (YYMMDD) - v0.1.1449.6902 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->  
   <Name>French</Name>
   <Code>FR</Code>
@@ -163,7 +163,7 @@
     </Record>
     <Record>
       <Key>Clear</Key>
-      <Value>Annuler</Value>
+      <Value>Annuler</Value>  <!-- Annuler fabrication -->
     </Record>
     <Record>
       <Key>Collect</Key>
@@ -319,7 +319,7 @@
     </Record>
     <Record>
       <Key>Vend</Key>
-      <Value>Achat</Value> <!-- récupération dans distributeur -->
+      <Value>Achat</Value> <!-- Récupération objet distributeur -->
     </Record>
   </Actions>
   <Things>
@@ -1173,7 +1173,7 @@
     </Record>
     <Record>
       <Key>ItemSpaceCleaner</Key>
-      <Value>Nettoyeur Spatial</Value>  <!-- Voir contexte  -->
+      <Value>Nettoyeur Spatial</Value>
     </Record>
     <Record>
       <Key>ItemSpaceHelmet</Key>
@@ -3427,7 +3427,7 @@
     </Record>
     <Record>
       <Key>LoadMenuTitle</Key>
-      <Value>Charger le Monde</Value>
+      <Value>Charger un Monde</Value>
     </Record>
     <Record>
       <Key>LoadMenuFileListTitle</Key>
@@ -3467,7 +3467,7 @@
     </Record>
     <Record>
       <Key>LoadWorldButtonLoad</Key>
-      <Value>Charger le Monde</Value>
+      <Value>Charger ce Monde</Value>
     </Record>
     <Record>
       <Key>JoinMenuTitle</Key>
@@ -3795,7 +3795,7 @@
     </Record>
     <Record>
       <Key>AlertButtonClose</Key>
-      <Value>Annuler</Value>
+      <Value>Fermer</Value>  <!-- Déterminer contexte (surement menu) -->
     </Record>
     <Record>
       <Key>AlertButtonTitle</Key>
@@ -3811,7 +3811,7 @@
     </Record>
     <Record>
       <Key>ButtonCancel</Key>
-      <Value>Annuler</Value>
+      <Value>Annuler</Value>  <!-- Menu du jeu -->
     </Record>
     <Record>
       <Key>InputTextRename</Key>
