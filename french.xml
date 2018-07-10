@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR180709 (YYMMDD) - v0.1.1449.6902 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- version FR180710 (YYMMDD) - v0.1.1449.6902 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->  
   <Name>French</Name>
   <Code>FR</Code>
@@ -813,7 +813,7 @@
     </Record>
     <Record>
       <Key>ItemEvaSuit</Key>
-      <Value>Combinaison Eva</Value>
+      <Value>Combinaison EVA</Value>
     </Record>
     <Record>
       <Key>ItemFertilizedEgg</Key>
@@ -1109,7 +1109,7 @@
     </Record>
     <Record>
       <Key>ItemPipeDigitalValve</Key>
-      <Value>Valve Numérique</Value>
+      <Value>Vanne Numérique</Value>
     </Record>
     <Record>
       <Key>ItemPipeGasMixer</Key>
@@ -1137,11 +1137,11 @@
     </Record>
     <Record>
       <Key>ItemPipeValve</Key>
-      <Value>Valve de Tuyau</Value>
+      <Value>Vanne de Tuyau</Value>
     </Record>
     <Record>
       <Key>ItemPipeVolumePump</Key>
-      <Value>Tuyau Pompe à Volume</Value>
+      <Value>Tuyau avec Pompe</Value>
     </Record>
     <Record>
       <Key>ItemPowerConnector</Key>
@@ -1721,7 +1721,7 @@
     </Record>
     <Record>
       <Key>StructureVolumePump</Key>
-      <Value>Pompe à volume</Value>
+      <Value>Pompe</Value>
     </Record>
     <Record>
       <Key>StructureWallCooler</Key>
@@ -2193,7 +2193,7 @@
     </Record>
     <Record>
       <Key>StructureLogicBatchWriter</Key>
-      <Value>Unité Logique: Écriture Batch</Value>
+      <Value>Unité Logique: Écriture Groupé</Value>
     </Record>
     <Record>
       <Key>StructureLogicButton</Key>
@@ -2225,7 +2225,7 @@
     </Record>
     <Record>
       <Key>StructureLogicDial</Key>
-      <Value>Variateur</Value>
+      <Value>Sélecteur</Value>
     </Record>
     <Record>
       <Key>StructureConsoleLED1x2</Key>
@@ -2893,7 +2893,7 @@
     </Record>
     <Record>
       <Key>StructureLogicBatchReader</Key>
-      <Value>Unité Logique: Lecture Batch</Value>
+      <Value>Unité Logique: Lecture Groupé</Value>
     </Record>
   </Things>    
   <Slots>
