@@ -2193,7 +2193,7 @@
     </Record>
     <Record>
       <Key>StructureLogicBatchWriter</Key>
-      <Value>Unité Logique: Écriture Groupé</Value>
+      <Value>Unité Logique: Écriture Groupée</Value>
     </Record>
     <Record>
       <Key>StructureLogicButton</Key>
@@ -2893,7 +2893,7 @@
     </Record>
     <Record>
       <Key>StructureLogicBatchReader</Key>
-      <Value>Unité Logique: Lecture Groupé</Value>
+      <Value>Unité Logique: Lecture Groupée</Value>
     </Record>
   </Things>    
   <Slots>
