@@ -1577,7 +1577,7 @@
     </Record>
     <Record>
       <Key>StructureLocker</Key>
-      <Value>Casier</Value>
+      <Value>Placard</Value>
     </Record>
     <Record>
       <Key>StructureMotionSensor</Key>
@@ -2005,7 +2005,7 @@
     </Record>
     <Record>
       <Key>StructureStorageLocker</Key>
-      <Value>Casier</Value>
+      <Value>Placard</Value>
     </Record>
     <Record>
       <Key>SpawnPoint</Key>
@@ -2033,7 +2033,7 @@
     </Record>
     <Record>
       <Key>ItemKitLocker</Key>
-      <Value>Kit (Casier)</Value>
+      <Value>Kit (Placard)</Value>
     </Record>
     <Record>
       <Key>ItemKitEngineSmall</Key>
