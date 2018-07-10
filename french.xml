@@ -1513,7 +1513,7 @@
     </Record>
     <Record>
       <Key>StructureDigitalValve</Key>
-      <Value>Valve Numérique</Value>
+      <Value>Vanne Numérique</Value>
     </Record>
     <Record>
       <Key>StructureFabricator</Key>
@@ -1717,7 +1717,7 @@
     </Record>
     <Record>
       <Key>StructureValve</Key>
-      <Value>Valve</Value>
+      <Value>Vanne</Value>
     </Record>
     <Record>
       <Key>StructureVolumePump</Key>
