@@ -2605,31 +2605,31 @@
     </Record>
     <Record>
       <Key>StructureWallPaddedArch</Key>
-      <Value>Mur lourd arc</Value>
+      <Value>Mur rembourré arc</Value>
     </Record>
     <Record>
       <Key>StructureWallPaddedArchLightsFittings</Key>
-      <Value>Mur lourd arc (rampe lumière)</Value>
+      <Value>Mur rembourré arc (rampe lumière)</Value>
     </Record>
     <Record>
       <Key>StructureWallPadding</Key>
-      <Value>Mur lourd</Value>
+      <Value>Mur rembouré</Value>
     </Record>
     <Record>
       <Key>StructureWallPaddingArchVent</Key>
-      <Value>Mur lourd arc (ventillation)</Value>
+      <Value>Mur rembourré arc (ventillation)</Value>
     </Record>
     <Record>
       <Key>StructureWallPaddingLightFitting</Key>
-      <Value>Mur lourd (rampe lumière)</Value>
+      <Value>Mur rembourré (rampe lumière)</Value>
     </Record>
     <Record>
       <Key>StructureWallPaddingThin</Key>
-      <Value>Mur lourd fin</Value>
+      <Value>Mur rembourré fin</Value>
     </Record>
     <Record>
       <Key>StructureWallPlating</Key>
-      <Value>Mur lourd</Value>
+      <Value>Mur rembouré</Value>
     </Record>
     <Record>
       <Key>StructureWallSimple</Key>
@@ -2677,7 +2677,7 @@
     </Record>
     <Record>
       <Key>ItemKitWallPadded</Key>
-      <Value>Kit (Mur lourd)</Value>
+      <Value>Kit (Mur rembouré)</Value>
     </Record>
     <Record>
       <Key>StructureLadder</Key>
