@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR180713.2 (YYMMDD) - v0.1.1496.7096 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- version FR180713.3 (YYMMDD) - v0.1.1496.7096 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->  
   <Name>French</Name>
   <Code>FR</Code>
@@ -4566,7 +4566,7 @@ Temperature {1}</Value>
     </Record>
     <Record>
       <Key>SettingsAtmosphericScattering</Key>
-      <Value>Dispersion atmosphérique</Value> <!-- Nouveau -->
+      <Value>Diffusion atmosphérique</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>ButtonReset</Key>
@@ -4586,7 +4586,7 @@ Temperature {1}</Value>
     </Record>
     <Record>
       <Key>SettingsLensFlares</Key>
-      <Value>Niveau des flares</Value> <!-- Nouveau -->
+      <Value>Effet lentille lumineuse</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>SettingsInputSettings</Key>
