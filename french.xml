@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR180710 (YYMMDD) - v0.1.1449.6902 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- version FR180713 (YYMMDD) - v0.1.1496.7096 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->  
   <Name>French</Name>
   <Code>FR</Code>
@@ -149,6 +149,10 @@
     </Record>
   </Gases>
   <Actions>
+    <Record>
+      <Key>Reload</Key>
+      <Value>Reload</Value> <!-- Nouveau -->
+    </Record>
     <Record>
       <Key>Paint</Key>
       <Value>Peindre</Value>
@@ -2818,7 +2822,7 @@
     <Record>
       <Key>StructureElevatorLevelFront</Key>
       <Value>Niveau d'Ascenseur</Value>
-    </Record>  
+    </Record>
     <Record>
       <Key>StructureCrateMount</Key>
       <Value>Connecteur de caisse</Value>
@@ -2895,7 +2899,19 @@
       <Key>StructureLogicBatchReader</Key>
       <Value>Unité Logique: Lecture Groupée</Value>
     </Record>
-  </Things>    
+	<Record>
+      <Key>StructureLogicReagentReader</Key>
+      <Value>Reagent Reader</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemHardSuit</Key>
+      <Value>HardSuit</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemHardSuitHelmet</Key>
+      <Value>HardSuit Helmet</Value> <!-- Nouveau -->
+	</Record>
+	</Things>
   <Slots>
     <Record>
       <Key>Output</Key>
@@ -3061,6 +3077,26 @@
       <Key>AccessCard</Key>
       <Value>Carte d'accès</Value>
     </Record>
+    <Record>
+      <Key>Magazine</Key>
+      <Value>Magazine</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ContainerSlot</Key>
+      <Value>Container Slot</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>Plant</Key>
+      <Value>Plant</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>Storage</Key>
+      <Value>Storage</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>Circuit</Key>
+      <Value>Circuit</Value> <!-- Nouveau -->
+    </Record>
   </Slots>
   <Interactables>
     <Record>
@@ -3194,10 +3230,6 @@
     <Record>
       <Key>PressureDown</Key>
       <Value>Réduire la pression</Value>
-    </Record>
-    <Record>
-      <Key/>
-      <Value/>
     </Record>
     <Record>
       <Key>Flush</Key>
@@ -3386,6 +3418,34 @@
     <Record>
       <Key>Color</Key>
       <Value>Couleur</Value>
+    </Record>
+	<Record>
+      <Key>Access</Key>
+      <Value>Access</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>Magazine</Key>
+      <Value>Magazine</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key />
+      <Value />
+    </Record>
+    <Record>
+      <Key>TemperatureUp</Key>
+      <Value>Temperature Up</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>TemperatureDown</Key>
+      <Value>Temperature Down</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ThrustUp</Key>
+      <Value>Thrust Up</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ThrustDown</Key>
+      <Value>Thrust Down</Value> <!-- Nouveau -->
     </Record>
   </Interactables>
   <Interface>
@@ -3951,7 +4011,7 @@ Alors sors de là, Stationeer !</Value>
       <Value>&lt;color=yellow&gt;Construire sur le vaisseau mère.&lt;/color&gt;</Value>
     </Record>
     <Record>
-      <Key>MulticonstructorItem</Key>																		
+      <Key>MulticonstructorItem</Key>
       <Value>&lt;color=yellow&gt;Option de construction {0} de {1} &lt;/color&gt; Scroll &lt;color=red&gt;Roulette de la souris&lt;/color&gt; pour plus d'options.</Value>
     </Record>
     <Record>
@@ -4030,15 +4090,15 @@ Alors sors de là, Stationeer !</Value>
       <Key>SettingsChatFadeTimer</Key>
       <Value>Délais du fondu du chat</Value>
     </Record>
-  <Record>
+	<Record>
       <Key>PromptResetSettingsTitle</Key>
       <Value>Réinitialiser les paramètres</Value>
     </Record>
-  <Record>
+	<Record>
       <Key>PromptResetSettingsBody</Key>
       <Value>Etes vous sur ?</Value>
     </Record>
-  <Record>
+	<Record>
       <Key>PromptResetSettingsConfirm</Key>
       <Value>Réinitialiser</Value>
     </Record>
@@ -4115,6 +4175,18 @@ Alors sors de là, Stationeer !</Value>
       <Value>Respawn</Value>
     </Record>
     <Record>
+	<Key>PromptGiveUpTitle</Key>
+      <Value>Give Up</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>PromptGiveUpBody</Key>
+      <Value>You are unconscious. Do you want to give up and respawn?</Value>  <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>PromptGiveUpConfirm</Key>
+      <Value>Give Up</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
       <Key>AlertInvalidIP</Key>
       <Value>Adresse IP non valide {0} \ nVérifier que l'adresse IP ou l'URL soit valide</Value>
     </Record>
@@ -4129,8 +4201,7 @@ Alors sors de là, Stationeer !</Value>
     <Record>
       <Key>AlertNoResponse</Key>
       <Value>Le serveur de jeu ne répond pas. 
-Veuillez réessayer.</Value>													   
-						 
+Veuillez réessayer.</Value>					 
     </Record>
     <Record>
       <Key>AlertKicked</Key>
@@ -4159,7 +4230,7 @@ Veuillez réessayer.</Value>
     <Record>
       <Key>AlertTitlePleaseWait</Key>
       <Value>Merci de patienter...</Value>
-    </Record>    
+    </Record>
     <Record>
       <Key>TooltipNeedMoreKit</Key>
       <Value>&lt;color=red&gt;Besoin Plus de : {0}&lt;/color&gt;.</Value>
@@ -4493,6 +4564,42 @@ Temperature {1}</Value>
       <Key>ChangeSettingToFor</Key>
       <Value>Change to &lt;color=yellow&gt;{0}&lt;/color&gt; for {1}</Value>
     </Record>
+    <Record>
+      <Key>SettingsAtmosphericScattering</Key>
+      <Value>Atmospheric Scattering</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ButtonReset</Key>
+      <Value>Reset</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ButtonClear</Key>
+      <Value>Clear</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>StatusWindowThrust</Key>
+      <Value>Thrust</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>SettingsAmbientOcclusion</Key>
+      <Value>Ambient Occlusion</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>SettingsLensFlares</Key>
+      <Value>Lens Flares</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>SettingsInputSettings</Key>
+      <Value>Input Settings</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>NewWorldAreaEuropa</Key>
+      <Value>Europa</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>SettingsTitleAudioAlerts</Key>
+      <Value>Voice Notifications</Value> <!-- Nouveau -->
+    </Record>
   </Interface>
   <Colors>
     <Record>
@@ -4594,6 +4701,6 @@ Temperature {1}</Value>
       <Key>Silicon</Key>
       <Value>Silicium</Value>
     </Record>
-  </Mineables>			 
+  </Mineables>
  <GameTip/>
 </Language>
