@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR180713 (YYMMDD) - v0.1.1496.7096 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- version FR180713.2 (YYMMDD) - v0.1.1496.7096 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->  
   <Name>French</Name>
   <Code>FR</Code>
@@ -151,7 +151,7 @@
   <Actions>
     <Record>
       <Key>Reload</Key>
-      <Value>Reload</Value> <!-- Nouveau -->
+      <Value>Recharger</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>Paint</Key>
@@ -2901,15 +2901,15 @@
     </Record>
 	<Record>
       <Key>StructureLogicReagentReader</Key>
-      <Value>Reagent Reader</Value> <!-- Nouveau -->
+      <Value>Unité Logique: Lecture Réactif</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>ItemHardSuit</Key>
-      <Value>HardSuit</Value> <!-- Nouveau -->
+      <Value>Combinaison renforcée</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>ItemHardSuitHelmet</Key>
-      <Value>HardSuit Helmet</Value> <!-- Nouveau -->
+      <Value>Casque Combinaison renforcée</Value> <!-- Nouveau -->
 	</Record>
 	</Things>
   <Slots>
@@ -3079,19 +3079,19 @@
     </Record>
     <Record>
       <Key>Magazine</Key>
-      <Value>Magazine</Value> <!-- Nouveau -->
+      <Value>Chargeur</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>ContainerSlot</Key>
-      <Value>Container Slot</Value> <!-- Nouveau -->
+      <Value>Slot conteneur</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>Plant</Key>
-      <Value>Plant</Value> <!-- Nouveau -->
+      <Value>Plante</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>Storage</Key>
-      <Value>Storage</Value> <!-- Nouveau -->
+      <Value>Stockage</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>Circuit</Key>
@@ -3421,11 +3421,11 @@
     </Record>
 	<Record>
       <Key>Access</Key>
-      <Value>Access</Value> <!-- Nouveau -->
+      <Value>Accès</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>Magazine</Key>
-      <Value>Magazine</Value> <!-- Nouveau -->
+      <Value>Chargeur</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key />
@@ -3433,19 +3433,19 @@
     </Record>
     <Record>
       <Key>TemperatureUp</Key>
-      <Value>Temperature Up</Value> <!-- Nouveau -->
+      <Value>Monter température</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>TemperatureDown</Key>
-      <Value>Temperature Down</Value> <!-- Nouveau -->
+      <Value>Baisser température</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>ThrustUp</Key>
-      <Value>Thrust Up</Value> <!-- Nouveau -->
+      <Value>Monter poussée</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>ThrustDown</Key>
-      <Value>Thrust Down</Value> <!-- Nouveau -->
+      <Value>Baisser poussée</Value> <!-- Nouveau -->
     </Record>
   </Interactables>
   <Interface>
@@ -4176,15 +4176,15 @@ Alors sors de là, Stationeer !</Value>
     </Record>
     <Record>
 	<Key>PromptGiveUpTitle</Key>
-      <Value>Give Up</Value> <!-- Nouveau -->
+      <Value>Abandonner</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>PromptGiveUpBody</Key>
-      <Value>You are unconscious. Do you want to give up and respawn?</Value>  <!-- Nouveau -->
+      <Value>Vous êtes inconscient. Voulez-vous abandonner et réapparaitre ?</Value>  <!-- Nouveau -->
     </Record>
     <Record>
       <Key>PromptGiveUpConfirm</Key>
-      <Value>Give Up</Value> <!-- Nouveau -->
+      <Value>Abandonner</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>AlertInvalidIP</Key>
@@ -4566,31 +4566,31 @@ Temperature {1}</Value>
     </Record>
     <Record>
       <Key>SettingsAtmosphericScattering</Key>
-      <Value>Atmospheric Scattering</Value> <!-- Nouveau -->
+      <Value>Dispersion atmosphérique</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>ButtonReset</Key>
-      <Value>Reset</Value> <!-- Nouveau -->
+      <Value>Réinitialiser</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>ButtonClear</Key>
-      <Value>Clear</Value> <!-- Nouveau -->
+      <Value>Effacer</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>StatusWindowThrust</Key>
-      <Value>Thrust</Value> <!-- Nouveau -->
+      <Value>Poussée</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>SettingsAmbientOcclusion</Key>
-      <Value>Ambient Occlusion</Value> <!-- Nouveau -->
+      <Value>Occlusion ambiante</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>SettingsLensFlares</Key>
-      <Value>Lens Flares</Value> <!-- Nouveau -->
+      <Value>Niveau des flares</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>SettingsInputSettings</Key>
-      <Value>Input Settings</Value> <!-- Nouveau -->
+      <Value>Paramètres d'entrée</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>NewWorldAreaEuropa</Key>
@@ -4598,7 +4598,7 @@ Temperature {1}</Value>
     </Record>
     <Record>
       <Key>SettingsTitleAudioAlerts</Key>
-      <Value>Voice Notifications</Value> <!-- Nouveau -->
+      <Value>Notifications vocales</Value> <!-- Nouveau -->
     </Record>
   </Interface>
   <Colors>
