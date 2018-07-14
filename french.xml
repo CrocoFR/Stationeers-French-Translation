@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR180713.3 (YYMMDD) - v0.1.1496.7096 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- version FR180714 (YYMMDD) - v0.1.1505.7124 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->  
   <Name>French</Name>
   <Code>FR</Code>
@@ -2429,7 +2429,7 @@
     </Record>
     <Record>
       <Key>CircuitboardAdvancedAirlockControl</Key>
-      <Value>Circuitboard Advanced Airlock Control</Value>
+      <Value>Circuit imprimé (Controle de SAS avancé)</Value>
     </Record>
     <Record>
       <Key>ItemKitOrganicsPrinter</Key>
@@ -2609,31 +2609,31 @@
     </Record>
     <Record>
       <Key>StructureWallPaddedArch</Key>
-      <Value>Mur rembourré arc</Value>
+      <Value>Mur extrudé arc</Value>
     </Record>
     <Record>
       <Key>StructureWallPaddedArchLightsFittings</Key>
-      <Value>Mur rembourré arc (rampe lumière)</Value>
+      <Value>Mur extrudé arc (rampe lumière)</Value>
     </Record>
     <Record>
       <Key>StructureWallPadding</Key>
-      <Value>Mur rembouré</Value>
+      <Value>Mur extrudé</Value>
     </Record>
     <Record>
       <Key>StructureWallPaddingArchVent</Key>
-      <Value>Mur rembourré arc (ventillation)</Value>
+      <Value>Mur extrudé arc (ventillation)</Value>
     </Record>
     <Record>
       <Key>StructureWallPaddingLightFitting</Key>
-      <Value>Mur rembourré (rampe lumière)</Value>
+      <Value>Mur extrudé (rampe lumière)</Value>
     </Record>
     <Record>
       <Key>StructureWallPaddingThin</Key>
-      <Value>Mur rembourré fin</Value>
+      <Value>Mur extrudé fin</Value>
     </Record>
     <Record>
       <Key>StructureWallPlating</Key>
-      <Value>Mur rembouré</Value>
+      <Value>Mur plat</Value>
     </Record>
     <Record>
       <Key>StructureWallSimple</Key>
@@ -2681,7 +2681,7 @@
     </Record>
     <Record>
       <Key>ItemKitWallPadded</Key>
-      <Value>Kit (Mur rembouré)</Value>
+      <Value>Kit (Mur extrudé)</Value>
     </Record>
     <Record>
       <Key>StructureLadder</Key>
@@ -2901,7 +2901,7 @@
     </Record>
 	<Record>
       <Key>StructureLogicReagentReader</Key>
-      <Value>Unité Logique: Lecture Réactif</Value> <!-- Nouveau -->
+      <Value>Unité Logique: Lecture de contenu</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>ItemHardSuit</Key>
@@ -3428,8 +3428,8 @@
       <Value>Chargeur</Value> <!-- Nouveau -->
     </Record>
     <Record>
-      <Key />
-      <Value />
+      <Key/>
+      <Value/>
     </Record>
     <Record>
       <Key>TemperatureUp</Key>
