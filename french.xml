@@ -2908,7 +2908,7 @@
       <Value>Combinaison renforcée</Value> <!-- Nouveau -->
     </Record>
     <Record>
-      <Key>ItemHardSuitHelmet</Key>
+      <Key>ItemHardsuitHelmet</Key>
       <Value>Casque Combinaison renforcée</Value> <!-- Nouveau -->
 	</Record>
 	</Things>
