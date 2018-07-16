@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR180714 (YYMMDD) - v0.1.1505.7124 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- version FR180716 (YYMMDD) - v0.1.1508.7137 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->  
   <Name>French</Name>
   <Code>FR</Code>
@@ -151,7 +151,7 @@
   <Actions>
     <Record>
       <Key>Reload</Key>
-      <Value>Recharger</Value> <!-- Nouveau -->
+      <Value>Recharger</Value>
     </Record>
     <Record>
       <Key>Paint</Key>
@@ -1884,10 +1884,6 @@
       <Value>Kit (Fabrication)</Value>
     </Record>
     <Record>
-      <Key>ItemPipeKit</Key>
-      <Value>Kit de Tuyau</Value>
-    </Record>
-    <Record>
       <Key>ItemKitPipe</Key>
       <Value>Kit (Tuyau)</Value>
     </Record>
@@ -2209,7 +2205,7 @@
     </Record>
     <Record>
       <Key>StructureLogicMathUnary</Key>
-      <Value>Fonction Mathématique</Value>
+      <Value>Unité Logique: Fonction Mathématique</Value>
     </Record>
     <Record>
       <Key>StructureRecycler</Key>
@@ -2878,6 +2874,10 @@
     <Record>
       <Key>ItemDynamicAirCon</Key>
       <Value>Kit (Climatiseur portable)</Value>
+	</Record>
+    <Record>
+      <Key>ItemKitPipeValve</Key>
+      <Value>Item Kit Pipe Valve</Value>  <!-- Nouveau -->
     </Record>
     <Record>
       <Key>ItemKitDynamicGenerator</Key>
@@ -2901,16 +2901,20 @@
     </Record>
 	<Record>
       <Key>StructureLogicReagentReader</Key>
-      <Value>Unité Logique: Lecture de contenu</Value> <!-- Nouveau -->
+      <Value>Unité Logique: Lecture de contenu</Value>
     </Record>
     <Record>
       <Key>ItemHardSuit</Key>
-      <Value>Combinaison renforcée</Value> <!-- Nouveau -->
+      <Value>Combinaison renforcée</Value>
     </Record>
     <Record>
       <Key>ItemHardsuitHelmet</Key>
-      <Value>Casque Combinaison renforcée</Value> <!-- Nouveau -->
+      <Value>Casque Combinaison renforcée</Value>
 	</Record>
+ <Record>
+      <Key>ItemWearLamp</Key>
+      <Value>Headlamp</Value> <!-- Nouveau -->
+    </Record>
 	</Things>
   <Slots>
     <Record>
@@ -3079,23 +3083,23 @@
     </Record>
     <Record>
       <Key>Magazine</Key>
-      <Value>Chargeur</Value> <!-- Nouveau -->
+      <Value>Chargeur</Value> 
     </Record>
     <Record>
       <Key>ContainerSlot</Key>
-      <Value>Slot conteneur</Value> <!-- Nouveau -->
+      <Value>Slot conteneur</Value> 
     </Record>
     <Record>
       <Key>Plant</Key>
-      <Value>Plante</Value> <!-- Nouveau -->
+      <Value>Plante</Value> 
     </Record>
     <Record>
       <Key>Storage</Key>
-      <Value>Stockage</Value> <!-- Nouveau -->
+      <Value>Stockage</Value> 
     </Record>
     <Record>
       <Key>Circuit</Key>
-      <Value>Circuit</Value> <!-- Nouveau -->
+      <Value>Circuit</Value> 
     </Record>
   </Slots>
   <Interactables>
@@ -3421,11 +3425,11 @@
     </Record>
 	<Record>
       <Key>Access</Key>
-      <Value>Accès</Value> <!-- Nouveau -->
+      <Value>Accès</Value> 
     </Record>
     <Record>
       <Key>Magazine</Key>
-      <Value>Chargeur</Value> <!-- Nouveau -->
+      <Value>Chargeur</Value> 
     </Record>
     <Record>
       <Key/>
@@ -3433,19 +3437,19 @@
     </Record>
     <Record>
       <Key>TemperatureUp</Key>
-      <Value>Monter température</Value> <!-- Nouveau -->
+      <Value>Monter température</Value> 
     </Record>
     <Record>
       <Key>TemperatureDown</Key>
-      <Value>Baisser température</Value> <!-- Nouveau -->
+      <Value>Baisser température</Value> 
     </Record>
     <Record>
       <Key>ThrustUp</Key>
-      <Value>Monter poussée</Value> <!-- Nouveau -->
+      <Value>Monter poussée</Value> 
     </Record>
     <Record>
       <Key>ThrustDown</Key>
-      <Value>Baisser poussée</Value> <!-- Nouveau -->
+      <Value>Baisser poussée</Value> 
     </Record>
   </Interactables>
   <Interface>
@@ -4176,15 +4180,15 @@ Alors sors de là, Stationeer !</Value>
     </Record>
     <Record>
 	<Key>PromptGiveUpTitle</Key>
-      <Value>Abandonner</Value> <!-- Nouveau -->
+      <Value>Abandonner</Value> 
     </Record>
     <Record>
       <Key>PromptGiveUpBody</Key>
-      <Value>Vous êtes inconscient. Voulez-vous abandonner et réapparaitre ?</Value>  <!-- Nouveau -->
+      <Value>Vous êtes inconscient. Voulez-vous abandonner et réapparaitre ?</Value>  
     </Record>
     <Record>
       <Key>PromptGiveUpConfirm</Key>
-      <Value>Abandonner</Value> <!-- Nouveau -->
+      <Value>Abandonner</Value> 
     </Record>
     <Record>
       <Key>AlertInvalidIP</Key>
@@ -4566,39 +4570,47 @@ Temperature {1}</Value>
     </Record>
     <Record>
       <Key>SettingsAtmosphericScattering</Key>
-      <Value>Diffusion atmosphérique</Value> <!-- Nouveau -->
+      <Value>Diffusion atmosphérique</Value> 
     </Record>
     <Record>
       <Key>ButtonReset</Key>
-      <Value>Réinitialiser</Value> <!-- Nouveau -->
+      <Value>Réinitialiser</Value> 
     </Record>
     <Record>
       <Key>ButtonClear</Key>
-      <Value>Effacer</Value> <!-- Nouveau -->
+      <Value>Effacer</Value> 
     </Record>
     <Record>
       <Key>StatusWindowThrust</Key>
-      <Value>Poussée</Value> <!-- Nouveau -->
+      <Value>Poussée</Value> 
     </Record>
     <Record>
       <Key>SettingsAmbientOcclusion</Key>
-      <Value>Occlusion ambiante</Value> <!-- Nouveau -->
+      <Value>Occlusion ambiante</Value> 
     </Record>
     <Record>
       <Key>SettingsLensFlares</Key>
-      <Value>Effet lentille lumineuse</Value> <!-- Nouveau -->
+      <Value>Effet lentille lumineuse</Value> 
     </Record>
     <Record>
       <Key>SettingsInputSettings</Key>
-      <Value>Paramètres d'entrée</Value> <!-- Nouveau -->
+      <Value>Paramètres d'entrée</Value> 
     </Record>
     <Record>
       <Key>NewWorldAreaEuropa</Key>
-      <Value>Europa</Value> <!-- Nouveau -->
+      <Value>Europa</Value> 
     </Record>
     <Record>
       <Key>SettingsTitleAudioAlerts</Key>
-      <Value>Notifications vocales</Value> <!-- Nouveau -->
+      <Value>Notifications vocales</Value> 
+	</Record>
+    <Record>
+      <Key>InventoryCloseAll</Key>
+      <Value>Close All</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ButtonResetWindows</Key>
+      <Value>Reset Windows</Value>  <!-- Nouveau -->
     </Record>
   </Interface>
   <Colors>
