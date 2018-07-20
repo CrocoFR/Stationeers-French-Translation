@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR180720 (YYMMDD) - v0.1.1544.7268 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- version FR180720.1 (YYMMDD) - v0.1.1544.7268 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->  
   <Name>French</Name>
   <Code>FR</Code>
@@ -2922,59 +2922,59 @@
     </Record>
 	<Record>
       <Key>StructureTurbineGenerator</Key>
-      <Value>Turbine Generator</Value> <!-- Nouveau -->
+      <Value>Générateur à Turbine</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>ItemKitTurbineGenerator</Key>
-      <Value>Kit (Turbine Generator)</Value> <!-- Nouveau -->
+      <Value>Kit (Générateur à Turbine)</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>ReagentSilver</Key>
-      <Value>Silver Powder</Value> <!-- Nouveau -->
+      <Value>Poudre d'argent</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>ReagentPotassiumIodide</Key>
-      <Value>Potassium Iodide Powder</Value> <!-- Nouveau -->
+      <Value>Pourdre de iodure de Potassium</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>ReagentInvar</Key>
-      <Value>Invar Powder</Value> <!-- Nouveau -->
+      <Value>Poudre d'Invar</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>ReagentElectrum</Key>
-      <Value>Electrum Powder</Value> <!-- Nouveau -->
+      <Value>Poudre d'Electrum</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>ReagentGold</Key>
-      <Value>Gold Powder</Value> <!-- Nouveau -->
+      <Value>Poudre d'Or</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>StructureUnloader</Key>
-      <Value>Unloader</Value> <!-- Nouveau -->
+      <Value>Déchargeur</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>ReagentFenoxitone</Key>
-      <Value>Fenoxitone Powder</Value> <!-- Nouveau -->
+      <Value>Poudre de Fenoxitone</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>StructurePlatformLadderOpen</Key>
-      <Value>Ladder Platform</Value> <!-- Nouveau -->
+      <Value>Platforme d'échelle</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>StructureLadderEnd</Key>
-      <Value>Ladder End</Value> <!-- Nouveau -->
+      <Value>Fin d'échelle</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>StructureLockerSmall</Key>
-      <Value>Locker (Small)</Value> <!-- Nouveau -->
+      <Value>Placard (Petit)</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>StructureLogicBatchSlotReader</Key>
-      <Value>Batch Slot Reader</Value> <!-- Nouveau -->
+      <Value>Unité Logique: Lecture Slot groupés</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>CircuitboardAdvAirlockControl</Key>
-      <Value>Circuitboard (Advanced Airlock)</Value> <!-- Nouveau -->
+      <Value>Circuit imprimé (SAS amélioré)</Value> <!-- Nouveau -->
     </Record>
 	</Things>
   <Slots>
@@ -4675,35 +4675,35 @@ Temperature {1}</Value>
     </Record>
     <Record>
       <Key>ConnectionFiltered</Key>
-      <Value>Filtered</Value> <!-- Nouveau -->
+      <Value>Filtré</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>ConnectionUnfiltered</Key>
-      <Value>Unfiltered</Value> <!-- Nouveau -->
+      <Value>Non filtré</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>ConnectionInput</Key>
-      <Value>Input</Value> <!-- Nouveau -->
+      <Value>Entrée</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>ConnectionOutput</Key>
-      <Value>Output</Value> <!-- Nouveau -->
+      <Value>Sortie</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>ConnectionWaste</Key>
-      <Value>Waste</Value> <!-- Nouveau -->
+      <Value>Déchets</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>ConnectionBreathing</Key>
-      <Value>Breathing</Value> <!-- Nouveau -->
+      <Value>Respiration</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>ConnectionPropellant</Key>
-      <Value>Propellant</Value> <!-- Nouveau -->
+      <Value>Propergol</Value> <!-- Nouveau -->
     </Record>
     <Record>
       <Key>SettingsChunkRenderDistance</Key>
-      <Value>Chunk Render Distance</Value> <!-- Nouveau -->
+      <Value>Distance de rendu</Value> <!-- Nouveau -->
     </Record>
   </Interface>
   <Colors>
