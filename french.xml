@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR180726 (YYMMDD) - v0.1.1549.7283 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- version FR180726.1 (YYMMDD) - v0.1.1549.7283 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->  
   <Name>French</Name>
   <Code>FR</Code>
@@ -2850,7 +2850,7 @@
     </Record>
     <Record>
       <Key>StructureDiodeSlide</Key>
-      <Value>Diode</Value>
+      <Value>Bargraphe à LED</Value>
     </Record>
 	  <Record>
       <Key>ItemGasCanisterSmart</Key>
