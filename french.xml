@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR180721 (YYMMDD) - v0.1.1549.7283 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- version FR180726 (YYMMDD) - v0.1.1549.7283 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->  
   <Name>French</Name>
   <Code>FR</Code>
@@ -1586,7 +1586,7 @@
     </Record>
     <Record>
       <Key>StructureLocker</Key>
-      <Value>Placard</Value>
+      <Value>Casier</Value>
     </Record>
     <Record>
       <Key>StructureMotionSensor</Key>
@@ -2010,7 +2010,7 @@
     </Record>
     <Record>
       <Key>StructureStorageLocker</Key>
-      <Value>Placard</Value>
+      <Value>Casier</Value>
     </Record>
     <Record>
       <Key>SpawnPoint</Key>
@@ -2038,7 +2038,7 @@
     </Record>
     <Record>
       <Key>ItemKitLocker</Key>
-      <Value>Kit (Placard)</Value>
+      <Value>Kit (Casier)</Value>
     </Record>
     <Record>
       <Key>ItemKitEngineSmall</Key>
@@ -2966,7 +2966,7 @@
     </Record>
     <Record>
       <Key>StructureLockerSmall</Key>
-      <Value>Placard (Petit)</Value> 
+      <Value>Casier (Petit)</Value> 
     </Record>
     <Record>
       <Key>StructureLogicBatchSlotReader</Key>
@@ -3880,11 +3880,11 @@
     </Record>
     <Record>
       <Key>SettingsShadowResolution</Key>
-      <Value>Résolution des ombre</Value>
+      <Value>Résolution des ombres</Value>
     </Record>
     <Record>
       <Key>SettingsShadowDistamce</Key>
-      <Value>Distance des ombre</Value>
+      <Value>Distance des ombres</Value>
     </Record>
     <Record>
       <Key>SettingsEnvElements</Key>
@@ -3932,7 +3932,7 @@
     </Record>
     <Record>
       <Key>NotificationTitle</Key>
-      <Value>Sauvegarde réussite</Value>
+      <Value>Sauvegarde réussie</Value>
     </Record>
     <Record>
       <Key>AlertButtonClose</Key>
@@ -4133,7 +4133,7 @@ Alors sors de là, Stationeer !</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFace</Key>
-      <Value>L emplacement est aligné sur les faces de la grille.</Value>
+      <Value>L'emplacement est aligné sur les faces de la grille.</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMount</Key>
@@ -4536,7 +4536,7 @@ Veuillez réessayer.</Value>
       <Key>NewWorldMoonDesc</Key>
       <Value>Alors vous êtes coincé sur la lune, mais tout n'est pas perdu...
 Bien sûr, il y fait froid, rude et monotone, mais au moins le soleil brille. Le panneau solaire va vous être utile, ainsi que le contrôleur de puissance ... et aussi le four à arc.	  
-Il y a même un peu de nourriture et d'oxygène dans les autres caisses, même si ça ne va pas durer éternellement... ni votre batterie...
+Il y a même un peu de nourriture et d'oxygène dans les autres caisses, même si ça ne va pas durer éternellement... tout comme votre batterie...
 Vous feriez mieux de commencer à réfléchir comment vous aller survivre. À quel point cela pourrait être difficile de gréer un SAS ? Un générateur ? Peut-être même faire fondre du minerai et construire votre base ?
 On dirait que vous allez être ici un moment.</Value>
     </Record>
@@ -4639,11 +4639,11 @@ Temperature {1}</Value>
     </Record>
     <Record>
       <Key>HoldForPreviousObject</Key>
-      <Value>Maintenir {KEY:QuantityModifier} pour le précédant objet</Value>
+      <Value>Maintenir {KEY:QuantityModifier} pour l'objet précédent</Value>
     </Record>
     <Record>
       <Key>ChangeSettingToFor</Key>
-      <Value>Change to &lt;color=yellow&gt;{0}&lt;/color&gt; for {1}</Value>
+      <Value>Changer en {0} pour {1}</Value>
     </Record>
     <Record>
       <Key>SettingsAtmosphericScattering</Key>
