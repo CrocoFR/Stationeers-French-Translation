@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR180726.1 (YYMMDD) - v0.1.1549.7283 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- version FR180728 (YYMMDD) - v0.1.1564.7373 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->  
   <Name>French</Name>
   <Code>FR</Code>
@@ -124,6 +124,31 @@
     <RecordReagent>
       <Key>Fenoxitone</Key>
       <Value>Fenoxitone</Value> 
+      <Unit>g</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>ColorRed</Key>
+      <Value>Coloration rouge</Value> <!-- Nouveau -->
+      <Unit>g</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>ColorGreen</Key>
+      <Value>Coloration verte</Value> <!-- Nouveau -->
+      <Unit>g</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>ColorBlue</Key>
+      <Value>Coloration bleue</Value> <!-- Nouveau -->
+      <Unit>g</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>ColorYellow</Key>
+      <Value>Coloration jaune</Value> <!-- Nouveau -->
+      <Unit>g</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>ColorOrange</Key>
+      <Value>Coloration orange</Value> <!-- Nouveau -->
       <Unit>g</Unit>
     </RecordReagent>
   </Reagents>
@@ -2978,25 +3003,121 @@
     </Record>
 	<Record>
       <Key>ItemKitPressurePlate</Key>
-      <Value>Kit (Plaque de déclenchement)</Value> <!-- Nouveau -->
+      <Value>Kit (Plaque de déclenchement)</Value>
     </Record>
     <Record>
       <Key>StructurePressurePlateLarge</Key>
-      <Value>Plaque de déclenchement (Grande)</Value> <!-- Nouveau -->
+      <Value>Plaque de déclenchement (Grande)</Value>
     </Record>
     <Record>
       <Key>StructurePressurePlateMedium</Key>
-      <Value>Plaque de déclenchement (Moyenne)</Value> <!-- Nouveau -->
+      <Value>Plaque de déclenchement (Moyenne)</Value>
     </Record>
     <Record>
       <Key>StructurePressurePlateSmall</Key>
-      <Value>Plaque de déclenchement (Petite)</Value> <!-- Nouveau -->
+      <Value>Plaque de déclenchement (Petite)</Value>
     </Record>
     <Record>
       <Key>ItemKitDynamicCanister</Key>
-      <Value>Kit (Réservoir portable)</Value> <!-- Nouveau -->
+      <Value>Kit (Réservoir portable)</Value>
     </Record>
-	</Things>
+<Record>
+      <Key>ItemFlowerBlue</Key>
+      <Value>Fleur (Bleu)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemFlowerOrange</Key>
+      <Value>Fleur (Orange)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemFlowerRed</Key>
+      <Value>Fleur (Rouge)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemFlowerYellow</Key>
+      <Value>Fleur (Jaune)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>AppliancePaintMixer</Key>
+      <Value>Mélangeur de peinture</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ReagentColorBlue</Key>
+      <Value>Colorant (Bleu)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ReagentCarbon</Key>
+      <Value>Poudre de carbone</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ReagentColorGreen</Key>
+      <Value>Colorant (Vert)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ReagentColorOrange</Key>
+      <Value>Colorant(Orange)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ReagentColorRed</Key>
+      <Value>Colorant (Rouge)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ReagentColorYellow</Key>
+      <Value>Colorant (Jaune)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemFlowerGreen</Key>
+      <Value>Fleur (Verte)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemGasFilterCarbonDioxideL</Key>
+      <Value>Grand Filtre (CO2)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemGasFilterCarbonDioxideM</Key>
+      <Value>Filtre moyen (CO2)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemGasFilterNitrogenL</Key>
+      <Value>Grand Filtre (Azote)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemGasFilterNitrogenM</Key>
+      <Value>Filtre moyen (Azote)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemGasFilterOxygenL</Key>
+      <Value>Grand Filtre (Oxygène)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemGasFilterOxygenM</Key>
+      <Value>Filtre moyen (Oxygène)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemGasFilterPollutantsL</Key>
+      <Value>Grand Filtre (Polluant)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemGasFilterPollutantsM</Key>
+      <Value>Filtre moyen (Polluant)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemGasFilterVolatilesL</Key>
+      <Value>Grand Filtre (Volatiles)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemGasFilterVolatilesM</Key>
+      <Value>Filtre moyen (Volatiles)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemGasFilterWaterL</Key>
+      <Value>Grand Filtre (Eau)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemGasFilterWaterM</Key>
+      <Value>Filtre moyen (Eau)</Value> <!-- Nouveau -->
+    </Record>
+  </Things>
   <Slots>
     <Record>
       <Key>Output</Key>
@@ -4720,6 +4841,18 @@ Temperature {1}</Value>
     <Record>
       <Key>SettingsChunkRenderDistance</Key>
       <Value>Distance de rendu</Value> 
+    </Record>
+ <Record>
+      <Key>ScenarioScoreboardBackToMenu</Key>
+      <Value>Sortir vers le menu</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ScenarioScoreboardReturnToGame</Key>
+      <Value>Revenir en jeu</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ScenarioScoreboardHeading</Key>
+      <Value>Scénario terminé</Value> <!-- Nouveau -->
     </Record>
   </Interface>
   <Colors>
