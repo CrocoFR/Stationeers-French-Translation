@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR180728 (YYMMDD) - v0.1.1564.7373 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- version FR180810 (YYMMDD) - v0.1.1586.7476 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->  
   <Name>French</Name>
   <Code>FR</Code>
@@ -149,6 +149,16 @@
     <RecordReagent>
       <Key>ColorOrange</Key>
       <Value>Coloration orange</Value> <!-- Nouveau -->
+      <Unit>g</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Pimpkin</Key>
+      <Value>Citrouille</Value>
+      <Unit/>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Rice</Key>
+      <Value>Riz</Value>
       <Unit>g</Unit>
     </RecordReagent>
   </Reagents>
@@ -3116,6 +3126,22 @@
     <Record>
       <Key>ItemGasFilterWaterM</Key>
       <Value>Filtre moyen (Eau)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemMushroom</Key>
+      <Value>Cahmpignon</Value>
+    </Record>
+    <Record>
+      <Key>ItemPumpkin</Key>
+      <Value>Citrouille</Value>
+    </Record>
+    <Record>
+      <Key>ItemRice</Key>
+      <Value>Riz</Value>
+    </Record>
+    <Record>
+      <Key>ItemPumpkinPie</Key>
+      <Value>tarte citrouille</Value>
     </Record>
   </Things>
   <Slots>
