@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR180810 (YYMMDD) - v0.1.1586.7476 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- version FR180818 (YYMMDD) - v0.1.1603.7531 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->  
   <Name>French</Name>
   <Code>FR</Code>
@@ -128,27 +128,27 @@
     </RecordReagent>
     <RecordReagent>
       <Key>ColorRed</Key>
-      <Value>Coloration rouge</Value> <!-- Nouveau -->
+      <Value>Coloration rouge</Value> 
       <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>ColorGreen</Key>
-      <Value>Coloration verte</Value> <!-- Nouveau -->
+      <Value>Coloration verte</Value> 
       <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>ColorBlue</Key>
-      <Value>Coloration bleue</Value> <!-- Nouveau -->
+      <Value>Coloration bleue</Value> 
       <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>ColorYellow</Key>
-      <Value>Coloration jaune</Value> <!-- Nouveau -->
+      <Value>Coloration jaune</Value> 
       <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>ColorOrange</Key>
-      <Value>Coloration orange</Value> <!-- Nouveau -->
+      <Value>Coloration orange</Value> 
       <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
@@ -3033,99 +3033,99 @@
     </Record>
 <Record>
       <Key>ItemFlowerBlue</Key>
-      <Value>Fleur (Bleu)</Value> <!-- Nouveau -->
+      <Value>Fleur (Bleu)</Value> 
     </Record>
     <Record>
       <Key>ItemFlowerOrange</Key>
-      <Value>Fleur (Orange)</Value> <!-- Nouveau -->
+      <Value>Fleur (Orange)</Value> 
     </Record>
     <Record>
       <Key>ItemFlowerRed</Key>
-      <Value>Fleur (Rouge)</Value> <!-- Nouveau -->
+      <Value>Fleur (Rouge)</Value> 
     </Record>
     <Record>
       <Key>ItemFlowerYellow</Key>
-      <Value>Fleur (Jaune)</Value> <!-- Nouveau -->
+      <Value>Fleur (Jaune)</Value> 
     </Record>
     <Record>
       <Key>AppliancePaintMixer</Key>
-      <Value>Mélangeur de peinture</Value> <!-- Nouveau -->
+      <Value>Mélangeur de peinture</Value> 
     </Record>
     <Record>
       <Key>ReagentColorBlue</Key>
-      <Value>Colorant (Bleu)</Value> <!-- Nouveau -->
+      <Value>Colorant (Bleu)</Value> 
     </Record>
     <Record>
       <Key>ReagentCarbon</Key>
-      <Value>Poudre de carbone</Value> <!-- Nouveau -->
+      <Value>Poudre de carbone</Value> 
     </Record>
     <Record>
       <Key>ReagentColorGreen</Key>
-      <Value>Colorant (Vert)</Value> <!-- Nouveau -->
+      <Value>Colorant (Vert)</Value> 
     </Record>
     <Record>
       <Key>ReagentColorOrange</Key>
-      <Value>Colorant(Orange)</Value> <!-- Nouveau -->
+      <Value>Colorant(Orange)</Value> 
     </Record>
     <Record>
       <Key>ReagentColorRed</Key>
-      <Value>Colorant (Rouge)</Value> <!-- Nouveau -->
+      <Value>Colorant (Rouge)</Value> 
     </Record>
     <Record>
       <Key>ReagentColorYellow</Key>
-      <Value>Colorant (Jaune)</Value> <!-- Nouveau -->
+      <Value>Colorant (Jaune)</Value> 
     </Record>
     <Record>
       <Key>ItemFlowerGreen</Key>
-      <Value>Fleur (Verte)</Value> <!-- Nouveau -->
+      <Value>Fleur (Verte)</Value> 
     </Record>
     <Record>
       <Key>ItemGasFilterCarbonDioxideL</Key>
-      <Value>Grand Filtre (CO2)</Value> <!-- Nouveau -->
+      <Value>Grand Filtre (CO2)</Value> 
     </Record>
     <Record>
       <Key>ItemGasFilterCarbonDioxideM</Key>
-      <Value>Filtre moyen (CO2)</Value> <!-- Nouveau -->
+      <Value>Filtre moyen (CO2)</Value> 
     </Record>
     <Record>
       <Key>ItemGasFilterNitrogenL</Key>
-      <Value>Grand Filtre (Azote)</Value> <!-- Nouveau -->
+      <Value>Grand Filtre (Azote)</Value> 
     </Record>
     <Record>
       <Key>ItemGasFilterNitrogenM</Key>
-      <Value>Filtre moyen (Azote)</Value> <!-- Nouveau -->
+      <Value>Filtre moyen (Azote)</Value> 
     </Record>
     <Record>
       <Key>ItemGasFilterOxygenL</Key>
-      <Value>Grand Filtre (Oxygène)</Value> <!-- Nouveau -->
+      <Value>Grand Filtre (Oxygène)</Value> 
     </Record>
     <Record>
       <Key>ItemGasFilterOxygenM</Key>
-      <Value>Filtre moyen (Oxygène)</Value> <!-- Nouveau -->
+      <Value>Filtre moyen (Oxygène)</Value> 
     </Record>
     <Record>
       <Key>ItemGasFilterPollutantsL</Key>
-      <Value>Grand Filtre (Polluant)</Value> <!-- Nouveau -->
+      <Value>Grand Filtre (Polluant)</Value> 
     </Record>
     <Record>
       <Key>ItemGasFilterPollutantsM</Key>
-      <Value>Filtre moyen (Polluant)</Value> <!-- Nouveau -->
+      <Value>Filtre moyen (Polluant)</Value> 
     </Record>
     <Record>
       <Key>ItemGasFilterVolatilesL</Key>
-      <Value>Grand Filtre (Volatiles)</Value> <!-- Nouveau -->
+      <Value>Grand Filtre (Volatiles)</Value> 
     </Record>
     <Record>
       <Key>ItemGasFilterVolatilesM</Key>
-      <Value>Filtre moyen (Volatiles)</Value> <!-- Nouveau -->
+      <Value>Filtre moyen (Volatiles)</Value> 
     </Record>
     <Record>
       <Key>ItemGasFilterWaterL</Key>
-      <Value>Grand Filtre (Eau)</Value> <!-- Nouveau -->
+      <Value>Grand Filtre (Eau)</Value> 
     </Record>
     <Record>
       <Key>ItemGasFilterWaterM</Key>
-      <Value>Filtre moyen (Eau)</Value> <!-- Nouveau -->
+      <Value>Filtre moyen (Eau)</Value> 
     </Record>
     <Record>
       <Key>ItemMushroom</Key>
@@ -3143,7 +3143,31 @@
       <Key>ItemPumpkinPie</Key>
       <Value>tarte citrouille</Value>
     </Record>
-  </Things>
+    <Record>
+      <Key>ItemHardBackpack</Key>
+      <Value>Sac à dos renforcé</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemHardJetpack</Key>
+      <Value>Jetpack renforcé</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>DynamicHydroponics</Key>
+      <Value>Station Hydroponique portable</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemKitDynamicHydroponics</Key>
+      <Value>Kit (Station Hydroponique portable)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>StructureKlaxon</Key>
+      <Value>Haut-Parleur</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemKitSpeaker</Key>
+      <Value>Kit (Haut Parleur)</Value> <!-- Nouveau -->
+    </Record>
+	</Things>
   <Slots>
     <Record>
       <Key>Output</Key>
@@ -4870,15 +4894,15 @@ Temperature {1}</Value>
     </Record>
  <Record>
       <Key>ScenarioScoreboardBackToMenu</Key>
-      <Value>Sortir vers le menu</Value> <!-- Nouveau -->
+      <Value>Sortir vers le menu</Value> 
     </Record>
     <Record>
       <Key>ScenarioScoreboardReturnToGame</Key>
-      <Value>Revenir en jeu</Value> <!-- Nouveau -->
+      <Value>Revenir en jeu</Value> 
     </Record>
     <Record>
       <Key>ScenarioScoreboardHeading</Key>
-      <Value>Scénario terminé</Value> <!-- Nouveau -->
+      <Value>Scénario terminé</Value> 
     </Record>
   </Interface>
   <Colors>
