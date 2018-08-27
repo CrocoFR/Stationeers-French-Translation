@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<!-- version FR180827 (YYMMDD) - v0.1.1603.7531 - Updated by Mustard and CrocoFR - Based from version Totor -->
+<!-- https://github.com/CrocoFR/Stationeers-French-Translation -->  
   <Name>French</Name>
   <Code>FR</Code>
   <Font>font_extended</Font> <!-- Permet l'ajout des accents ^^ -->
   <Interface>
   	<Record>
       <Key>EscapeFromMarsTitle</Key>
-      <Value>S'échaper de Mars</Value>
+      <Value>S'échapper de Mars</Value>
     </Record>
 	<Record>
       <Key>EscapeFromMarsDescription</Key>
@@ -19,7 +21,7 @@
     </Record>
 	<Record>
       <Key>MarsDescInCaseOfEmergency</Key>
-      <Value>Votre costume est endommagé et vous devez trouver de la nourriture.</Value>
+      <Value>Votre combinaison est endommagé et vous devez trouver de la nourriture.</Value>
     </Record>
 	<Record>
       <Key>MarsTaskGetTape</Key>
@@ -35,11 +37,11 @@
     </Record> 	
 	<Record>
       <Key>MarsTabletStage1Page1</Key>
-      <Value>PAGE 1 sur 2 \NE CEDEZ PAS A LA PANIQUE.\n\nSi vous lisez ceci, vous avez survécu à l'évacuation - félicitations. Quel que soit votre environnement, votre première prioritée est de vérifier votre santée et celle de votre entourage. Assurez-vous de vérifier l'intégritée de la combinaison, de reconnaitre l'environnement dans lequel vous vous trouvez et protéger l'approvisionnement en air que vous avez est crucial.</Value>
+      <Value>PAGE 1 sur 2 \NE CEDEZ PAS A LA PANIQUE.\n\nSi vous lisez ceci, vous avez survécu à l'évacuation - félicitations. Quel que soit votre environnement, votre première priorité est de vérifier votre santé et celle de votre entourage. Assurez-vous de vérifier l'intégrité de la combinaison, de reconnaitre l'environnement dans lequel vous vous trouvez et protéger l'approvisionnement en air que vous avez est crucial.</Value>
     </Record> 
 	<Record>
       <Key>MarsTabletStage1Page2</Key>
-      <Value>PAGE 2 sur 2 \nSi vous êtes à proximité d'une nacelle d'évacuation intacte et d'une caisse d'approvisionnement attachée, vous devriez avoir des fournitures essentielles pour vous aider à attendre le sauvetage. Sinon, recherchez alors les survivants. Vous devez être sûr de noter l’emplacement ou la collecte des fournitures qui seront de la plus haute importance pour votre survie, comme la nourriture, les piles, le matériel utilitaire comme le ruban adhésif et l’équipement de survie portable.\n</Value>
+      <Value>PAGE 2 sur 2 \nSi vous êtes à proximité d'une nacelle d'évacuation intacte et d'une caisse d'approvisionnement, vous devriez avoir des fournitures essentielles pour vous aider à attendre le sauvetage. Sinon, recherchez alors les survivants. Vous devez être sûr de noter l’emplacement ou la collecte des fournitures qui seront de la plus haute importance pour votre survie, comme la nourriture, les piles, le matériel utilitaire comme le ruban adhésif et l’équipement de survie portable.\n</Value>
     </Record> 
 
 	<!-- Mission Stage: Aquire Raw Materials -->
@@ -69,23 +71,23 @@
     </Record>
 	<Record>
       <Key>MarsTabletStage2Page1</Key>
-      <Value>PAGE 1 sur 5 \nMENDIER, CREUSER ou VOLERn\nHeureusement, nos outils de fabrication connaissent toutes les recettes dont vous aurez probablement besoin dans votre situation.  Malheureusement, ils auront besoin de matières premières pour le faire.  Ceux-ci peuvent provenir de plusieurs sources en fonction de votre situation :</Value>
+      <Value>PAGE 1 sur 5 \nMENDIER, CREUSER ou VOLERn\nHeureusement, nos outils de fabrication connaissent toutes les recettes dont vous aurez probablement besoin dans votre situation. Malheureusement, ils auront besoin de matières premières pour le faire.  Ceux-ci peuvent provenir de plusieurs sources en fonction de votre situation :</Value>
     </Record> 
 	<Record>
       <Key>MarsTabletStage2Page2</Key>
-      <Value>PAGE 2 sur 5 \nFOUILLER\n\nSi votre navire est encore largement intact, vous pouvez trouver des matériaux sous leur forme transformée, soit déjà à l'intérieur des machines de fabrication, soit stockés à proximité.</Value>
+      <Value>PAGE 2 sur 5 \nFOUILLER\n\nSi votre navire est encore largement intact, vous pouvez trouver des matériaux sous leur forme transformé, soit déjà à l'intérieur des machines de fabrication, soit stockés à proximité.</Value>
     </Record> 
 	<Record>
       <Key>MarsTabletStage2Page3</Key>
-      <Value>PAGE 3 sur 5 \nDEMANTELER\n\nSi vous êtes en mesure de trouver ou de fabriquer une meuleuse d'angle, vous devriez pouvoir l'utiliser pour démanteler une partie de l'épave du navire.  Un recycleur peut être utilisé pour les décomposer en un mélange de ses composants et une centrifugeuse les séparera pour qu'ils puissent être refondus en matériaux utilisables.</Value>
+      <Value>PAGE 3 sur 5 \nDEMANTELER\n\nSi vous êtes en mesure de trouver ou de fabriquer une meuleuse, vous devriez pouvoir l'utiliser pour démanteler une partie de l'épave du navire. Un recycleur peut être utilisé pour les décomposer en un mélange de ses composants et une centrifugeuse les séparera pour qu'ils puissent être refondus en matériaux utilisables.</Value>
     </Record> 
 	<Record>
       <Key>MarsTabletStage2Page4</Key>
-      <Value>PAGE 4 sur 5 \nEXTRAIRE\n\nTrès dépendants de votre environnement, certains navires explorateurs étaient équipés d'équipements miniers de base.  Si vous avez la chance de vous trouver quelque part avec une abondance de ressources minérales, c'est certainement une option viable.</Value>
+      <Value>PAGE 4 sur 5 \nEXTRAIRE\n\nTrès dépendants de votre environnement, certains navires explorateurs étaient équipés d'équipements miniers de base. Si vous avez la chance de vous trouver quelque part avec une abondance de ressources minérales, c'est certainement une option viable.</Value>
     </Record> 
 	<Record>
       <Key>MarsTabletStage2Page5</Key>
-      <Value>PAGE 5 sur 5\nFONDRE\n\nLa façon la plus simple de convertir les matières premières en lingots transformés prêts pour la fabrication est d'utiliser le four à arc et de lui fournir de l'énergie.  Si vous êtes limité en ressources, cela devrait probablement être votre premier investissement, car si vous ne pouvez pas récupérer suffisamment de matériaux, ce sera nécessaire pour vous assurer que vous serez en mesure de produire davantage.</Value>
+      <Value>PAGE 5 sur 5\nFONDRE\n\nLa façon la plus simple de convertir les matières premières en lingots transformés prêts pour la fabrication est d'utiliser le four à arc et de lui fournir de l'énergie. Si vous êtes limité en ressources, cela devrait probablement être votre premier investissement, car si vous ne pouvez pas récupérer suffisamment de matériaux, ce sera nécessaire pour vous assurer que vous serez en mesure de produire davantage.</Value>
     </Record> 
 	
 	<!-- Mission Stage: Setup Manufacturing -->
@@ -111,21 +113,24 @@
     </Record>
 	<Record>
       <Key>MarsTabletStage3Page1</Key>
-      <Value>PAGE 1 sur 4\nFABRICATION \nMême s'il est fort probable que les efforts de sauvetage sont déjà en cours, il peut s'écouler un certain temps avant qu'ils ne soient en mesure de vous rejoindre.  Il serait pertinent de prévoir un séjour plus long.  Vous devrez mettre en place une infrastructure de fabrication de base.  L'Autolathe est le point de départ naturel, ce qui vous permettra de construire des machines d'artisanat plus spécialisées.</Value>
+      <Value>PAGE 1 sur 5\nFABRICATION \nMême s'il est fort probable que les efforts de sauvetage sont déjà en cours, il peut s'écouler un certain temps avant qu'ils ne soient en mesure de vous rejoindre. Il serait pertinent de prévoir un séjour plus long. Vous devrez mettre en place une infrastructure de fabrication de base. Le tour automatique est le point de départ naturel, ce qui vous permettra de construire des machines d'artisanat plus spécialisées.</Value>
     </Record> 
 	<Record>
       <Key>MarsTabletStage3Page2</Key>
-      <Value>PAGE 2 sur 4 \nLE POUVOIR DE LA PERSONNE \n\nJ'espère qu'à ce stade, vous avez trouvé des piles et des moyens de les recharger.  La façon la plus simple d'alimenter un réseau est de connecter des batteries à une unité de contrôle de l'alimentation secteur.  Pour fournir l'énergie dont vous aurez besoin pour la fusion et la fabrication en vrac, vous aurez besoin de quelque chose d'un peu plus pratique.  La meilleure façon de gérer cela dépend de votre situation, mais les options incluent ;</Value>
+      <Value>PAGE 2 sur 5\nLE POUVOIR DE LA PERSONNE \n\nJ'espère qu'à ce stade, vous avez trouvé des piles et des moyens de les recharger. La façon la plus simple d'alimenter un réseau est de connecter des batteries à une unité de contrôle de l'alimentation. Pour fournir l'énergie dont vous aurez besoin pour la fusion et la fabrication en vrac, vous aurez besoin de quelque chose d'un peu plus pratique. La meilleure façon de gérer cela dépend de votre situation, mais les options incluent ;</Value>
     </Record> 
 	<Record>
       <Key>MarsTabletStage3Page3</Key>
-      <Value>PAGE 3 sur 4 \nGENERATEUR A COMBUSTIBE SOLIDE \nCela produira de l'électricité en brûlant des hydrocarbures fossilisés sous forme solide.  Le kit peut être fabriqué dans une imprimante électronique ou un Fabricator. \nGAS GENERATOR \nThis will extract energy from the combustion resulting from igniting a hydrogen/oxygen fuel mix.  Une combustion propre se traduira par une plus grande production d'énergie, mais vous devrez gérer avec soin la quantité de combustible et probablement utiliser un transformateur pour limiter la production d'énergie ou vous souffrirez de câbles surchargés.Cela produira de l'électricité en brûlant des hydrocarbures fossilisés sous forme solide.  Le kit peut être fabriqué dans une Imprimante Electronique ou un Fabricateur. \n\n>Générateur (Gaz Combustible) \n Ceci va extraire l'énergie de la combustion résultant de l'allumage d'un mélange hydrogène/oxygène.  Une combustion propre se traduira par une plus grande production d'énergie, mais vous devrez gérer avec soin la quantité de combustible et probablement utiliser un transformateur pour limiter la production d'énergie ou vos câbles risque surchargés et donc de brûler..</Value>
+      <Value>PAGE 3 sur 5 \nGENERATEUR A COMBUSTIBE SOLIDE \nCela produira de l'électricité en brûlant des hydrocarbures fossilisés sous forme solide. Le kit peut être fabriqué dans une imprimante électronique ou un fabricateur.</Value>
     </Record> 
 	<Record>
       <Key>MarsTabletStage3Page4</Key>
-      <Value>PAGE 4 sur 4 \nPANNEAUX SOLAIRES \nPanneaux solaires.  Mettez du verre dedans.  Pointer vers le soleil.  Faire le plein de puissance.  Parfait.</Value>
+      <Value>PAGE 4 of 5 \nGENERATEUR GAZ COMBUSTIBLE \nCela va extraire l'énergie de la combustion résultant de l'allumage d'un mélange hydrogène/oxygène. Une combustion propre se traduira par une plus grande production d'énergie, mais vous devrez gérer avec soin la quantité de combustion et probablement utiliser un transformateur pour limiter la production d'énergie ou vos câbles risque de brûler.</Value>
+    </Record> 
+	<Record>
+      <Key>MarsTabletStage3Page5</Key>
+      <Value>PAGE 5 of 5 \nPANNEAUX SOLAIRES \nPanneaux solaires. Une fois placé, vous devrez les compléter avec du verre, mais une fois que cela sera fait, ils généreront une quantité d'énergie nominale pendant la journée. Vous pouvez utiliser votre clé pour ajuster l'angle vertical et horizontal afin de faire face au soleil, mais à long terme, vous pouvez utiliser un circuit logique et un capteur de lumière du jour pour le suivre.</Value>
     </Record> 	
-	
 	
 	<!-- Mission Stage: Food Supply -->
 	<Record>
@@ -138,7 +143,7 @@
     </Record>
 	<Record>
       <Key>MarsDescFoodSupply</Key>
-      <Value>Nous ne savons pas combien de temps vous aurez besoin pour survivre ici.  Nous devrions préparer une source de nourriture renouvelable au cas où.</Value>
+      <Value>Nous ne savons pas combien de temps vous aurez besoin pour survivre ici. Nous devrions préparer une source de nourriture renouvelable au cas où.</Value>
     </Record>
 	<Record>
       <Key>MarsTaskPrepareAtmos</Key>
