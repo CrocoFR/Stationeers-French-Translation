@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 <!-- version FR180818 (YYMMDD) - v0.1.1603.7531 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->  
@@ -3129,7 +3129,7 @@
     </Record>
     <Record>
       <Key>ItemMushroom</Key>
-      <Value>Cahmpignon</Value>
+      <Value>Champignon</Value>
     </Record>
     <Record>
       <Key>ItemPumpkin</Key>
