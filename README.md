@@ -12,7 +12,7 @@ french.xml
 french_keys.xml
 french_tips.xml
 
-\rocketstation_Data\StreamingAssets\Scenario\EscapeFromMars\Language
+\rocketstation_Data\StreamingAssets\Scenario\EscapeFromMars\Language\
 french_mars_mission.xml
 
 N'hésitez pas à contribuer pour l'amélioration de la traduction du jeu.
