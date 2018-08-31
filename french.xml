@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR180818 (YYMMDD) - v0.1.1603.7531 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- version FR310818 (YYMMDD) - v0.1.1621.7613 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->  
   <Name>French</Name>
   <Code>FR</Code>
@@ -119,6 +119,11 @@
     <RecordReagent>
       <Key>Potato</Key>
       <Value>Pomme de terre</Value>
+      <Unit/>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Tomato</Key>
+      <Value>Tomate</Value>
       <Unit/>
     </RecordReagent>
     <RecordReagent>
@@ -3167,6 +3172,16 @@
       <Key>ItemKitSpeaker</Key>
       <Value>Kit (Haut Parleur)</Value> <!-- Nouveau -->
     </Record>
+    <Record>
+      <Key>CartridgeOreScannerColor</Key>
+      <Value>Cartouche (Scanner mineral en Couleur)</Value>
+    </Record>
+
+    <Record>
+      <Key>StructureLogicWriterSwitch</Key>
+      <Value>Interrupteur Logique d'écriture</Value>
+    </Record>
+    
 	</Things>
   <Slots>
     <Record>
