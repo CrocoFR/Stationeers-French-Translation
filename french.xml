@@ -1398,7 +1398,7 @@
     </Record>
     <Record>
       <Key>StructureBackPressureRegulator</Key>
-      <Value>Régulateur de Pression Arriére</Value>
+      <Value>Régulateur de pression arrière</Value>
     </Record>
     <Record>
       <Key>StructureBattery</Key>
