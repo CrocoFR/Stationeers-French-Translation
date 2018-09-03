@@ -208,7 +208,7 @@
     </Record>
     <Record>
       <Key>Swap</Key>
-      <Value>Échanger</Value>
+      <Value>Echanger</Value>
     </Record>
     <Record>
       <Key>Clear</Key>
@@ -714,7 +714,7 @@
     </Record>
     <Record>
       <Key>DynamicScrubber</Key>
-      <Value>Épurateur d'air portable</Value>
+      <Value>Epurateur d'air portable</Value>
     </Record>
     <Record>
       <Key>EffectSplatEgg</Key>
@@ -1094,11 +1094,11 @@
     </Record>
     <Record>
       <Key>ItemLabeller</Key>
-      <Value>Étiqueteuse</Value>
+      <Value>Etiqueteuse</Value>
     </Record>
     <Record>
       <Key>ItemLightSword</Key>
-      <Value>Épée laser</Value>
+      <Value>Epée laser</Value>
     </Record>
     <Record>
       <Key>ItemMilk</Key>
@@ -1202,7 +1202,7 @@
     </Record>
     <Record>
       <Key>ItemRoadFlare</Key>
-      <Value>Fusée Éclairante</Value>
+      <Value>Fusée Eclairante</Value>
     </Record>
     <Record>
       <Key>ItemRTG</Key>
@@ -2030,7 +2030,7 @@
     </Record>
     <Record>
       <Key>StructureElectronicsPrinter</Key>
-      <Value>Imprimante Électronique</Value>
+      <Value>Imprimante Electronique</Value>
     </Record>
     <Record>
       <Key>ItemVolatiles</Key>
@@ -2094,7 +2094,7 @@
     </Record>
     <Record>
       <Key>ItemKitElectronicsPrinter</Key>
-      <Value>Kit (Imprimante Électronique)</Value>
+      <Value>Kit (Imprimante Electronique)</Value>
     </Record>
     <Record>
       <Key>ItemKitDoor</Key>
@@ -2174,7 +2174,7 @@
     </Record>
     <Record>
       <Key>StructureLogicWriter</Key>
-      <Value>Unité Logique: Écriture</Value>
+      <Value>Unité Logique: Ecriture</Value>
     </Record>
     <Record>
       <Key>StructureLogicSelect</Key>
@@ -2238,7 +2238,7 @@
     </Record>
     <Record>
       <Key>StructureLogicBatchWriter</Key>
-      <Value>Unité Logique: Écriture Groupée</Value>
+      <Value>Unité Logique: Ecriture Groupée</Value>
     </Record>
     <Record>
       <Key>StructureLogicButton</Key>
@@ -2310,7 +2310,7 @@
     </Record>
     <Record>
       <Key>ItemTomato</Key>
-      <Value>Tomate</Value>
+      <Value>Tomate</Value> <!-- Nouveau -->
     </Record>
 	<Record>
       <Key>StructureGasGenerator</Key>
@@ -2334,7 +2334,7 @@
     </Record>
     <Record>
       <Key>ItemTomatoSoup</Key>
-      <Value>Soupe de tomate</Value>
+      <Value>Soupe de tomate</Value> <!-- Nouveau -->
     </Record>	
     <Record>
       <Key>ItemSoyOil</Key>
@@ -3158,27 +3158,27 @@
     </Record>
     <Record>
       <Key>ItemHardBackpack</Key>
-      <Value>Sac à dos renforcé</Value> <!-- Nouveau -->
+      <Value>Sac à dos renforcé</Value> 
     </Record>
     <Record>
       <Key>ItemHardJetpack</Key>
-      <Value>Jetpack renforcé</Value> <!-- Nouveau -->
+      <Value>Jetpack renforcé</Value> 
     </Record>
     <Record>
       <Key>DynamicHydroponics</Key>
-      <Value>Station Hydroponique portable</Value> <!-- Nouveau -->
+      <Value>Station Hydroponique portable</Value> 
     </Record>
     <Record>
       <Key>ItemKitDynamicHydroponics</Key>
-      <Value>Kit (Station Hydroponique portable)</Value> <!-- Nouveau -->
+      <Value>Kit (Station Hydroponique portable)</Value> 
     </Record>
     <Record>
       <Key>StructureKlaxon</Key>
-      <Value>Haut-Parleur</Value> <!-- Nouveau -->
+      <Value>Haut-Parleur</Value> 
     </Record>
     <Record>
       <Key>ItemKitSpeaker</Key>
-      <Value>Kit (Haut Parleur)</Value> <!-- Nouveau -->
+      <Value>Kit (Haut Parleur)</Value> 
     </Record>
     <Record>
       <Key>CartridgeOreScannerColor</Key>
@@ -4062,7 +4062,7 @@
     </Record>
     <Record>
       <Key>SettingsVolumetricLighting</Key>
-      <Value>Éclairage volumétrique</Value>
+      <Value>Eclairage volumétrique</Value>
     </Record>
     <Record>
       <Key>SettingsPixelLightCount</Key>
@@ -4082,7 +4082,7 @@
     </Record>
     <Record>
       <Key>SettingsEnvElements</Key>
-      <Value>Éléments environnementaux</Value>
+      <Value>Eléments environnementaux</Value>
     </Record>
     <Record>
       <Key>SettingsReflections</Key>
@@ -4391,7 +4391,7 @@ Alors sors de là, Stationeer !</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteTitle</Key>
-      <Value>Écraser</Value>
+      <Value>Ecraser</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteBody</Key>
@@ -4399,7 +4399,7 @@ Alors sors de là, Stationeer !</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteConfirm</Key>
-      <Value>Écraser</Value>
+      <Value>Ecraser</Value>
     </Record>
     <Record>
       <Key>PromptPublishTitle</Key>
@@ -4540,7 +4540,7 @@ Veuillez réessayer.</Value>
     </Record>
     <Record>
       <Key>SaveMenuOverwriteButton</Key>
-      <Value>Écraser</Value>
+      <Value>Ecraser</Value>
     </Record>
     <Record>
       <Key>SaveMenuNamePlaceholder</Key>
