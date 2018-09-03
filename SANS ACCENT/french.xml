@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version sans accent FR180827 (YYMMDD) - v0.1.1603.7531 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- version sans accent FR180903 (YYMMDD) - v0.1.1621.7613 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->  
   <Name>French</Name>
   <Code>FR</Code>
+  <Font>font_extended</Font>
   <Reagents>
     <RecordReagent>
       <Key>Flour</Key>
@@ -118,6 +119,11 @@
     <RecordReagent>
       <Key>Potato</Key>
       <Value>Pomme de terre</Value>
+      <Unit/>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Tomato</Key>
+      <Value>Tomate</Value>
       <Unit/>
     </RecordReagent>
     <RecordReagent>
@@ -656,7 +662,7 @@
     </Record>
     <Record>
       <Key>DynamicCrateCableSupplies</Key>
-      <Value>Caisse (Fournitures de Cablage)</Value>
+      <Value>Caisse (Fournitures de Câblage)</Value>
     </Record>
     <Record>
       <Key>DynamicCrateConveyorSupplies</Key>
@@ -776,27 +782,27 @@
     </Record>
     <Record>
       <Key>ItemCableCoil</Key>
-      <Value>Bobine de Cable</Value>
+      <Value>Bobine de Câble</Value>
     </Record>
     <Record>
       <Key>ItemChemLightBlue</Key>
-      <Value>Batons Lumineux (Bleu)</Value>
+      <Value>Bâtons Lumineux (Bleu)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightGreen</Key>
-      <Value>Batons Lumineux (Vert)</Value>
+      <Value>Bâtons Lumineux (Vert)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightRed</Key>
-      <Value>Batons Lumineux (Rouge)</Value>
+      <Value>Bâtons Lumineux (Rouge)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightWhite</Key>
-      <Value>Batons Lumineux (Blanc)</Value>
+      <Value>Bâtons Lumineux (Blanc)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightYellow</Key>
-      <Value>Batons Lumineux (Jaune)</Value>
+      <Value>Bâtons Lumineux (Jaune)</Value>
     </Record>
     <Record>
       <Key>ItemCoalOre</Key>
@@ -1196,7 +1202,7 @@
     </Record>
     <Record>
       <Key>ItemRoadFlare</Key>
-      <Value>Fusee eclairante</Value>
+      <Value>Fusee Eclairante</Value>
     </Record>
     <Record>
       <Key>ItemRTG</Key>
@@ -1392,7 +1398,7 @@
     </Record>
     <Record>
       <Key>StructureBackPressureRegulator</Key>
-      <Value>Regulateur de Pression Arriere</Value>
+      <Value>Regulateur de pression arriere</Value>
     </Record>
     <Record>
       <Key>StructureBattery</Key>
@@ -1412,27 +1418,27 @@
     </Record>
     <Record>
       <Key>StructureCableCorner</Key>
-      <Value>Cable (Coin)</Value>
+      <Value>Câble (Coin)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner3</Key>
-      <Value>Cable (Coin a 3 Voies)</Value>
+      <Value>Câble (Coin a 3 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction</Key>
-      <Value>Cable (Jonction)</Value>
+      <Value>Câble (Jonction)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction4</Key>
-      <Value>Cable (Jonction a 4 Voies)</Value>
+      <Value>Câble (Jonction a 4 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6</Key>
-      <Value>Cable (Jonction a 6 Voies)</Value>
+      <Value>Câble (Jonction a 6 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableStraight</Key>
-      <Value>Cable (Droit)</Value>
+      <Value>Câble (Droit)</Value>
     </Record>
     <Record>
       <Key>StructureCamera</Key>
@@ -1800,27 +1806,27 @@
     </Record>
     <Record>
       <Key>StructureCableStraightBurnt</Key>
-      <Value>Cable Brûle (Droit)</Value>
+      <Value>Câble Brûle (Droit)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner3Burnt</Key>
-      <Value>Cable Brûle (Coin a 3 voies)</Value>
+      <Value>Câble Brûle (Coin a 3 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerBurnt</Key>
-      <Value>Cable Brûle (Coin)</Value>
+      <Value>Câble Brûle (Coin)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction4Burnt</Key>
-      <Value>Cable Brûle (Jonction a 4 voies)</Value>
+      <Value>Câble Brûle (Jonction a 4 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6Burnt</Key>
-      <Value>Cable Brûle (Jonction a 6 voies)</Value>
+      <Value>Câble Brûle (Jonction a 6 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionBurnt</Key>
-      <Value>Cable Brûle (Jonction)</Value>
+      <Value>Câble Brûle (Jonction)</Value>
     </Record>
     <Record>
       <Key>StructureSolidFuelGenerator</Key>
@@ -1832,47 +1838,47 @@
     </Record>
     <Record>
       <Key>ItemCableFuse</Key>
-      <Value>Kit (Fusibles de Cable)</Value>
+      <Value>Kit (Fusibles de Câble)</Value>
     </Record>
     <Record>
       <Key>StructureCableStraightH</Key>
-      <Value>Cable HT (Droit)</Value>
+      <Value>Câble HT (Droit)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH6</Key>
-      <Value>Cable HT (Jonction a 6 voies)</Value>
+      <Value>Câble HT (Jonction a 6 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH4</Key>
-      <Value>Cable HT (Jonction a 4 voies)</Value>
+      <Value>Câble HT (Jonction a 4 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH</Key>
-      <Value>Cable HT (Jonction a 3 voies)</Value>
+      <Value>Câble HT (Jonction a 3 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6HBurnt</Key>
-      <Value>Cable HT Brûle (Jonction a 6 voies)</Value>
+      <Value>Câble HT Brûle (Jonction a 6 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction4HBurnt</Key>
-      <Value>Cable HT Brûle (Jonction a 4 voies)</Value>
+      <Value>Câble HT Brûle (Jonction a 4 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableStraightHBurnt</Key>
-      <Value>Cable HT Brûle (Droit)</Value>
+      <Value>Câble HT Brûle (Droit)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionHBurnt</Key>
-      <Value>Cable HT Brûle (Jonction)</Value>
+      <Value>Câble HT Brûle (Jonction)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerHBurnt</Key>
-      <Value>Cable HT Brûle (Coin)</Value>
+      <Value>Câble HT Brûle (Coin)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerH</Key>
-      <Value>Cable HT (Coin)</Value>
+      <Value>Câble HT (Coin)</Value>
     </Record>
     <Record>
       <Key>StructureCableFuse1k</Key>
@@ -1932,7 +1938,7 @@
     </Record>
     <Record>
       <Key>ItemCableCoilHeavy</Key>
-      <Value>Bobine de Cable (Haute Tension)</Value>
+      <Value>Bobine de Câble (Haute Tension)</Value>
     </Record>
     <Record>
       <Key>StructureFrameIron</Key>
@@ -2024,7 +2030,7 @@
     </Record>
     <Record>
       <Key>StructureElectronicsPrinter</Key>
-      <Value>Imprimante electronique</Value>
+      <Value>Imprimante Electronique</Value>
     </Record>
     <Record>
       <Key>ItemVolatiles</Key>
@@ -2088,7 +2094,7 @@
     </Record>
     <Record>
       <Key>ItemKitElectronicsPrinter</Key>
-      <Value>Kit (Imprimante electronique)</Value>
+      <Value>Kit (Imprimante Electronique)</Value>
     </Record>
     <Record>
       <Key>ItemKitDoor</Key>
@@ -2168,7 +2174,7 @@
     </Record>
     <Record>
       <Key>StructureLogicWriter</Key>
-      <Value>Unite Logique: ecriture</Value>
+      <Value>Unite Logique: Ecriture</Value>
     </Record>
     <Record>
       <Key>StructureLogicSelect</Key>
@@ -2232,7 +2238,7 @@
     </Record>
     <Record>
       <Key>StructureLogicBatchWriter</Key>
-      <Value>Unite Logique: ecriture Groupee</Value>
+      <Value>Unite Logique: Ecriture Groupee</Value>
     </Record>
     <Record>
       <Key>StructureLogicButton</Key>
@@ -2256,11 +2262,11 @@
     </Record>
     <Record>
       <Key>ItemCableAnalyser</Key>
-      <Value>Kit (Analyseur de Cable)</Value>
+      <Value>Kit (Analyseur de Câble)</Value>
     </Record>
     <Record>
       <Key>StructureCableAnalysizer</Key>
-      <Value>Analyseur de Cable</Value>
+      <Value>Analyseur de Câble</Value>
     </Record>
     <Record>
       <Key>StructureLogicDial</Key>
@@ -2303,8 +2309,12 @@
       <Value>Pomme de Terre</Value>
     </Record>
     <Record>
+      <Key>ItemTomato</Key>
+      <Value>Tomate</Value>
+    </Record>
+	<Record>
       <Key>StructureGasGenerator</Key>
-      <Value>Generateur (Gaz Combustible)</Value>
+    <Value>Generateur (Gaz Combustible)</Value>
     </Record>
     <Record>
       <Key>ItemKitGasGenerator</Key>
@@ -2323,6 +2333,10 @@
       <Value>Pomme de Terre au Four</Value>
     </Record>
     <Record>
+      <Key>ItemTomatoSoup</Key>
+      <Value>Soupe de tomate</Value>
+    </Record>	
+    <Record>
       <Key>ItemSoyOil</Key>
       <Value>Huile de Soja</Value>
     </Record>
@@ -2332,15 +2346,15 @@
     </Record>
     <Record>
       <Key>StructureCableCornerH3</Key>
-      <Value>Cable HT (Coin a 3 Voies)</Value>
+      <Value>Câble HT (Coin a 3 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerH4</Key>
-      <Value>Cable HT (Coin a 4 Voies)</Value>
+      <Value>Câble HT (Coin a 4 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner4HBurnt</Key>
-      <Value>Cable HT Brûle (Coin a 4 Voies)</Value>
+      <Value>Câble HT Brûle (Coin a 4 Voies)</Value>
     </Record>
     <Record>
       <Key>PortableSolarPanel</Key>
@@ -2348,27 +2362,27 @@
     </Record>
 	<Record>
       <Key>StructureCableJunction5</Key>
-      <Value>Cable (Jonction a 5 Voies)</Value>
+      <Value>Câble (Jonction a 5 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner4</Key>
-      <Value>Cable (Coin a 4 Voies)</Value>
+      <Value>Câble (Coin a 4 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner4Burnt</Key>
-      <Value>Cable Brûle (Coin a 3 Voies)</Value>
+      <Value>Câble Brûle (Coin a 3 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction5Burnt</Key>
-      <Value>Cable Brûle (Jonction a 5 Voies)</Value>
+      <Value>Câble Brûle (Jonction a 5 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH5</Key>
-      <Value>Cable HT (Jonction a 5 Voies)</Value>
+      <Value>Câble HT (Jonction a 5 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH5Burnt</Key>
-      <Value>Cable HT Brûle (Jonction a 5 Voies)</Value>
+      <Value>Câble HT Brûle (Jonction a 5 Voies)</Value>
     </Record>
 		<Record>
       <Key>WallFrameCornerCut</Key>
@@ -3140,7 +3154,7 @@
     </Record>
     <Record>
       <Key>ItemPumpkinPie</Key>
-      <Value>Tarte citrouille</Value>
+      <Value>tarte citrouille</Value>
     </Record>
     <Record>
       <Key>ItemHardBackpack</Key>
@@ -3166,6 +3180,16 @@
       <Key>ItemKitSpeaker</Key>
       <Value>Kit (Haut Parleur)</Value> <!-- Nouveau -->
     </Record>
+    <Record>
+      <Key>CartridgeOreScannerColor</Key>
+      <Value>Cartouche (Scanner mineral en Couleur)</Value>
+    </Record>
+
+    <Record>
+      <Key>StructureLogicWriterSwitch</Key>
+      <Value>Interrupteur Logique d'ecriture</Value>
+    </Record>
+    
 	</Things>
   <Slots>
     <Record>
@@ -4038,7 +4062,7 @@
     </Record>
     <Record>
       <Key>SettingsVolumetricLighting</Key>
-      <Value>eclairage volumetrique</Value>
+      <Value>Eclairage volumetrique</Value>
     </Record>
     <Record>
       <Key>SettingsPixelLightCount</Key>
@@ -4058,7 +4082,7 @@
     </Record>
     <Record>
       <Key>SettingsEnvElements</Key>
-      <Value>elements environnementaux</Value>
+      <Value>Elements environnementaux</Value>
     </Record>
     <Record>
       <Key>SettingsReflections</Key>
@@ -4367,7 +4391,7 @@ Alors sors de la, Stationeer !</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteTitle</Key>
-      <Value>ecraser</Value>
+      <Value>Ecraser</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteBody</Key>
@@ -4375,7 +4399,7 @@ Alors sors de la, Stationeer !</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteConfirm</Key>
-      <Value>ecraser</Value>
+      <Value>Ecraser</Value>
     </Record>
     <Record>
       <Key>PromptPublishTitle</Key>
@@ -4516,7 +4540,7 @@ Veuillez reessayer.</Value>
     </Record>
     <Record>
       <Key>SaveMenuOverwriteButton</Key>
-      <Value>ecraser</Value>
+      <Value>Ecraser</Value>
     </Record>
     <Record>
       <Key>SaveMenuNamePlaceholder</Key>
