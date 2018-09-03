@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR180827 (YYMMDD) - v0.1.1603.7531 - Updated by Mustard and CrocoFR - Based from version Totor -->
+<!-- version FR180903 (YYMMDD) - v0.1.1621.7613 - Updated by Mustard and CrocoFR - Based from version Totor -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->  
   <Name>French</Name>
   <Code>FR</Code>
@@ -43,7 +43,6 @@
       <Key>MarsTabletStage1Page2</Key>
       <Value>PAGE 2 sur 2 \nSi vous êtes à proximité d'une nacelle d'évacuation intacte et d'une caisse d'approvisionnement, vous devriez avoir des fournitures essentielles pour vous aider à attendre le sauvetage. Sinon, recherchez alors les survivants. Vous devez être sûr de noter l’emplacement ou la collecte des fournitures qui seront de la plus haute importance pour votre survie, comme la nourriture, les piles, le matériel utilitaire comme le ruban adhésif et l’équipement de survie portable.\n</Value>
     </Record> 
-
 	<!-- Mission Stage: Aquire Raw Materials -->
 	<Record>
       <Key>MarsTitleRawMaterials</Key>
@@ -89,7 +88,6 @@
       <Key>MarsTabletStage2Page5</Key>
       <Value>PAGE 5 sur 5\nFONDRE\n\nLa façon la plus simple de convertir les matières premières en lingots transformés prêts pour la fabrication est d'utiliser le four à arc et de lui fournir de l'énergie. Si vous êtes limité en ressources, cela devrait probablement être votre premier investissement, car si vous ne pouvez pas récupérer suffisamment de matériaux, ce sera nécessaire pour vous assurer que vous serez en mesure de produire davantage.</Value>
     </Record> 
-	
 	<!-- Mission Stage: Setup Manufacturing -->
 	<Record>
       <Key>MarsTitleSetupManufacturing</Key>
@@ -153,7 +151,14 @@
       <Key>MarsTaskGrowPotato</Key>
       <Value>Obtener une {THING:ItemPotato}</Value>
     </Record>
-
+	<Record>
+      <Key>MarsTabletStage4Page1</Key>
+      <Value>PAGE 1 of 2 \nPETITE POUCES VERTE\nLe strict minimum pour cultiver des plantes est un plateau hydroponique ou une station hydroponique portable. Il faudra l'alimenter avec une source d'eau et l'installer dans une atmosphère d'au moins 20kPa, environ 20-25° Celsius et contenant une petite quantité de dioxyde de carbone.</Value>
+    </Record> 	
+	<Record>
+      <Key>MarsTabletStage4Page2</Key>
+      <Value>PAGE 2 of 2\nL'exigence la plus difficile est d'obtenir des semences pour commencer. Chaque module d'évacuation contient une caisse d'alimentation avec une quantité nominale de graines pour vous aider à commencer - la protection de celles-ci est cruciale. Si vous êtes séparé de votre module d'évacuation, vous pouvez trouver une carte de localisation, vous pourrez peut-être l'utiliser pour suivre la balise des modules.</Value>
+    </Record> 	
 	<!-- Mission Stage: Spawn Mothership & Engine -->
 	<Record>
       <Key>MarsTitleCreateMothership</Key>
@@ -179,7 +184,14 @@
       <Key>MarsTitleLaunchMothership</Key>
       <Value>Lancer le Vaisseau Mère</Value>
     </Record>
-	
+	<Record>
+      <Key>MarsTabletStage5Page1</Key>
+      <Value>PAGE 1 of 2 \nPAUSE DE LANCEMENT\nAvec la nourriture sous contrôle, vous avez maintenant du vrai travail à faire.  Obtenir les ressources nécessaires pour construire et alimenter un vaisseau pour sortir de cet planète ne sera pas facile. Vous aurez besoin d'alliages avancés et d'un système sûr pour gérer la fontes des glaces et créer/stocker une grande quantité de carburant.</Value>
+    </Record> 	
+	<Record>
+      <Key>MarsTabletStage5Page2</Key>
+      <Value>PAGE 2 of 2\nLe strict minimum dont vous aurez besoin pour vote vaisseau est un noyau avec deux moteurs attachés et orientés dans la bonne direction et une ancre stellaire qui, une fois allumée et éteinte, permettra à votre navire de se déplacer. Un siège de contrôle n'est pas nécessaire si vous êtes assez courageux pour conduire les moteurs à la main, mais c'est fortement recommandé.</Value>
+    </Record>
 	<!-- Mission Stage: Launch -->
 	<Record>
       <Key>MarsDescLaunchMothership</Key>
@@ -193,5 +205,9 @@
       <Key>MarsTabletStage6</Key>
       <Value>S'ENFUIR</Value>
     </Record>
+	<Record>
+      <Key>MarsTabletStage6Page1</Key>
+      <Value>PAGE 1 of 1 \nDECOLLAGE\nPlutôt evident.  Il est temps de quitter le sol.  Assurez-vous d'avoir suffisamment de carburant pour vos moteurs!  Bonne chance!</Value>
+    </Record> 	
   </Interface>
 </Language>
