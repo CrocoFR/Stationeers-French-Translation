@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR310818 (YYMMDD) - v0.1.1621.7613 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- version FR180903 (YYMMDD) - v0.1.1621.7613 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->  
   <Name>French</Name>
   <Code>FR</Code>
@@ -2309,8 +2309,12 @@
       <Value>Pomme de Terre</Value>
     </Record>
     <Record>
+      <Key>ItemTomato</Key>
+      <Value>Tomate</Value>
+    </Record>
+	<Record>
       <Key>StructureGasGenerator</Key>
-      <Value>Générateur (Gaz Combustible)</Value>
+    <Value>Générateur (Gaz Combustible)</Value>
     </Record>
     <Record>
       <Key>ItemKitGasGenerator</Key>
@@ -2328,6 +2332,10 @@
       <Key>ItemPotatoBaked</Key>
       <Value>Pomme de Terre au Four</Value>
     </Record>
+    <Record>
+      <Key>ItemTomatoSoup</Key>
+      <Value>Soupe de tomate</Value>
+    </Record>	
     <Record>
       <Key>ItemSoyOil</Key>
       <Value>Huile de Soja</Value>
