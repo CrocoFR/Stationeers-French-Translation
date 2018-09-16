@@ -662,7 +662,7 @@
     </Record>
     <Record>
       <Key>DynamicCrateCableSupplies</Key>
-      <Value>Caisse (Fournitures de Câblage)</Value>
+      <Value>Caisse (Fournitures de Cablage)</Value>
     </Record>
     <Record>
       <Key>DynamicCrateConveyorSupplies</Key>
@@ -782,27 +782,27 @@
     </Record>
     <Record>
       <Key>ItemCableCoil</Key>
-      <Value>Bobine de Câble</Value>
+      <Value>Bobine de Cable</Value>
     </Record>
     <Record>
       <Key>ItemChemLightBlue</Key>
-      <Value>Bâtons Lumineux (Bleu)</Value>
+      <Value>Batons Lumineux (Bleu)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightGreen</Key>
-      <Value>Bâtons Lumineux (Vert)</Value>
+      <Value>Batons Lumineux (Vert)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightRed</Key>
-      <Value>Bâtons Lumineux (Rouge)</Value>
+      <Value>Batons Lumineux (Rouge)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightWhite</Key>
-      <Value>Bâtons Lumineux (Blanc)</Value>
+      <Value>Batons Lumineux (Blanc)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightYellow</Key>
-      <Value>Bâtons Lumineux (Jaune)</Value>
+      <Value>Batons Lumineux (Jaune)</Value>
     </Record>
     <Record>
       <Key>ItemCoalOre</Key>
@@ -1418,27 +1418,27 @@
     </Record>
     <Record>
       <Key>StructureCableCorner</Key>
-      <Value>Câble (Coin)</Value>
+      <Value>Cable (Coin)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner3</Key>
-      <Value>Câble (Coin a 3 Voies)</Value>
+      <Value>Cable (Coin a 3 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction</Key>
-      <Value>Câble (Jonction)</Value>
+      <Value>Cable (Jonction)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction4</Key>
-      <Value>Câble (Jonction a 4 Voies)</Value>
+      <Value>Cable (Jonction a 4 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6</Key>
-      <Value>Câble (Jonction a 6 Voies)</Value>
+      <Value>Cable (Jonction a 6 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableStraight</Key>
-      <Value>Câble (Droit)</Value>
+      <Value>Cable (Droit)</Value>
     </Record>
     <Record>
       <Key>StructureCamera</Key>
@@ -1806,27 +1806,27 @@
     </Record>
     <Record>
       <Key>StructureCableStraightBurnt</Key>
-      <Value>Câble Brûle (Droit)</Value>
+      <Value>Cable Brûle (Droit)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner3Burnt</Key>
-      <Value>Câble Brûle (Coin a 3 voies)</Value>
+      <Value>Cable Brûle (Coin a 3 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerBurnt</Key>
-      <Value>Câble Brûle (Coin)</Value>
+      <Value>Cable Brûle (Coin)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction4Burnt</Key>
-      <Value>Câble Brûle (Jonction a 4 voies)</Value>
+      <Value>Cable Brûle (Jonction a 4 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6Burnt</Key>
-      <Value>Câble Brûle (Jonction a 6 voies)</Value>
+      <Value>Cable Brûle (Jonction a 6 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionBurnt</Key>
-      <Value>Câble Brûle (Jonction)</Value>
+      <Value>Cable Brûle (Jonction)</Value>
     </Record>
     <Record>
       <Key>StructureSolidFuelGenerator</Key>
@@ -1838,47 +1838,47 @@
     </Record>
     <Record>
       <Key>ItemCableFuse</Key>
-      <Value>Kit (Fusibles de Câble)</Value>
+      <Value>Kit (Fusibles de Cable)</Value>
     </Record>
     <Record>
       <Key>StructureCableStraightH</Key>
-      <Value>Câble HT (Droit)</Value>
+      <Value>Cable HT (Droit)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH6</Key>
-      <Value>Câble HT (Jonction a 6 voies)</Value>
+      <Value>Cable HT (Jonction a 6 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH4</Key>
-      <Value>Câble HT (Jonction a 4 voies)</Value>
+      <Value>Cable HT (Jonction a 4 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH</Key>
-      <Value>Câble HT (Jonction a 3 voies)</Value>
+      <Value>Cable HT (Jonction a 3 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6HBurnt</Key>
-      <Value>Câble HT Brûle (Jonction a 6 voies)</Value>
+      <Value>Cable HT Brûle (Jonction a 6 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction4HBurnt</Key>
-      <Value>Câble HT Brûle (Jonction a 4 voies)</Value>
+      <Value>Cable HT Brûle (Jonction a 4 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableStraightHBurnt</Key>
-      <Value>Câble HT Brûle (Droit)</Value>
+      <Value>Cable HT Brûle (Droit)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionHBurnt</Key>
-      <Value>Câble HT Brûle (Jonction)</Value>
+      <Value>Cable HT Brûle (Jonction)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerHBurnt</Key>
-      <Value>Câble HT Brûle (Coin)</Value>
+      <Value>Cable HT Brûle (Coin)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerH</Key>
-      <Value>Câble HT (Coin)</Value>
+      <Value>Cable HT (Coin)</Value>
     </Record>
     <Record>
       <Key>StructureCableFuse1k</Key>
@@ -1938,7 +1938,7 @@
     </Record>
     <Record>
       <Key>ItemCableCoilHeavy</Key>
-      <Value>Bobine de Câble (Haute Tension)</Value>
+      <Value>Bobine de Cable (Haute Tension)</Value>
     </Record>
     <Record>
       <Key>StructureFrameIron</Key>
@@ -2262,11 +2262,11 @@
     </Record>
     <Record>
       <Key>ItemCableAnalyser</Key>
-      <Value>Kit (Analyseur de Câble)</Value>
+      <Value>Kit (Analyseur de Cable)</Value>
     </Record>
     <Record>
       <Key>StructureCableAnalysizer</Key>
-      <Value>Analyseur de Câble</Value>
+      <Value>Analyseur de Cable</Value>
     </Record>
     <Record>
       <Key>StructureLogicDial</Key>
@@ -2346,15 +2346,15 @@
     </Record>
     <Record>
       <Key>StructureCableCornerH3</Key>
-      <Value>Câble HT (Coin a 3 Voies)</Value>
+      <Value>Cable HT (Coin a 3 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerH4</Key>
-      <Value>Câble HT (Coin a 4 Voies)</Value>
+      <Value>Cable HT (Coin a 4 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner4HBurnt</Key>
-      <Value>Câble HT Brûle (Coin a 4 Voies)</Value>
+      <Value>Cable HT Brûle (Coin a 4 Voies)</Value>
     </Record>
     <Record>
       <Key>PortableSolarPanel</Key>
@@ -2362,27 +2362,27 @@
     </Record>
 	<Record>
       <Key>StructureCableJunction5</Key>
-      <Value>Câble (Jonction a 5 Voies)</Value>
+      <Value>Cable (Jonction a 5 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner4</Key>
-      <Value>Câble (Coin a 4 Voies)</Value>
+      <Value>Cable (Coin a 4 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner4Burnt</Key>
-      <Value>Câble Brûle (Coin a 3 Voies)</Value>
+      <Value>Cable Brûle (Coin a 3 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction5Burnt</Key>
-      <Value>Câble Brûle (Jonction a 5 Voies)</Value>
+      <Value>Cable Brûle (Jonction a 5 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH5</Key>
-      <Value>Câble HT (Jonction a 5 Voies)</Value>
+      <Value>Cable HT (Jonction a 5 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH5Burnt</Key>
-      <Value>Câble HT Brûle (Jonction a 5 Voies)</Value>
+      <Value>Cable HT Brûle (Jonction a 5 Voies)</Value>
     </Record>
 		<Record>
       <Key>WallFrameCornerCut</Key>
