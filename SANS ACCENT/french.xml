@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version sans accent FR180903 (YYMMDD) - v0.1.1621.7613 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- version Sans Accent FR180916 (YYMMDD) - v0.1.1648.7714 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->  
   <Name>French</Name>
   <Code>FR</Code>
@@ -2310,7 +2310,7 @@
     </Record>
     <Record>
       <Key>ItemTomato</Key>
-      <Value>Tomate</Value>
+      <Value>Tomate</Value> 
     </Record>
 	<Record>
       <Key>StructureGasGenerator</Key>
@@ -2334,7 +2334,7 @@
     </Record>
     <Record>
       <Key>ItemTomatoSoup</Key>
-      <Value>Soupe de tomate</Value>
+      <Value>Soupe de tomate</Value> 
     </Record>	
     <Record>
       <Key>ItemSoyOil</Key>
@@ -3158,27 +3158,27 @@
     </Record>
     <Record>
       <Key>ItemHardBackpack</Key>
-      <Value>Sac a dos renforce</Value> <!-- Nouveau -->
+      <Value>Sac a dos renforce</Value> 
     </Record>
     <Record>
       <Key>ItemHardJetpack</Key>
-      <Value>Jetpack renforce</Value> <!-- Nouveau -->
+      <Value>Jetpack renforce</Value> 
     </Record>
     <Record>
       <Key>DynamicHydroponics</Key>
-      <Value>Station Hydroponique portable</Value> <!-- Nouveau -->
+      <Value>Station Hydroponique portable</Value> 
     </Record>
     <Record>
       <Key>ItemKitDynamicHydroponics</Key>
-      <Value>Kit (Station Hydroponique portable)</Value> <!-- Nouveau -->
+      <Value>Kit (Station Hydroponique portable)</Value> 
     </Record>
     <Record>
       <Key>StructureKlaxon</Key>
-      <Value>Haut-Parleur</Value> <!-- Nouveau -->
+      <Value>Haut-Parleur</Value> 
     </Record>
     <Record>
       <Key>ItemKitSpeaker</Key>
-      <Value>Kit (Haut Parleur)</Value> <!-- Nouveau -->
+      <Value>Kit (Haut Parleur)</Value> 
     </Record>
     <Record>
       <Key>CartridgeOreScannerColor</Key>
@@ -3189,7 +3189,22 @@
       <Key>StructureLogicWriterSwitch</Key>
       <Value>Interrupteur Logique d'ecriture</Value>
     </Record>
-    
+	    <Record>
+      <Key>MotherboardProgrammableChip</Key>
+      <Value>Carte mere (Editeur CI)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemKitLogicCircuit</Key>
+      <Value>Kit (Support CI)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>StructureCircuitHousing</Key>
+      <Value>Support CI</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemIntegratedCircuit10</Key>
+      <Value>Circuit Integre (CI10)</Value> <!-- Nouveau -->
+    </Record>  
 	</Things>
   <Slots>
     <Record>
@@ -3376,7 +3391,11 @@
       <Key>Circuit</Key>
       <Value>Circuit</Value> 
     </Record>
-  </Slots>
+    <Record>
+      <Key>ProgrammableChip</Key>
+      <Value>Programmable Chip</Value> <!-- Nouveau -->
+    </Record>
+	</Slots>
   <Interactables>
     <Record>
       <Key>Activate</Key>
@@ -3722,7 +3741,15 @@
       <Key>ThrustDown</Key>
       <Value>Baisser poussee</Value> 
     </Record>
-  </Interactables>
+    <Record>
+      <Key>Button5</Key>
+      <Value>Bouton5</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>Button6</Key>
+      <Value>Bouton6</Value>  <!-- Nouveau -->
+    </Record>
+	</Interactables>
   <Interface>
     <Record>
       <Key>MainMenuContinue</Key>
@@ -4730,7 +4757,7 @@ Veuillez reessayer.</Value>
       <Key>NewWorldMoonDesc</Key>
       <Value>Alors vous etes coince sur la lune, mais tout n'est pas perdu...
 Bien sûr, il y fait froid, rude et monotone, mais au moins le soleil brille. Le panneau solaire va vous etre utile, ainsi que le controleur de puissance ... et aussi le four a arc.	  
-Il y a meme un peu de nourriture et d'oxygene dans les autres caisses, meme si ça ne va pas durer eternellement... tout comme votre batterie...
+Il y a meme un peu de nourriture et d'oxygene dans les autres caisses, meme si ca ne va pas durer eternellement... tout comme votre batterie...
 Vous feriez mieux de commencer a reflechir comment vous aller survivre. a quel point cela pourrait etre difficile de greer un SAS ? Un generateur ? Peut-etre meme faire fondre du minerai et construire votre base ?
 On dirait que vous allez etre ici un moment.</Value>
     </Record>
@@ -4927,6 +4954,46 @@ Temperature {1}</Value>
       <Key>ScenarioScoreboardHeading</Key>
       <Value>Scenario termine</Value> 
     </Record>
+   <Record>
+      <Key>ButtonCopy</Key>
+      <Value>Copier</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ButtonPaste</Key>
+      <Value>Coller</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ButtonHelp</Key>
+      <Value>Aide</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ButtonVariables</Key>
+      <Value>x</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ButtonSlotVar</Key>
+      <Value>s(x)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>HeadingHelp</Key>
+      <Value>Aide</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ButtonLoad</Key>
+      <Value>Chargement</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>HeadingEdit</Key>
+      <Value>Editer</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ButtonFunctions</Key>
+      <Value>f</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ButtonLibrary</Key>
+      <Value>Bibliotheque</Value> <!-- Nouveau -->
+    </Record>	
   </Interface>
   <Colors>
     <Record>
