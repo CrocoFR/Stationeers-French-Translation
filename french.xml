@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR180916 (YYMMDD) - v0.1.1648.7714 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
-<!-- https://github.com/CrocoFR/Stationeers-French-Translation -->  
-  <Name>French</Name>
+<!-- version FR180921 (YYMMDD) - v0.1.1671.7828 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- https://github.com/CrocoFR/Stationeers-French-Translation --> 
+ <Name>French</Name>
   <Code>FR</Code>
   <Font>font_extended</Font>
   <Reagents>
@@ -191,6 +191,10 @@
     <Record>
       <Key>Water</Key>
       <Value>Eau</Value>
+    </Record>
+	    <Record>
+      <Key>NitrousOxide</Key>
+      <Value>Oxyde Nitreux</Value>
     </Record>
   </Gases>
   <Actions>
@@ -3184,7 +3188,6 @@
       <Key>CartridgeOreScannerColor</Key>
       <Value>Cartouche (Scanner mineral en Couleur)</Value>
     </Record>
-
     <Record>
       <Key>StructureLogicWriterSwitch</Key>
       <Value>Interrupteur Logique d'écriture</Value>
@@ -3204,7 +3207,43 @@
     <Record>
       <Key>ItemIntegratedCircuit10</Key>
       <Value>Circuit Intégré (CI10)</Value> <!-- Nouveau -->
-    </Record>  
+    </Record>
+    <Record>
+      <Key>StructureHydroponicsAutomated</Key>
+      <Value>Hydroponiques automatisé</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitHydroponicAutomated</Key>
+      <Value>Kit (Hydrophonique automatisé)</Value>
+    </Record>
+    <Record>
+      <Key>ItemBasketBall</Key>
+      <Value>Ballon de Basket</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitBasket</Key>
+      <Value>Kit (Basket)</Value>
+    </Record>
+    <Record>
+      <Key>StructureBasketHoop</Key>
+      <Value>Structure Panier de Basket</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterNitrousOxide</Key>
+      <Value>Filtre (Oxyde Nitreux Oxide)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterNitrousOxideL</Key>
+      <Value>Grand filtre (Oxyde Nitreux)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterNitrousOxideM</Key>
+      <Value>Filtre moyen (Oxyde Nitreux)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasCanisterNitrousOxide</Key>
+      <Value>Bouteille de gaz (anesthésiant)</Value>
+    </Record>	
 	</Things>
   <Slots>
     <Record>
@@ -3672,6 +3711,10 @@
     <Record>
       <Key>CreatePlan</Key>
       <Value>Créer un Plan</Value>
+    </Record>
+	    <Record>
+      <Key>Search</Key>
+      <Value>Rechercher</Value>
     </Record>
     <Record>
       <Key>Button4</Key>
@@ -4416,7 +4459,19 @@ Alors sors de là, Stationeer !</Value>
       <Key>PromptQuitConfirm</Key>
       <Value>Quitter</Value>
     </Record>
+        <Record>
+      <Key>PromptUnsubscribeTitle</Key>
+      <Value>Se désinscrire</Value>
+    </Record>
     <Record>
+      <Key>PromptUnsubscribeBody</Key>
+      <Value>Etes vous sûr de vouloir désinscrire cet élément du Workshop?</Value>
+    </Record>
+    <Record>
+      <Key>PromptUnsubscribeConfirm</Key>
+      <Value>Désinscrit</Value>
+    </Record>
+	<Record>
       <Key>PromptOverwriteTitle</Key>
       <Value>Ecraser</Value>
     </Record>
@@ -4679,7 +4734,7 @@ Veuillez réessayer.</Value>
     </Record>
     <Record>
       <Key>WorkshopPageButton</Key>
-      <Value>Workshop Page</Value>
+      <Value>Page Workshop</Value>
     </Record>
     <Record>
       <Key>WorkshopUnsubscribeButton</Key>
@@ -4993,7 +5048,21 @@ Temperature {1}</Value>
     <Record>
       <Key>ButtonLibrary</Key>
       <Value>Bibliotheque</Value> <!-- Nouveau -->
-    </Record>	
+    </Record>
+    <Record>
+      <Key>SettingsMenuAdvanced</Key>
+      <Value>Avancé
+
+</Value>
+    </Record>
+    <Record>
+      <Key>SettingsLegacyInventory</Key>
+      <Value>Inventaire des stocks</Value>
+    </Record>
+    <Record>
+      <Key>SettingsDisableWaterVisualizer</Key>
+      <Value>Désactiver la visualisation de l'eau</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>
