@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR180921 (YYMMDD) - v0.1.1671.7828 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
-<!-- https://github.com/CrocoFR/Stationeers-French-Translation --> 
+<!-- version FR290921 (YYMMDD) - v0.1.1701.79458 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- https://github.com/CrocoFR/Stationeers-French-Translation -->
  <Name>French</Name>
   <Code>FR</Code>
   <Font>font_extended</Font>
@@ -3244,6 +3244,14 @@
       <Key>ItemGasCanisterNitrousOxide</Key>
       <Value>Bouteille de gaz (anesthésiant)</Value>
     </Record>	
+	    <Record>
+      <Key>ItemNVG</Key>
+      <Value>Lunette de vision nocturne</Value>
+    </Record>
+    <Record>
+      <Key>ItemGlasses</Key>
+      <Value>Lunettes</Value>
+    </Record>
 	</Things>
   <Slots>
     <Record>
@@ -3285,6 +3293,10 @@
     <Record>
       <Key>Lungs</Key>
       <Value>Poumons</Value>
+    </Record>
+	    <Record>
+      <Key>Glasses</Key>
+      <Value>Lunettes</Value>
     </Record>
     <Record>
       <Key>Belt</Key>
@@ -3933,6 +3945,10 @@
     <Record>
       <Key>InventorySlotBelt</Key>
       <Value>Ceinture</Value>
+    </Record>
+	    <Record>
+      <Key>InventorySlotGlasses</Key>
+      <Value>Lunettes</Value>
     </Record>
     <Record>
       <Key>InventorySlotUniform</Key>
@@ -5063,6 +5079,11 @@ Temperature {1}</Value>
       <Key>SettingsDisableWaterVisualizer</Key>
       <Value>Désactiver la visualisation de l'eau</Value>
     </Record>
+	<Record>
+      <Key>SettingsInterface</Key>
+      <Value>Interface
+</Value>
+	</Record>
   </Interface>
   <Colors>
     <Record>
