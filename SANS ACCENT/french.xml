@@ -1,10 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version Sans Accent FR180916 (YYMMDD) - v0.1.1648.7714 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
-<!-- https://github.com/CrocoFR/Stationeers-French-Translation -->  
-  <Name>French</Name>
+<!-- version sans accent FR181001 (YYMMDD) - v0.1.1701.79458 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- https://github.com/CrocoFR/Stationeers-French-Translation -->
+ <Name>French</Name>
   <Code>FR</Code>
-  <Font>font_extended</Font>
   <Reagents>
     <RecordReagent>
       <Key>Flour</Key>
@@ -191,6 +190,10 @@
     <Record>
       <Key>Water</Key>
       <Value>Eau</Value>
+    </Record>
+	    <Record>
+      <Key>NitrousOxide</Key>
+      <Value>Oxyde Nitreux</Value>
     </Record>
   </Gases>
   <Actions>
@@ -1806,27 +1809,27 @@
     </Record>
     <Record>
       <Key>StructureCableStraightBurnt</Key>
-      <Value>Cable Brûle (Droit)</Value>
+      <Value>Cable Brule (Droit)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner3Burnt</Key>
-      <Value>Cable Brûle (Coin a 3 voies)</Value>
+      <Value>Cable Brule (Coin a 3 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerBurnt</Key>
-      <Value>Cable Brûle (Coin)</Value>
+      <Value>Cable Brule (Coin)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction4Burnt</Key>
-      <Value>Cable Brûle (Jonction a 4 voies)</Value>
+      <Value>Cable Brule (Jonction a 4 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6Burnt</Key>
-      <Value>Cable Brûle (Jonction a 6 voies)</Value>
+      <Value>Cable Brule (Jonction a 6 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionBurnt</Key>
-      <Value>Cable Brûle (Jonction)</Value>
+      <Value>Cable Brule (Jonction)</Value>
     </Record>
     <Record>
       <Key>StructureSolidFuelGenerator</Key>
@@ -1858,23 +1861,23 @@
     </Record>
     <Record>
       <Key>StructureCableJunction6HBurnt</Key>
-      <Value>Cable HT Brûle (Jonction a 6 voies)</Value>
+      <Value>Cable HT Brule (Jonction a 6 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction4HBurnt</Key>
-      <Value>Cable HT Brûle (Jonction a 4 voies)</Value>
+      <Value>Cable HT Brule (Jonction a 4 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableStraightHBurnt</Key>
-      <Value>Cable HT Brûle (Droit)</Value>
+      <Value>Cable HT Brule (Droit)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionHBurnt</Key>
-      <Value>Cable HT Brûle (Jonction)</Value>
+      <Value>Cable HT Brule (Jonction)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerHBurnt</Key>
-      <Value>Cable HT Brûle (Coin)</Value>
+      <Value>Cable HT Brule (Coin)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerH</Key>
@@ -2354,7 +2357,7 @@
     </Record>
     <Record>
       <Key>StructureCableCorner4HBurnt</Key>
-      <Value>Cable HT Brûle (Coin a 4 Voies)</Value>
+      <Value>Cable HT Brule (Coin a 4 Voies)</Value>
     </Record>
     <Record>
       <Key>PortableSolarPanel</Key>
@@ -2370,11 +2373,11 @@
     </Record>
     <Record>
       <Key>StructureCableCorner4Burnt</Key>
-      <Value>Cable Brûle (Coin a 3 Voies)</Value>
+      <Value>Cable Brule (Coin a 3 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction5Burnt</Key>
-      <Value>Cable Brûle (Jonction a 5 Voies)</Value>
+      <Value>Cable Brule (Jonction a 5 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH5</Key>
@@ -2382,7 +2385,7 @@
     </Record>
     <Record>
       <Key>StructureCableJunctionH5Burnt</Key>
-      <Value>Cable HT Brûle (Jonction a 5 Voies)</Value>
+      <Value>Cable HT Brule (Jonction a 5 Voies)</Value>
     </Record>
 		<Record>
       <Key>WallFrameCornerCut</Key>
@@ -3184,7 +3187,6 @@
       <Key>CartridgeOreScannerColor</Key>
       <Value>Cartouche (Scanner mineral en Couleur)</Value>
     </Record>
-
     <Record>
       <Key>StructureLogicWriterSwitch</Key>
       <Value>Interrupteur Logique d'ecriture</Value>
@@ -3204,7 +3206,51 @@
     <Record>
       <Key>ItemIntegratedCircuit10</Key>
       <Value>Circuit Integre (CI10)</Value> <!-- Nouveau -->
-    </Record>  
+    </Record>
+    <Record>
+      <Key>StructureHydroponicsAutomated</Key>
+      <Value>Hydroponiques automatise</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitHydroponicAutomated</Key>
+      <Value>Kit (Hydrophonique automatise)</Value>
+    </Record>
+    <Record>
+      <Key>ItemBasketBall</Key>
+      <Value>Ballon de Basket</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitBasket</Key>
+      <Value>Kit (Basket)</Value>
+    </Record>
+    <Record>
+      <Key>StructureBasketHoop</Key>
+      <Value>Structure Panier de Basket</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterNitrousOxide</Key>
+      <Value>Filtre (Oxyde Nitreux Oxide)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterNitrousOxideL</Key>
+      <Value>Grand filtre (Oxyde Nitreux)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterNitrousOxideM</Key>
+      <Value>Filtre moyen (Oxyde Nitreux)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasCanisterNitrousOxide</Key>
+      <Value>Bouteille de gaz (anesthesiant)</Value>
+    </Record>	
+	    <Record>
+      <Key>ItemNVG</Key>
+      <Value>Lunette de vision nocturne</Value>
+    </Record>
+    <Record>
+      <Key>ItemGlasses</Key>
+      <Value>Lunettes</Value>
+    </Record>
 	</Things>
   <Slots>
     <Record>
@@ -3246,6 +3292,10 @@
     <Record>
       <Key>Lungs</Key>
       <Value>Poumons</Value>
+    </Record>
+	    <Record>
+      <Key>Glasses</Key>
+      <Value>Lunettes</Value>
     </Record>
     <Record>
       <Key>Belt</Key>
@@ -3673,6 +3723,10 @@
       <Key>CreatePlan</Key>
       <Value>Creer un Plan</Value>
     </Record>
+	    <Record>
+      <Key>Search</Key>
+      <Value>Rechercher</Value>
+    </Record>
     <Record>
       <Key>Button4</Key>
       <Value>Bouton4</Value>
@@ -3890,6 +3944,10 @@
     <Record>
       <Key>InventorySlotBelt</Key>
       <Value>Ceinture</Value>
+    </Record>
+	    <Record>
+      <Key>InventorySlotGlasses</Key>
+      <Value>Lunettes</Value>
     </Record>
     <Record>
       <Key>InventorySlotUniform</Key>
@@ -4197,11 +4255,11 @@
     </Record>
     <Record>
       <Key>ButtoConfirmExitAsServer</Key>
-      <Value>etes-vous sûr de vouloir quitter le jeu sans enregistrer ? Votre progression sera perdu.</Value>
+      <Value>etes-vous sur de vouloir quitter le jeu sans enregistrer ? Votre progression sera perdu.</Value>
     </Record>
     <Record>
       <Key>DialogConfirmNoticeUnsaved</Key>
-      <Value>etes-vous sûr de vouloir quitter la session sans enregistrer ? Votre progression sera perdu.</Value>
+      <Value>etes-vous sur de vouloir quitter la session sans enregistrer ? Votre progression sera perdu.</Value>
     </Record>
     <Record>
       <Key>ButtonExit</Key>
@@ -4213,7 +4271,7 @@
     </Record>
     <Record>
       <Key>DialogConfirmNoticeClientLeaving</Key>
-      <Value>etes-vous sûr de vouloir quitter la session ?</Value>
+      <Value>etes-vous sur de vouloir quitter la session ?</Value>
     </Record>
     <Record>
       <Key>SettingsPopupChat</Key>
@@ -4416,13 +4474,25 @@ Alors sors de la, Stationeer !</Value>
       <Key>PromptQuitConfirm</Key>
       <Value>Quitter</Value>
     </Record>
+        <Record>
+      <Key>PromptUnsubscribeTitle</Key>
+      <Value>Se desinscrire</Value>
+    </Record>
     <Record>
+      <Key>PromptUnsubscribeBody</Key>
+      <Value>Etes vous sur de vouloir desinscrire cet element du Workshop?</Value>
+    </Record>
+    <Record>
+      <Key>PromptUnsubscribeConfirm</Key>
+      <Value>Desinscrit</Value>
+    </Record>
+	<Record>
       <Key>PromptOverwriteTitle</Key>
       <Value>Ecraser</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteBody</Key>
-      <Value>etes-vous sûr de vouloir ecraser le monde sauve existant ?</Value>
+      <Value>etes-vous sur de vouloir ecraser le monde sauve existant ?</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteConfirm</Key>
@@ -4434,7 +4504,7 @@ Alors sors de la, Stationeer !</Value>
     </Record>
     <Record>
       <Key>PromptPublishBody</Key>
-      <Value>etes vous sûr de vouloir publier ce monde sur le Workshop?</Value>
+      <Value>etes vous sur de vouloir publier ce monde sur le Workshop?</Value>
     </Record>
     <Record>
       <Key>PromptPublishConfirm</Key>
@@ -4446,7 +4516,7 @@ Alors sors de la, Stationeer !</Value>
     </Record>
     <Record>
       <Key>PromptDeleteBody</Key>
-      <Value>etes vous sûr ?</Value>
+      <Value>etes vous sur ?</Value>
     </Record>
     <Record>
       <Key>PromptDeleteConfirm</Key>
@@ -4458,7 +4528,7 @@ Alors sors de la, Stationeer !</Value>
     </Record>
     <Record>
       <Key>PromptDebugLoadBody</Key>
-      <Value>etes-vous sûr de vouloir charger ce monde avec un seul personnage ?</Value>
+      <Value>etes-vous sur de vouloir charger ce monde avec un seul personnage ?</Value>
     </Record>
     <Record>
       <Key>PromptDebugLoadConfirm</Key>
@@ -4679,7 +4749,7 @@ Veuillez reessayer.</Value>
     </Record>
     <Record>
       <Key>WorkshopPageButton</Key>
-      <Value>Workshop Page</Value>
+      <Value>Page Workshop</Value>
     </Record>
     <Record>
       <Key>WorkshopUnsubscribeButton</Key>
@@ -4756,7 +4826,7 @@ Veuillez reessayer.</Value>
     <Record>
       <Key>NewWorldMoonDesc</Key>
       <Value>Alors vous etes coince sur la lune, mais tout n'est pas perdu...
-Bien sûr, il y fait froid, rude et monotone, mais au moins le soleil brille. Le panneau solaire va vous etre utile, ainsi que le controleur de puissance ... et aussi le four a arc.	  
+Bien sur, il y fait froid, rude et monotone, mais au moins le soleil brille. Le panneau solaire va vous etre utile, ainsi que le controleur de puissance ... et aussi le four a arc.	  
 Il y a meme un peu de nourriture et d'oxygene dans les autres caisses, meme si ca ne va pas durer eternellement... tout comme votre batterie...
 Vous feriez mieux de commencer a reflechir comment vous aller survivre. a quel point cela pourrait etre difficile de greer un SAS ? Un generateur ? Peut-etre meme faire fondre du minerai et construire votre base ?
 On dirait que vous allez etre ici un moment.</Value>
@@ -4765,7 +4835,7 @@ On dirait que vous allez etre ici un moment.</Value>
       <Key>NewWorldSpaceDesc</Key>
       <Value>C'est le mode creatif de Stationeers!
 Spawn avec n'importe quel article, tester des idees et construire trucs de cingle rapidement.
-&lt;color=red&gt;Ce mode est experimental.&lt;/color&gt; Pensez-y comme une fete spatiale libre où des choses* passionnantes et inattendues peuvent et vont se produire. C'est une experience plus sûr que le mode Survie.
+&lt;color=red&gt;Ce mode est experimental.&lt;/color&gt; Pensez-y comme une fete spatiale libre où des choses* passionnantes et inattendues peuvent et vont se produire. C'est une experience plus sur que le mode Survie.
 Ne soyez pas triste quand vous vous faites exploser en minuscules petits morceaux ou que vous vous faites massacrer par des poulets ou que vous explosez lentement tout en derivant seul dans le vide infini.
 *bugs</Value>
     </Record>
@@ -4993,7 +5063,26 @@ Temperature {1}</Value>
     <Record>
       <Key>ButtonLibrary</Key>
       <Value>Bibliotheque</Value> <!-- Nouveau -->
-    </Record>	
+    </Record>
+    <Record>
+      <Key>SettingsMenuAdvanced</Key>
+      <Value>Avance
+
+</Value>
+    </Record>
+    <Record>
+      <Key>SettingsLegacyInventory</Key>
+      <Value>Inventaire des stocks</Value>
+    </Record>
+    <Record>
+      <Key>SettingsDisableWaterVisualizer</Key>
+      <Value>Desactiver la visualisation de l'eau</Value>
+    </Record>
+	<Record>
+      <Key>SettingsInterface</Key>
+      <Value>Interface
+</Value>
+	</Record>
   </Interface>
   <Colors>
     <Record>
