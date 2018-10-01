@@ -3194,19 +3194,19 @@
     </Record>
 	    <Record>
       <Key>MotherboardProgrammableChip</Key>
-      <Value>Carte mère (Editeur CI)</Value> <!-- Nouveau -->
+      <Value>Carte mère (Editeur CI)</Value> 
     </Record>
     <Record>
       <Key>ItemKitLogicCircuit</Key>
-      <Value>Kit (Support CI)</Value> <!-- Nouveau -->
+      <Value>Kit (Support CI)</Value> 
     </Record>
     <Record>
       <Key>StructureCircuitHousing</Key>
-      <Value>Support CI</Value> <!-- Nouveau -->
+      <Value>Support CI</Value> 
     </Record>
     <Record>
       <Key>ItemIntegratedCircuit10</Key>
-      <Value>Circuit Intégré (CI10)</Value> <!-- Nouveau -->
+      <Value>Circuit Intégré (CI10)</Value> 
     </Record>
     <Record>
       <Key>StructureHydroponicsAutomated</Key>
@@ -3444,7 +3444,7 @@
     </Record>
     <Record>
       <Key>ProgrammableChip</Key>
-      <Value>Programmable Chip</Value> <!-- Nouveau -->
+      <Value>Programmable Chip</Value> 
     </Record>
 	</Slots>
   <Interactables>
@@ -3798,11 +3798,11 @@
     </Record>
     <Record>
       <Key>Button5</Key>
-      <Value>Bouton5</Value> <!-- Nouveau -->
+      <Value>Bouton5</Value> 
     </Record>
     <Record>
       <Key>Button6</Key>
-      <Value>Bouton6</Value>  <!-- Nouveau -->
+      <Value>Bouton6</Value>  
     </Record>
 	</Interactables>
   <Interface>
@@ -5027,43 +5027,43 @@ Temperature {1}</Value>
     </Record>
    <Record>
       <Key>ButtonCopy</Key>
-      <Value>Copier</Value> <!-- Nouveau -->
+      <Value>Copier</Value> 
     </Record>
     <Record>
       <Key>ButtonPaste</Key>
-      <Value>Coller</Value> <!-- Nouveau -->
+      <Value>Coller</Value> 
     </Record>
     <Record>
       <Key>ButtonHelp</Key>
-      <Value>Aide</Value> <!-- Nouveau -->
+      <Value>Aide</Value> 
     </Record>
     <Record>
       <Key>ButtonVariables</Key>
-      <Value>x</Value> <!-- Nouveau -->
+      <Value>x</Value> 
     </Record>
     <Record>
       <Key>ButtonSlotVar</Key>
-      <Value>s(x)</Value> <!-- Nouveau -->
+      <Value>s(x)</Value> 
     </Record>
     <Record>
       <Key>HeadingHelp</Key>
-      <Value>Aide</Value> <!-- Nouveau -->
+      <Value>Aide</Value> 
     </Record>
     <Record>
       <Key>ButtonLoad</Key>
-      <Value>Chargement</Value> <!-- Nouveau -->
+      <Value>Chargement</Value> 
     </Record>
     <Record>
       <Key>HeadingEdit</Key>
-      <Value>Editer</Value> <!-- Nouveau -->
+      <Value>Editer</Value> 
     </Record>
     <Record>
       <Key>ButtonFunctions</Key>
-      <Value>f</Value> <!-- Nouveau -->
+      <Value>f</Value> 
     </Record>
     <Record>
       <Key>ButtonLibrary</Key>
-      <Value>Bibliotheque</Value> <!-- Nouveau -->
+      <Value>Bibliotheque</Value> 
     </Record>
     <Record>
       <Key>SettingsMenuAdvanced</Key>
