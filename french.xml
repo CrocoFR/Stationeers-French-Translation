@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR181001 (YYMMDD) - v0.1.1703.7950 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- version FR181013 (YYMMDD) - v0.2.1746.8073 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->
  <Name>French</Name>
   <Code>FR</Code>
@@ -3244,13 +3244,37 @@
       <Key>ItemGasCanisterNitrousOxide</Key>
       <Value>Bouteille de gaz (anesthésiant)</Value>
     </Record>	
-	    <Record>
+	<Record>
       <Key>ItemNVG</Key>
       <Value>Lunette de vision nocturne</Value>
     </Record>
     <Record>
       <Key>ItemGlasses</Key>
       <Value>Lunettes</Value>
+    </Record>
+	<Record>
+      <Key>StructureLogicHashGen</Key>
+      <Value>Générateur de Hash logique</Value>
+    </Record>
+    <Record>
+      <Key>StructureShuttleLandingPad</Key>
+      <Value>Aire d'atterrissage</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitLandingPad</Key>
+      <Value>Kit (Aire d'atterrissage)</Value>
+    </Record>
+    <Record>
+      <Key>StructureSatelliteDish</Key>
+      <Value>Antenne satellite</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitSatelliteDish</Key>
+      <Value>Kit (Antenne satellite)</Value>
+    </Record>
+    <Record>
+      <Key>ItemPlasticSheets</Key>
+      <Value>Plaques en plastique</Value>
     </Record>
 	</Things>
   <Slots>
@@ -5084,6 +5108,18 @@ Temperature {1}</Value>
       <Value>Interface
 </Value>
 	</Record>
+	<Record>
+      <Key>SettingsUPNPEnabled</Key>
+      <Value>Activer UPNP</Value>
+    </Record>
+    <Record>
+      <Key>SettingsEnableClouds</Key>
+      <Value>Activer Nuages</Value>
+    </Record>
+    <Record>
+      <Key>SettingsClouds</Key>
+      <Value>Activer Nuages</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>
