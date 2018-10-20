@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR180726 (YYMMDD) - v0.1.1549.7283 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- version FR181019 (YYMMDD) - v0.2.1774.8154 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->
   <Code>FR</Code>
-  <Font>font_extended</Font> <!-- Permet l'ajout des accents ^^ -->  
+  <Font>font_extended</Font>
   <Keys>
     <Record>
       <Key>None</Key>
