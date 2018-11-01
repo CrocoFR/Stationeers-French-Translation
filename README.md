@@ -18,6 +18,6 @@ french_mars_mission.xml
 N'hésitez pas à contribuer pour l'amélioration de la traduction du jeu.
 
 Retrouvez-nous sur le Discord de la Communauté française de Stationeers
-https://discord.gg/82WvDrV
+https://discord.me/stationeers-fr
 
 Egalement sur le forum Steam Stationeers
