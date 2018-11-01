@@ -51,7 +51,7 @@ Le besoin le plus pressant est de recharger la {THING:ItemBatteryCellLarge} dans
 {HEADER:Ameliorer la collecte d energie}
 Placer un {THING:StructureAreaPowerControl} avec une {THING:ItemBatteryCell} inséré, entre la source d'alimentation et vos chargeurs seront d'une grande aide. Ceci est dû au fait que la source d’énergie génère probablement plus d’énergie que le {THING:ItemBatteryCharger} ne peut en contenir et est gaspillé. De plus, bien que vous puissiez orienter manuellement {THING:StructureSolarPanel}, son automatisation pour suivre le soleil vous aidera beaucoup. Vous pouvez utiliser des {LINK:LogicUnitPage;unités logiques} pour vous aider.
       
-{HEADER:Gérer votre Oxygene}
+{HEADER:Gerer votre Oxygene}
 Votre {THING:ItemEvaSuit} et {THING:ItemSpaceHelmet} forment une coque de protection contre les éléments. {THING:ItemEvaSuit} a besoin de {THING:ItemGasCanisterOxygen} pour vous fournir du pur {GAZ:Oxygen}. Gardez un œil sur la quantité de gaz dans le réservoir, vous pouvez le remplir en utilisant le gros {THING:DynamicGasCanisterOxygen} fourni dans votre boîte de vitesses Il y a un marqueur "de danger" indiquant dans quelle fente vous pouvez insérer la cartouche pour la remplir.
 
 {HEADER:Fonte basique}
@@ -75,7 +75,7 @@ Prenez le {THING:DynamicHydroponics} fourni dans votre nouvelle serre. Il dispos
 {HEADER:Fonte avance}
 {THING:StructureArcFurnace} vous permet uniquement de fondre un {LINK:OrePage;minerais} simple et de créer des composants plus avancés nécessitant l'utilisation de méthodes plus complexes pour {LINK:AlloyPage;alliages}. Celles-ci sont effectuées dans le {THING:StructureFurnace}, en obtenant le bon ratio de mélange {LINK:PressurePage;Pressure}, {LINK:TemperaturePage;Temperature} et {LINK:ReagentPage;Reagent}. Par exemple, pour créer {THING:ItemSteelIngot}, vous aurez besoin d’un ratio de 1 {REAGENT:Iron} pour 3 {REAGENT:Coal}.
 
-Vous pouvez directement insérer {LINK:IcePage;Ices} dans la partie supérieure. S'il n'y a pas d'atmosphère pour les fondre, appuyez sur le bouton {LOGICTYPE:Activate} pour l'écraser. La glace fondra automatiquement s'il y a suffisamment de gaz de la bonne température à l'intérieur. Utilisez un mélange de {THING:ItemOxite} et {THING:ItemVolatiles} pour allumer un feu à l'intérieur, bien que cela augmente considérablement la pression à l'intérieur.
+Vous pouvez directement insérer de la {LINK:IcePage;glace} dans la partie supérieure. S'il n'y a pas d'atmosphère pour les fondre, appuyez sur le bouton {LOGICTYPE:Activate} pour l'écraser. La glace fondra automatiquement s'il y a suffisamment de gaz de la bonne température à l'intérieur. Utilisez un mélange de {THING:ItemOxite} et {THING:ItemVolatiles} pour allumer un feu à l'intérieur, bien que cela augmente considérablement la pression à l'intérieur.
 
 Une fois que la température est correcte, insérez les minerais pour les fondre - mais surveillez vos ratios ou vos déchets apparaîtront sous la forme {THING:ItemReagentMix} qui devra être trié dans un {THING:StructureCentrifuge}. Pour récupérer la production, tirez la poignée {LOGICTYPE:Open}.
 {/LIST}
