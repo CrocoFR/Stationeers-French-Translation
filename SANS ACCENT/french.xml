@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version sans accent FR181019 (YYMMDD) - v0.2.1774.8154 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- version Sans Accent FR0181101 (YYMMDD) - v0.2.1791.8240 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->
- <Name>French</Name>
+<Name>French</Name>
   <Code>FR</Code>
   <Reagents>
     <RecordReagent>
@@ -132,27 +132,27 @@
     </RecordReagent>
     <RecordReagent>
       <Key>ColorRed</Key>
-      <Value>Coloration rouge</Value>
+      <Value>Coloration rouge</Value> 
       <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>ColorGreen</Key>
-      <Value>Coloration verte</Value>
+      <Value>Coloration verte</Value> 
       <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>ColorBlue</Key>
-      <Value>Coloration bleue</Value>
+      <Value>Coloration bleue</Value> 
       <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>ColorYellow</Key>
-      <Value>Coloration jaune</Value>
+      <Value>Coloration jaune</Value> 
       <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>ColorOrange</Key>
-      <Value>Coloration orange</Value>
+      <Value>Coloration orange</Value> 
       <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
@@ -215,7 +215,7 @@
     </Record>
     <Record>
       <Key>Clear</Key>
-      <Value>Annuler</Value> <!-- Annuler fabrication -->
+      <Value>Annuler</Value>  <!-- Annuler fabrication -->
     </Record>
     <Record>
       <Key>Collect</Key>
@@ -665,7 +665,7 @@
     </Record>
     <Record>
       <Key>DynamicCrateCableSupplies</Key>
-      <Value>Caisse (Fournitures de Cablage)</Value>
+      <Value>Caisse (Fournitures de Câblage)</Value>
     </Record>
     <Record>
       <Key>DynamicCrateConveyorSupplies</Key>
@@ -785,27 +785,27 @@
     </Record>
     <Record>
       <Key>ItemCableCoil</Key>
-      <Value>Bobine de Cable</Value>
+      <Value>Bobine de Câble</Value>
     </Record>
     <Record>
       <Key>ItemChemLightBlue</Key>
-      <Value>Batons Lumineux (Bleu)</Value>
+      <Value>Bâtons Lumineux (Bleu)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightGreen</Key>
-      <Value>Batons Lumineux (Vert)</Value>
+      <Value>Bâtons Lumineux (Vert)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightRed</Key>
-      <Value>Batons Lumineux (Rouge)</Value>
+      <Value>Bâtons Lumineux (Rouge)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightWhite</Key>
-      <Value>Batons Lumineux (Blanc)</Value>
+      <Value>Bâtons Lumineux (Blanc)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightYellow</Key>
-      <Value>Batons Lumineux (Jaune)</Value>
+      <Value>Bâtons Lumineux (Jaune)</Value>
     </Record>
     <Record>
       <Key>ItemCoalOre</Key>
@@ -1209,7 +1209,7 @@
     </Record>
     <Record>
       <Key>ItemRTG</Key>
-      <Value>RTG</Value> <!-- Creative uniquement -->
+      <Value>RTG</Value>  <!-- Creative uniquement -->
     </Record>
     <Record>
       <Key>ItemScanner</Key>
@@ -1413,7 +1413,7 @@
     </Record>
     <Record>
       <Key>StructureBench</Key>
-      <Value>Plan de travail</Value> <!-- Pour poser micro onde -->
+      <Value>Plan de travail</Value>  <!-- Pour poser micro onde -->
     </Record>
     <Record>
       <Key>StructureBlastDoor</Key>
@@ -1421,27 +1421,27 @@
     </Record>
     <Record>
       <Key>StructureCableCorner</Key>
-      <Value>Cable (Coin)</Value>
+      <Value>Câble (Coin)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner3</Key>
-      <Value>Cable (Coin a 3 Voies)</Value>
+      <Value>Câble (Coin a 3 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction</Key>
-      <Value>Cable (Jonction)</Value>
+      <Value>Câble (Jonction)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction4</Key>
-      <Value>Cable (Jonction a 4 Voies)</Value>
+      <Value>Câble (Jonction a 4 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6</Key>
-      <Value>Cable (Jonction a 6 Voies)</Value>
+      <Value>Câble (Jonction a 6 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableStraight</Key>
-      <Value>Cable (Droit)</Value>
+      <Value>Câble (Droit)</Value>
     </Record>
     <Record>
       <Key>StructureCamera</Key>
@@ -1809,27 +1809,27 @@
     </Record>
     <Record>
       <Key>StructureCableStraightBurnt</Key>
-      <Value>Cable Brule (Droit)</Value>
+      <Value>Câble Brule (Droit)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner3Burnt</Key>
-      <Value>Cable Brule (Coin a 3 voies)</Value>
+      <Value>Câble Brule (Coin a 3 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerBurnt</Key>
-      <Value>Cable Brule (Coin)</Value>
+      <Value>Câble Brule (Coin)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction4Burnt</Key>
-      <Value>Cable Brule (Jonction a 4 voies)</Value>
+      <Value>Câble Brule (Jonction a 4 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6Burnt</Key>
-      <Value>Cable Brule (Jonction a 6 voies)</Value>
+      <Value>Câble Brule (Jonction a 6 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionBurnt</Key>
-      <Value>Cable Brule (Jonction)</Value>
+      <Value>Câble Brule (Jonction)</Value>
     </Record>
     <Record>
       <Key>StructureSolidFuelGenerator</Key>
@@ -1841,47 +1841,47 @@
     </Record>
     <Record>
       <Key>ItemCableFuse</Key>
-      <Value>Kit (Fusibles de Cable)</Value>
+      <Value>Kit (Fusibles de Câble)</Value>
     </Record>
     <Record>
       <Key>StructureCableStraightH</Key>
-      <Value>Cable HT (Droit)</Value>
+      <Value>Câble HT (Droit)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH6</Key>
-      <Value>Cable HT (Jonction a 6 voies)</Value>
+      <Value>Câble HT (Jonction a 6 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH4</Key>
-      <Value>Cable HT (Jonction a 4 voies)</Value>
+      <Value>Câble HT (Jonction a 4 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH</Key>
-      <Value>Cable HT (Jonction a 3 voies)</Value>
+      <Value>Câble HT (Jonction a 3 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6HBurnt</Key>
-      <Value>Cable HT Brule (Jonction a 6 voies)</Value>
+      <Value>Câble HT Brule (Jonction a 6 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction4HBurnt</Key>
-      <Value>Cable HT Brule (Jonction a 4 voies)</Value>
+      <Value>Câble HT Brule (Jonction a 4 voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableStraightHBurnt</Key>
-      <Value>Cable HT Brule (Droit)</Value>
+      <Value>Câble HT Brule (Droit)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionHBurnt</Key>
-      <Value>Cable HT Brule (Jonction)</Value>
+      <Value>Câble HT Brule (Jonction)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerHBurnt</Key>
-      <Value>Cable HT Brule (Coin)</Value>
+      <Value>Câble HT Brule (Coin)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerH</Key>
-      <Value>Cable HT (Coin)</Value>
+      <Value>Câble HT (Coin)</Value>
     </Record>
     <Record>
       <Key>StructureCableFuse1k</Key>
@@ -1941,7 +1941,7 @@
     </Record>
     <Record>
       <Key>ItemCableCoilHeavy</Key>
-      <Value>Bobine de Cable (Haute Tension)</Value>
+      <Value>Bobine de Câble (Haute Tension)</Value>
     </Record>
     <Record>
       <Key>StructureFrameIron</Key>
@@ -2265,11 +2265,11 @@
     </Record>
     <Record>
       <Key>ItemCableAnalyser</Key>
-      <Value>Kit (Analyseur de Cable)</Value>
+      <Value>Kit (Analyseur de Câble)</Value>
     </Record>
     <Record>
       <Key>StructureCableAnalysizer</Key>
-      <Value>Analyseur de Cable</Value>
+      <Value>Analyseur de Câble</Value>
     </Record>
     <Record>
       <Key>StructureLogicDial</Key>
@@ -2349,15 +2349,15 @@
     </Record>
     <Record>
       <Key>StructureCableCornerH3</Key>
-      <Value>Cable HT (Coin a 3 Voies)</Value>
+      <Value>Câble HT (Coin a 3 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerH4</Key>
-      <Value>Cable HT (Coin a 4 Voies)</Value>
+      <Value>Câble HT (Coin a 4 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner4HBurnt</Key>
-      <Value>Cable HT Brule (Coin a 4 Voies)</Value>
+      <Value>Câble HT Brule (Coin a 4 Voies)</Value>
     </Record>
     <Record>
       <Key>PortableSolarPanel</Key>
@@ -2365,27 +2365,27 @@
     </Record>
 	<Record>
       <Key>StructureCableJunction5</Key>
-      <Value>Cable (Jonction a 5 Voies)</Value>
+      <Value>Câble (Jonction a 5 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner4</Key>
-      <Value>Cable (Coin a 4 Voies)</Value>
+      <Value>Câble (Coin a 4 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner4Burnt</Key>
-      <Value>Cable Brule (Coin a 3 Voies)</Value>
+      <Value>Câble Brule (Coin a 3 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction5Burnt</Key>
-      <Value>Cable Brule (Jonction a 5 Voies)</Value>
+      <Value>Câble Brule (Jonction a 5 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH5</Key>
-      <Value>Cable HT (Jonction a 5 Voies)</Value>
+      <Value>Câble HT (Jonction a 5 Voies)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH5Burnt</Key>
-      <Value>Cable HT Brule (Jonction a 5 Voies)</Value>
+      <Value>Câble HT Brule (Jonction a 5 Voies)</Value>
     </Record>
 		<Record>
       <Key>WallFrameCornerCut</Key>
@@ -2497,11 +2497,11 @@
     </Record>
     <Record>
       <Key>CompositeFloorGrating1</Key>
-      <Value>Caillebotis Composite 1</Value> <!-- determiner quand il s'affiche -->
+      <Value>Caillebotis Composite 1</Value>  <!-- determiner quand il s'affiche -->
     </Record>
     <Record>
       <Key>CompositeFloorGrating2</Key>
-      <Value>Caillebotis Composite 2</Value> <!-- determiner quand il s'affiche -->
+      <Value>Caillebotis Composite 2</Value>  <!-- determiner quand il s'affiche -->
     </Record>
     <Record>
       <Key>StructureCompositeFloorGrating2</Key>
@@ -2977,7 +2977,7 @@
     </Record>
     <Record>
       <Key>ItemKitTurbineGenerator</Key>
-      <Value>Kit (Generateur a Turbine)</Value>
+      <Value>Kit (Generateur a Turbine)</Value> 
     </Record>
     <Record>
       <Key>ReagentSilver</Key>
@@ -2985,47 +2985,47 @@
     </Record>
     <Record>
       <Key>ReagentPotassiumIodide</Key>
-      <Value>Pourdre de iodure de Potassium</Value>
+      <Value>Pourdre de iodure de Potassium</Value> 
     </Record>
     <Record>
       <Key>ReagentInvar</Key>
-      <Value>Poudre d'Invar</Value>
+      <Value>Poudre d'Invar</Value> 
     </Record>
     <Record>
       <Key>ReagentElectrum</Key>
-      <Value>Poudre d'Electrum</Value>
+      <Value>Poudre d'Electrum</Value> 
     </Record>
     <Record>
       <Key>ReagentGold</Key>
-      <Value>Poudre d'Or</Value>
+      <Value>Poudre d'Or</Value> 
     </Record>
     <Record>
       <Key>StructureUnloader</Key>
-      <Value>Dechargeur</Value>
+      <Value>Dechargeur</Value> 
     </Record>
     <Record>
       <Key>ReagentFenoxitone</Key>
-      <Value>Poudre de Fenoxitone</Value>
+      <Value>Poudre de Fenoxitone</Value> 
     </Record>
     <Record>
       <Key>StructurePlatformLadderOpen</Key>
-      <Value>Platforme d'echelle</Value>
+      <Value>Platforme d'echelle</Value> 
     </Record>
     <Record>
       <Key>StructureLadderEnd</Key>
-      <Value>Fin d'echelle</Value>
+      <Value>Fin d'echelle</Value> 
     </Record>
     <Record>
       <Key>StructureLockerSmall</Key>
-      <Value>Casier (Petit)</Value>
+      <Value>Casier (Petit)</Value> 
     </Record>
     <Record>
       <Key>StructureLogicBatchSlotReader</Key>
-      <Value>Unite Logique: Lecture Slot groupes</Value>
+      <Value>Unite Logique: Lecture Slot groupes</Value> 
     </Record>
     <Record>
       <Key>CircuitboardAdvAirlockControl</Key>
-      <Value>Circuit imprime (SAS ameliore)</Value>
+      <Value>Circuit imprime (SAS ameliore)</Value> 
     </Record>
 	<Record>
       <Key>ItemKitPressurePlate</Key>
@@ -3049,99 +3049,99 @@
     </Record>
 <Record>
       <Key>ItemFlowerBlue</Key>
-      <Value>Fleur (Bleu)</Value>
+      <Value>Fleur (Bleu)</Value> 
     </Record>
     <Record>
       <Key>ItemFlowerOrange</Key>
-      <Value>Fleur (Orange)</Value>
+      <Value>Fleur (Orange)</Value> 
     </Record>
     <Record>
       <Key>ItemFlowerRed</Key>
-      <Value>Fleur (Rouge)</Value>
+      <Value>Fleur (Rouge)</Value> 
     </Record>
     <Record>
       <Key>ItemFlowerYellow</Key>
-      <Value>Fleur (Jaune)</Value>
+      <Value>Fleur (Jaune)</Value> 
     </Record>
     <Record>
       <Key>AppliancePaintMixer</Key>
-      <Value>Melangeur de peinture</Value>
+      <Value>Melangeur de peinture</Value> 
     </Record>
     <Record>
       <Key>ReagentColorBlue</Key>
-      <Value>Colorant (Bleu)</Value>
+      <Value>Colorant (Bleu)</Value> 
     </Record>
     <Record>
       <Key>ReagentCarbon</Key>
-      <Value>Poudre de carbone</Value>
+      <Value>Poudre de carbone</Value> 
     </Record>
     <Record>
       <Key>ReagentColorGreen</Key>
-      <Value>Colorant (Vert)</Value>
+      <Value>Colorant (Vert)</Value> 
     </Record>
     <Record>
       <Key>ReagentColorOrange</Key>
-      <Value>Colorant(Orange)</Value>
+      <Value>Colorant(Orange)</Value> 
     </Record>
     <Record>
       <Key>ReagentColorRed</Key>
-      <Value>Colorant (Rouge)</Value>
+      <Value>Colorant (Rouge)</Value> 
     </Record>
     <Record>
       <Key>ReagentColorYellow</Key>
-      <Value>Colorant (Jaune)</Value>
+      <Value>Colorant (Jaune)</Value> 
     </Record>
     <Record>
       <Key>ItemFlowerGreen</Key>
-      <Value>Fleur (Verte)</Value>
+      <Value>Fleur (Verte)</Value> 
     </Record>
     <Record>
       <Key>ItemGasFilterCarbonDioxideL</Key>
-      <Value>Grand Filtre (CO2)</Value>
+      <Value>Grand Filtre (CO2)</Value> 
     </Record>
     <Record>
       <Key>ItemGasFilterCarbonDioxideM</Key>
-      <Value>Filtre moyen (CO2)</Value>
+      <Value>Filtre moyen (CO2)</Value> 
     </Record>
     <Record>
       <Key>ItemGasFilterNitrogenL</Key>
-      <Value>Grand Filtre (Azote)</Value>
+      <Value>Grand Filtre (Azote)</Value> 
     </Record>
     <Record>
       <Key>ItemGasFilterNitrogenM</Key>
-      <Value>Filtre moyen (Azote)</Value>
+      <Value>Filtre moyen (Azote)</Value> 
     </Record>
     <Record>
       <Key>ItemGasFilterOxygenL</Key>
-      <Value>Grand Filtre (Oxygene)</Value>
+      <Value>Grand Filtre (Oxygene)</Value> 
     </Record>
     <Record>
       <Key>ItemGasFilterOxygenM</Key>
-      <Value>Filtre moyen (Oxygene)</Value>
+      <Value>Filtre moyen (Oxygene)</Value> 
     </Record>
     <Record>
       <Key>ItemGasFilterPollutantsL</Key>
-      <Value>Grand Filtre (Polluant)</Value>
+      <Value>Grand Filtre (Polluant)</Value> 
     </Record>
     <Record>
       <Key>ItemGasFilterPollutantsM</Key>
-      <Value>Filtre moyen (Polluant)</Value>
+      <Value>Filtre moyen (Polluant)</Value> 
     </Record>
     <Record>
       <Key>ItemGasFilterVolatilesL</Key>
-      <Value>Grand Filtre (Volatiles)</Value>
+      <Value>Grand Filtre (Volatiles)</Value> 
     </Record>
     <Record>
       <Key>ItemGasFilterVolatilesM</Key>
-      <Value>Filtre moyen (Volatiles)</Value>
+      <Value>Filtre moyen (Volatiles)</Value> 
     </Record>
     <Record>
       <Key>ItemGasFilterWaterL</Key>
-      <Value>Grand Filtre (Eau)</Value>
+      <Value>Grand Filtre (Eau)</Value> 
     </Record>
     <Record>
       <Key>ItemGasFilterWaterM</Key>
-      <Value>Filtre moyen (Eau)</Value>
+      <Value>Filtre moyen (Eau)</Value> 
     </Record>
     <Record>
       <Key>ItemMushroom</Key>
@@ -3197,7 +3197,7 @@
     </Record>
     <Record>
       <Key>ItemKitLogicCircuit</Key>
-      <Value>Kit (Support CI)</Value>
+      <Value>Kit (Support CI)</Value> 
     </Record>
     <Record>
       <Key>StructureCircuitHousing</Key>
@@ -3205,7 +3205,7 @@
     </Record>
     <Record>
       <Key>ItemIntegratedCircuit10</Key>
-      <Value>Circuit Integre (CI10)</Value>
+      <Value>Circuit Integre (CI10)</Value> 
     </Record>
     <Record>
       <Key>StructureHydroponicsAutomated</Key>
@@ -3229,7 +3229,7 @@
     </Record>
     <Record>
       <Key>ItemGasFilterNitrousOxide</Key>
-      <Value>Filtre (Oxyde Nitreux)</Value>
+      <Value>Filtre (Oxyde Nitreux Oxide)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterNitrousOxideL</Key>
@@ -3274,6 +3274,14 @@
     <Record>
       <Key>ItemPlasticSheets</Key>
       <Value>Plaques en plastique</Value>
+    </Record>
+	    <Record>
+      <Key>ItemAlienMushroom</Key>
+      <Value>Champignon Alien</Value>
+    </Record>
+    <Record>
+      <Key>MotherboardComms</Key>
+      <Value>Carte mere (Communications)</Value>
     </Record>
 	</Things>
   <Slots>
@@ -3805,27 +3813,27 @@
     </Record>
     <Record>
       <Key>TemperatureUp</Key>
-      <Value>Monter temperature</Value>
+      <Value>Monter temperature</Value> 
     </Record>
     <Record>
       <Key>TemperatureDown</Key>
-      <Value>Baisser temperature</Value>
+      <Value>Baisser temperature</Value> 
     </Record>
     <Record>
       <Key>ThrustUp</Key>
-      <Value>Monter poussee</Value>
+      <Value>Monter poussee</Value> 
     </Record>
     <Record>
       <Key>ThrustDown</Key>
-      <Value>Baisser poussee</Value>
+      <Value>Baisser poussee</Value> 
     </Record>
     <Record>
       <Key>Button5</Key>
-      <Value>Bouton5</Value>
+      <Value>Bouton5</Value> 
     </Record>
     <Record>
       <Key>Button6</Key>
-      <Value>Bouton6</Value>
+      <Value>Bouton6</Value>  
     </Record>
 	</Interactables>
   <Interface>
@@ -4239,7 +4247,7 @@
     </Record>
     <Record>
       <Key>AlertButtonClose</Key>
-      <Value>Fermer</Value> <!-- Determiner contexte (surement menu) -->
+      <Value>Fermer</Value>  <!-- Determiner contexte (surement menu) -->
     </Record>
     <Record>
       <Key>AlertButtonTitle</Key>
@@ -4255,7 +4263,7 @@
     </Record>
     <Record>
       <Key>ButtonCancel</Key>
-      <Value>Annuler</Value> <!-- Menu du jeu -->
+      <Value>Annuler</Value>  <!-- Menu du jeu -->
     </Record>
     <Record>
       <Key>InputTextRename</Key>
@@ -4396,7 +4404,8 @@ Alors sors de la, Stationeer !</Value>
     </Record>
     <Record>
       <Key>MulticonstructorItem</Key>
-      <Value>&lt;color=yellow&gt;Option de construction {0} de {1} &lt;/color&gt; Scroll &lt;color=red&gt;Roulette de la souris&lt;/color&gt; pour plus d'options.</Value>
+      <Value>&lt;color=yellow&gt;Option de construction {0} de {1} &lt;/color&gt; 
+Scroll &lt;color=red&gt;Roulette de la souris&lt;/color&gt; pour plus d'options.</Value>
     </Record>
     <Record>
       <Key>UnableToConstruct</Key>
@@ -4596,8 +4605,8 @@ Alors sors de la, Stationeer !</Value>
     </Record>
     <Record>
       <Key>AlertNoResponse</Key>
-      <Value>Le serveur de jeu ne repond pas.
-Veuillez reessayer.</Value>
+      <Value>Le serveur de jeu ne repond pas. 
+Veuillez reessayer.</Value>					 
     </Record>
     <Record>
       <Key>AlertKicked</Key>
@@ -4850,7 +4859,7 @@ Veuillez reessayer.</Value>
     <Record>
       <Key>NewWorldMoonDesc</Key>
       <Value>Alors vous etes coince sur la lune, mais tout n'est pas perdu...
-Bien sur, il y fait froid, rude et monotone, mais au moins le soleil brille. Le panneau solaire va vous etre utile, ainsi que le controleur de puissance ... et aussi le four a arc.
+Bien sur, il y fait froid, rude et monotone, mais au moins le soleil brille. Le panneau solaire va vous etre utile, ainsi que le controleur de puissance ... et aussi le four a arc.	  
 Il y a meme un peu de nourriture et d'oxygene dans les autres caisses, meme si ca ne va pas durer eternellement... tout comme votre batterie...
 Vous feriez mieux de commencer a reflechir comment vous aller survivre. a quel point cela pourrait etre difficile de greer un SAS ? Un generateur ? Peut-etre meme faire fondre du minerai et construire votre base ?
 On dirait que vous allez etre ici un moment.</Value>
@@ -5118,6 +5127,10 @@ Temperature {1}</Value>
     <Record>
       <Key>SettingsClouds</Key>
       <Value>Activer Nuages</Value>
+    </Record>
+	    <Record>
+      <Key>InvalidDegrees</Key>
+      <Value>Nil</Value>
     </Record>
   </Interface>
   <Colors>
