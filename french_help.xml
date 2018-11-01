@@ -2,7 +2,6 @@
 <!-- version FR0181101 (YYMMDD) - v0.2.1791.8240 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->
 <Code>FR</Code>
-<!--|                 Taille cadre            |-->
   <HelpPage>
     <!--
     ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -85,13 +84,13 @@ Une fois que la température est correcte, insérez les minerais pour les fondre
   <StationpediaPage>
       <Key>InventoryPage</Key>
       <Title>Inventaire</Title>
-      <Text>Toutes les choses dans le jeu peuvent avoir différents emplacements. Ces emplacements peuvent avoir des cases spécifiques, ne permettant que certaines choses d'êtres utilisé dans ces emplacements. Il existe différentes touches de raccourci pour accéder aux emplacements de votre personnage, telles que {KEY:HelmetSlot} pour accéder à votre {SLOT:Helmet}.
+      <Text>Toutes les choses dans le jeu peuvent avoir différents emplacements. Ces emplacements peuvent avoir des cases spécifiques, ne permettant que certaines choses d'êtres utilisé dans ces emplacements. Il existe différentes touches de raccourci pour accéder aux emplacements de votre personnage, telles que la touche {KEY:HelmetSlot} pour accéder à votre emplacement {SLOT:Helmet}.
       
 {HEADER:Fenetre d inventaire}
 Certains emplacements auront leurs propres cases. Pour interagir avec le contenu d'un emplacement, utilisez le raccourci clavier pour ouvrir la fenêtre ou maintenez {KEY:MouseControl} et utilisez la souris pour cliquer dessus. La fenêtre de cet emplacement est maintenant ouverte et vous pouvez interagir avec ses cases et ses paramètres. Les fenêtres sont repositionnables en faisant glisser leur barre de titre.
 
 {HEADER:Equipement rapide}
-Vous pouvez maintenir une touche de raccourci enfoncée pour rapidement équiper, déséquiper ou échanger un emplacement. Par exemple, si nous avions une {THING:ItemSpaceHelmet} dans les mains et rien dans notre emplacement {SLOT:Helmet}, si nous maintenions la touche {KEY:HelmetSlot} enfoncé pendant une seconde, il serait transféré dans l'emplacement.
+Vous pouvez maintenir une touche de raccourci enfoncée pour rapidement équiper, déséquiper ou échanger un emplacement. Par exemple, si nous avions un {THING:ItemSpaceHelmet} dans les mains et rien dans notre emplacement {SLOT:Helmet}, si nous maintenions la touche {KEY:HelmetSlot} enfoncé pendant une seconde, il serait transféré dans l'emplacement.
 
 {HEADER:Glisser et deposer}
 Si vous maintenez la touche {KEY:MouseControl} enfoncée, vous pouvez également effectuer un glisser-déposer. Vous pouvez glisser-déposer entre les emplacements, les fenêtres, même entre le monde et les emplacements dans le monde.
@@ -139,7 +138,7 @@ Les appareils suivants peuvent être connectés et utilisés par le système de 
     <StationpediaPage>
       <Key>FabricatorPage</Key>
       <Title>Machines</Title>
-      <Text>Ce sont des structures motorisées qui peuvent être utilisées pour fabriquer ce dont vous avez besoin dans le jeu. Ils utilisent généralement des {LINK:IngotPage;lingots} pour extraire le {LINK:ReagentPage;reactifs} dont ils ont besoin pour fabriquer des objets.
+      <Text>Ce sont des structures motorisées qui peuvent être utilisées pour fabriquer ce dont vous avez besoin dans le jeu. Ils utilisent généralement des {LINK:IngotPage;lingots} pour extraire les {LINK:ReagentPage;reactifs} dont ils ont besoin pour fabriquer des objets.
       
 {HEADER:Liste des machines}
 {LIST_OF_FABRICATORS}
