@@ -1,0 +1,445 @@
+﻿<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<!-- version FR0181101 (YYMMDD) - v0.2.1791.8240 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- https://github.com/CrocoFR/Stationeers-French-Translation -->
+<Code>FR</Code>
+<!--|                 Taille cadre            |-->
+  <HelpPage>
+    <!--
+    ~~~~~~~~~~~~~~~~~~~~~~~~~
+    |                 MASTER PAGES            |
+    ~~~~~~~~~~~~~~~~~~~~~~~~~
+    -->  
+  
+    <StationpediaPage>
+      <Key>Home</Key>
+      <Title>Accueil</Title>
+      <Text>Bienvenue dans le système d’aide interne pour Stationeers. Avec cet outil, vous pouvez trouver des informations sur le fonctionnement de tous les systèmes, ainsi que des informations importantes sur tout ce qui se passe dans le monde.
+      
+{HEADER:Aide}
+Vous pouvez ouvrir et fermer cette fenêtre à l’aide de la touche {KEY:Help}. Pour activer le curseur de la souris pendant la lecture, maintenez la touche {KEY:MouseControl} enfoncée, ce qui vous permet de cliquer sur des liens dans le système d'aide.
+
+{HEADER:Inspecter}
+Si vous maintenez les touches {KEY:MouseControl} et {KEY:MouseInspect} et cliquez sur quelque chose que vous pouvez [i]inspecter[/i]. Cela ouvrira le système d’aide à la page associée à cet objet et vous donnera des informations détaillées.
+
+{HEADER:Key topics}
+{LIST}{LINK:SmeltingPage;Fonte}, {LINK:MiningPage;Exploitation miniere}, {LINK:ConstructionPage;Construction}, {LINK:InventoryPage;Inventaire}
+{/LIST}
+{HEADER:Guides}
+{LIST}{LINK:GettingStarted;Commencer}
+{/LIST}
+{HEADER:Other}
+{LIST}{LINK:GasPage;Gazs}, {LINK:ReagentPage;Reactifs}
+{/LIST}
+{HEADER:Items}
+{LIST}{LINK:ToolPage;Outils}, {LINK:ResourcePage;Resources}, {LINK:KitPage;Kits}, {LINK:FoodPage;Aliments}, {LINK:ClothingPage;Vetements}, {LINK:AppliancePage;Appareils electromenagers}, {LINK:IngotPage;Lingots}, {LINK:OrePage;Minerais}, {LINK:AlloyPage;Alliages}
+{/LIST}
+{HEADER:Structures}
+{LIST}{LINK:DevicePage;Dispositifs}, {LINK:FabricatorPage;Machines}, {LINK:AirlockDevicePage;Dispositifs de sas}, {LINK:LogicUnitPage;Unites logiques}
+{/LIST}
+      </Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>GettingStarted</Key>
+      <Title>Commencer</Title>
+      <Text>{HEADER:Bienvenue dans un nouveau monde}
+Si c'est votre première fois, il y a beaucoup à apprendre en même temps. Les pressions initiales sur vous sont excellentes et il peut être très pénible de se lancer. Voici quelques lignes directrices générales pour commencer. Chaque type de monde a des problèmes différents auxquels vous devez faire face, mais ce qui suit devrait vous donner un aperçu général de ce que vous devez gérer.
+      
+{HEADER:Garder votre combinaison charge}
+Le besoin le plus pressant est de recharger la {THING:ItemBatteryCellLarge} dans votre {THING:ItemEvaSuit}. La pile de la combinaison sert à alimenter votre lumière {THING:ItemSpaceHelmet} (éteignez-la quand vous ne l'utilisez pas) et à réchauffer votre air interne. Sur les mondes plus froids, cela consomme beaucoup d'énergie. Vous devrez placer un {THING:ItemBatteryCharger} et le connecter à une source d'alimentation. Le {THING:StructureSolidFuelGenerator} alimenté par {THING:ItemCoalOre} ou le {THING:StructureSolarPanel} constituent un bon moyen de gérer cela. En cas d’urgence, retirez les piles de votre {LINK:ToolPage;outils} pour maintenir votre combinaison ou utilisez le {THING:PortableSolarPanel} fourni pour les charger.
+
+{HEADER:Ameliorer la collecte d energie}
+Placer un {THING:StructureAreaPowerControl} avec une {THING:ItemBatteryCell} inséré, entre la source d'alimentation et vos chargeurs seront d'une grande aide. Ceci est dû au fait que la source d’énergie génère probablement plus d’énergie que le {THING:ItemBatteryCharger} ne peut en contenir et est gaspillé. De plus, bien que vous puissiez orienter manuellement {THING:StructureSolarPanel}, son automatisation pour suivre le soleil vous aidera beaucoup. Vous pouvez utiliser des {LINK:LogicUnitPage;unités logiques} pour vous aider.
+      
+{HEADER:Gérer votre Oxygene}
+Votre {THING:ItemEvaSuit} et {THING:ItemSpaceHelmet} forment une coque de protection contre les éléments. {THING:ItemEvaSuit} a besoin de {THING:ItemGasCanisterOxygen} pour vous fournir du pur {GAZ:Oxygen}. Gardez un œil sur la quantité de gaz dans le réservoir, vous pouvez le remplir en utilisant le gros {THING:DynamicGasCanisterOxygen} fourni dans votre boîte de vitesses Il y a un marqueur "de danger" indiquant dans quelle fente vous pouvez insérer la cartouche pour la remplir.
+
+{HEADER:Fonte basique}
+Une fois que vous avez une génération d’énergie de base, vous devez commencer à obtenir plus de ressources. Rendez-vous sur {LINK:MiningPage; Mining} pour obtenir un {LINK:OrePage;minerais} de base. Placez le {THING:StructureArcFurnace} et connectez-le derrière votre {THING:StructureAreaPowerControl}. Cela {LINK:SmeltingPage;Smelt} de base {LINK:OrePage;minerais}, tel que {THING:ItemIronOre}, {THING:ItemSiliconOre} et tout autre élément non {LINK:AlloyPage;alliage}.
+
+{HEADER:Fabrication basique}
+Maintenant que vous avez des {LINK:IngotPage;lingots}, vous pouvez les insérer dans une {LINK:FabricatorPage;machine} en tant que ressource. Construisez le {THING:StructureAutolathe} à partir du {THING:ItemKitAutolathe} fourni dans les caisses de départ.
+
+{HEADER:Replacer vos filtres}
+Lorsque vous inspirez {GAS:Oxygen}, vous expirez également {GAS:CarbonDioxide}. Vous avez donc également besoin d'un {THING:ItemGasFilterCarbonDioxide} dans votre emplacement {SLOT:Filter}. Celles-ci s'usent avec le temps et vous devrez en créer de nouvelles sur le {THING:StructureHydraulicPipeBender}. Cela peut être fait à partir d'un {THING:ItemKitHydraulicPipeBender} sur le {THING:StructureAutolathe}.
+
+{HEADER:Construiser une serre}
+Vous aurez besoin d'un petit espace clos pour configurer votre serre {LINK:HydroponicsPage;hydroponique} afin de vous permettre de créer des {LINK:FoodPage;aliments}. Ne la faites pas trop grosse car il sera plus difficile de la mettre sous pression. Faites beaucoup de {THING:} en utilisant une variante des kits {THING:ItemKitWallIron} pour laisser entrer la lumière du soleil. Assurez-vous que l'entrée est gérée à l'aide d'un {LINK:AirlockPage;sas} automatisé ou manuel. N'oubliez pas que vous pouvez ouvrir et fermer des portes non alimentées à l'aide de {THING:ItemCrowbar}.
+
+{HEADER:Pressuriser votre serre}
+Une fois la zone délimitée, votre {LINK:MiningPage;exploitation miniere}, une partie de {THING:ItemOxite} et faites-la fondre jusqu'à obtenir une pression d'environ 100 kPa dans votre zone de culture. Ajoutez ensuite {GAS:CarbonDioxide} à l’atmosphère. Vous pouvez le faire facilement en prenant votre réservoir de déchets de votre {THING:ItemEvaSuit} entre vos mains, en l'ouvrant, puis en le fermant et en le remettant en place. Cela libère le {GAS:CarbonDioxide} filtré de votre respiration dans l'environnement. Les {LINK:PlantPage;plantes} l'utiliseront pour respirer.
+
+{HEADER:Croissance des plantes}
+Prenez le {THING:DynamicHydroponics} fourni dans votre nouvelle serre. Il dispose d'un {THING:ItemGasCanisterWater} pour fournir les plantes en {GAS:Water}. Plantez maintenant en utilisant {THING:ItemPotato} dans les caisses de départ. Plantez-en un d'abord et vérifiez qu'il est en croissance avant d'utiliser les autres. Ils ont besoin de la lumière du soleil, de la chaleur et d'une petite quantité de {GAS:CarbonDioxide} pour survivre.
+
+{HEADER:Fonte avance}
+{THING:StructureArcFurnace} vous permet uniquement de fondre un {LINK:OrePage;minerais} simple et de créer des composants plus avancés nécessitant l'utilisation de méthodes plus complexes pour {LINK:AlloyPage;alliages}. Celles-ci sont effectuées dans le {THING:StructureFurnace}, en obtenant le bon ratio de mélange {LINK:PressurePage;Pressure}, {LINK:TemperaturePage;Temperature} et {LINK:ReagentPage;Reagent}. Par exemple, pour créer {THING:ItemSteelIngot}, vous aurez besoin d’un ratio de 1 {REAGENT:Iron} pour 3 {REAGENT:Coal}.
+
+Vous pouvez directement insérer {LINK:IcePage;Ices} dans la partie supérieure. S'il n'y a pas d'atmosphère pour les fondre, appuyez sur le bouton {LOGICTYPE:Activate} pour l'écraser. La glace fondra automatiquement s'il y a suffisamment de gaz de la bonne température à l'intérieur. Utilisez un mélange de {THING:ItemOxite} et {THING:ItemVolatiles} pour allumer un feu à l'intérieur, bien que cela augmente considérablement la pression à l'intérieur.
+
+Une fois que la température est correcte, insérez les minerais pour les fondre - mais surveillez vos ratios ou vos déchets apparaîtront sous la forme {THING:ItemReagentMix} qui devra être trié dans un {THING:StructureCentrifuge}. Pour récupérer la production, tirez la poignée {LOGICTYPE:Open}.
+{/LIST}
+      </Text>
+    </StationpediaPage>
+    
+  <StationpediaPage>
+      <Key>InventoryPage</Key>
+      <Title>Inventaire</Title>
+      <Text>Toutes les choses dans le jeu peuvent avoir différents emplacements. Ces emplacements peuvent avoir des cases spécifiques, ne permettant que certaines choses d'êtres utilisé dans ces emplacements. Il existe différentes touches de raccourci pour accéder aux emplacements de votre personnage, telles que {KEY:HelmetSlot} pour accéder à votre {SLOT:Helmet}.
+      
+{HEADER:Fenetre d inventaire}
+Certains emplacements auront leurs propres cases. Pour interagir avec le contenu d'un emplacement, utilisez le raccourci clavier pour ouvrir la fenêtre ou maintenez {KEY:MouseControl} et utilisez la souris pour cliquer dessus. La fenêtre de cet emplacement est maintenant ouverte et vous pouvez interagir avec ses cases et ses paramètres. Les fenêtres sont repositionnables en faisant glisser leur barre de titre.
+
+{HEADER:Equipement rapide}
+Vous pouvez maintenir une touche de raccourci enfoncée pour rapidement équiper, déséquiper ou échanger un emplacement. Par exemple, si nous avions une {THING:ItemSpaceHelmet} dans les mains et rien dans notre emplacement {SLOT:Helmet}, si nous maintenions la touche {KEY:HelmetSlot} enfoncé pendant une seconde, il serait transféré dans l'emplacement.
+
+{HEADER:Glisser et deposer}
+Si vous maintenez la touche {KEY:MouseControl} enfoncée, vous pouvez également effectuer un glisser-déposer. Vous pouvez glisser-déposer entre les emplacements, les fenêtres, même entre le monde et les emplacements dans le monde.
+
+{HEADER:Deposer}
+Vous pouvez déposer un élément à l'aide de la souris, via {KEY:MouseControl} et en le faisant glisser dans le monde ou en appuyant sur {KEY:Drop}.
+
+{HEADER:Selectionner}
+Le bouton {KEY:InventorySelect} permute quel que soit l'emplacement que vous avez sélectionné dans votre main active, ainsi que celui que vous avez sélectionné avec la {COLORRED:molette de la souris} si vous souhaitez utiliser les raccourcis clavier plutôt que de le faire à l'aide de la souris.
+      </Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>AirlockDevicePage</Key>
+      <Title>Dispositifs de sas</Title>
+      <Text>En plaçant un {THING:CircuitboardAirlockControl} dans une {THING:StructureConsole}, vous pouvez y connecter divers périphériques afin de créer un sas fonctionnel.
+      
+{HEADER:Liste des dispositifs de sas}
+Les appareils suivants peuvent être connectés et utilisés par le système de contrôle du sas:
+{LIST_OF_AIRLOCK_DEVICES}
+      </Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>LogicUnitPage</Key>
+      <Title>Unités logiques</Title>
+      <Text>{HEADER:Liste des unites logiques}
+{LIST_OF_LOGIC_UNITS}
+      </Text>
+    </StationpediaPage>
+    
+  <StationpediaPage>
+      <Key>SlotLeftHand</Key>
+      <Title>Emplacements des mains</Title>
+      <Text>Vos mains sont des emplacements spéciaux. Vous avez une main active à tout moment, qui est la main actuellement utilisée par votre {COLORRED:Primary Action}. Pour échanger la main active, appuyez sur {KEY:SwapHands}. Vous pouvez interagir avec votre main active en appuyant sur {KEY:ActiveHandSlot} pour ouvrir et fermer le contenu de votre main active. Comme toujours, vous pouvez utiliser {KEY:MouseControl} pour afficher la souris et interagir de cette façon. Pour plus d'informations, consultez la section {LINK:InventoryPage;Inventaire}.
+      </Text>
+    </StationpediaPage>
+  <StationpediaPage>
+      <Key>SlotRightHand</Key>
+      <Title>Emplacements des mains</Title>
+      <Text>Vos mains sont des emplacements spéciaux. Vous avez une main active à tout moment, qui est la main actuellement utilisée par votre {COLORRED:Primary Action}. Pour échanger la main active, appuyez sur {KEY:SwapHands}. Vous pouvez interagir avec votre main active en appuyant sur {KEY:ActiveHandSlot} pour ouvrir et fermer le contenu de votre main active. Comme toujours, vous pouvez utiliser {KEY:MouseControl} pour afficher la souris et interagir de cette façon. Pour plus d'informations, consultez la section {LINK:InventoryPage;Inventaire}.
+      </Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>FabricatorPage</Key>
+      <Title>Machines</Title>
+      <Text>Ce sont des structures motorisées qui peuvent être utilisées pour fabriquer ce dont vous avez besoin dans le jeu. Ils utilisent généralement des {LINK:IngotPage;lingots} pour extraire le {LINK:ReagentPage;reactifs} dont ils ont besoin pour fabriquer des objets.
+      
+{HEADER:Liste des machines}
+{LIST_OF_FABRICATORS}
+      </Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>DevicePage</Key>
+      <Title>Dispositifs</Title>
+      <Text>Il s’agit de structures, généralement alimentées, dotées de fonctions spécialisées, notamment logiques, atmosphériques, etc. Ils sont construits de la même manière que les autres structures.
+      
+{HEADER:Liste des dispositifs}
+{LIST_OF_DEVICES}
+      </Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>SmeltingPage</Key>
+      <Title>Fonte</Title>
+      <Text>Une fois que vous avez du {LINK:OrePage;minerai}, vous devez le convertir en {LINK:IngotPage;lingot} pour pouvoir utiliser leurs {LINK:ReagentPage;reactifs}. La fusion produira souvent des {LINK:GasPage;gazs}. Cela se produit soit dans le {THING:StructureArcFurnace} (pour les recettes simples) et dans le {THING:StructureFurnace} pour des {LINK:AlloyPage;alliages} plus compliqué. Pour les alliages complexes, vous devrez réaliser des mélanges avec des ratios parfaits, en respectant la {LINK:TemperaturePage;temperature} et la {LINK:PressurePage;pression}. 
+      </Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>MiningPage</Key>
+      <Title>Exploitation minière</Title>
+      <Text>Vous pouvez exploiter un {LINK:OrePage;minerai} avec un {THING:ItemMiningDrill}. Si vous portez un {THING:ItemMiningBelt}, le {LINK:OrePage;minerai} y sera automatiquement placé.
+      </Text>
+    </StationpediaPage>
+   
+    <StationpediaPage>
+      <Key>ConstructionPage</Key>
+      <Title>Construction</Title>
+      <Text>{HEADER:Commencer}
+En règle générale, vous utiliserez des {LINK:KitPage;kits} pour lancer la construction, puis divers {LINK:ToolPage;outils} et {LINK:ResourcePage;resources} à compléter. Portez une attention particulière au nombre de kit requis pour construire ce que vous avez sélectionné, car certaines structures en nécessitent plusieurs. Pour certains kits, vous aurez plusieurs options, utilisez la {COLORRED:molette de la souris} pour modifier l’option actuelle que vous souhaitez créer.
+
+{HEADER:Construire des structures}
+Certaines structures auront plusieurs états de construction nécessitant différentes combinaisons. Votre infobulle vous indiquera la combinaison dont vous avez besoin pour compléter la structure. Parfois, vous aurez besoin de deux objets, un dans chaque main, pour compléter un état de construction. Certains outils devront d'abord être activés, ce qui peut être fait en appuyant sur {KEY:ToggleHandPower} tant qu'il est dans votre main active.
+
+{HEADER:Info-bulles}
+Si vous regardez directement une structure incomplète, vous obtiendrez des informations sur ce que vous devez faire pour la compléter. Si vous avez un {LINK:ToolPage;outil} dans la main et que ce n'est pas le bon {LINK:ToolPage;outil}, une info-bulle apparaîtra pour vous indiquer ce que vous devez utiliser pour le déconstruire.
+      </Text>
+    </StationpediaPage>
+
+    <StationpediaPage>
+      <Key>ReagentPage</Key>
+      <Title>Réactifs</Title>
+      <Text>Ce sont des quantités chimiques de certains types.
+      
+{HEADER:Liste des reactifs}
+{LIST_OF_REAGENTS}
+      </Text>
+    </StationpediaPage>
+
+    <StationpediaPage>
+      <Key>GasPage</Key>
+      <Title>Gazs</Title>
+      <Text>Ce sont des gaz chimiques de certains types.
+      
+{HEADER:Liste des gazs}
+{LIST_OF_GASES}
+      </Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>AlloyPage</Key>
+      <Title>Alliages</Title>
+      <Text>Créés dans le {THING:StructureFurnace} à partir de mélange de {LINK:ReagentPage;reactif}, les {LINK:IngotPage;lingots} avancées pourront être utilisés dans des {LINK:FabricatorPage;machines}. Le {THING:StructureArcFurnace} n'est pas capable de les fondre.
+
+{HEADER:Liste des alliages}
+{LIST_OF_ALLOYS}
+      </Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>OrePage</Key>
+      <Title>Minerais</Title>
+      <Text>Il s’agit d’éléments issu de l'{LINK:MiningPage;exploitation miniere} et pouvant souvent être {LINK:SmeltingPage;fondu}. Vous pouvez également obtenir du minerai mélangé en recyclant des éléments dans le {THING:StructureRecycler}, puis en le passant à travers le {THING:StructureCentrifuge} qui le divisera en {LINK:OrePage;minerai} pour la {LINK:SmeltingPage;fonte}.
+      
+{HEADER:Fondre de la glace}
+Certains minerais fondent lorsqu'ils sont exposés au soleil ou à la chaleur et produisent des {LINK:GasPage;gazs}. Par exemple, la {THING:ItemIce} fond en {GAS:Water} et {GAS:Oxygen}. Veillez à les garder à l'abri de la chaleur ou de la lumière du soleil jusqu'à ce que vous souhaitiez réellement les faire fondre.
+      
+{HEADER:Liste des minerais}
+{LIST_OF_ORES}
+      </Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>IngotPage</Key>
+      <Title>Lingots</Title>
+      <Text>Ce sont des éléments généralement fabriqués à partir de {LINK:SmeltingPage;fonte} et de {LINK:OrePage;minerais}.
+      
+{HEADER:Liste des lingots}
+{LIST_OF_INGOTS}
+      </Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>ToolPage</Key>
+      <Title>Outils</Title>
+      <Text>Ce sont des éléments pouvant tenir dans un emplacement d’outil spécialisé et utilisés pour la {LINK:ConstructionPage;construction} et d’autres tâches.
+      
+{HEADER:Liste des outils}
+{LIST_OF_TOOLS}
+      </Text>
+    </StationpediaPage>
+        
+    <StationpediaPage>
+      <Key>ResourcePage</Key>
+      <Title>Resources</Title>
+      <Text>Il s’agit d’éléments consommés lors de la {LINK:ConstructionPage;construction} et d’autres tâches.
+      
+{HEADER:Liste des ressources}
+{LIST_OF_RESOURCES}
+      </Text>
+    </StationpediaPage>
+        
+    <StationpediaPage>
+      <Key>KitPage</Key>
+      <Title>Kits</Title>
+      <Text>Il s’agit d’éléments consommés lors de la {LINK:ConstructionPage;construction} et d’autres tâches.
+      
+{HEADER:List of Kits}
+{LIST_OF_KITS}
+      </Text>
+    </StationpediaPage>
+        
+    <StationpediaPage>
+      <Key>FoodPage</Key>
+      <Title>Aliments</Title>
+      <Text>Ce sont des éléments qui sont consommés pour fournir de la nutrition.
+      
+{HEADER:Liste des aliments}
+{LIST_OF_FOOD}
+      </Text>
+    </StationpediaPage>
+        
+    <StationpediaPage>
+      <Key>ClothingPage</Key>
+      <Title>Vêtements</Title>
+      <Text>Ce sont des objets que les entités peuvent porter.
+      
+{HEADER:Liste des vetements}
+{LIST_OF_CLOTHING}
+      </Text>
+    </StationpediaPage>
+        
+    <StationpediaPage>
+      <Key>AppliancePage</Key>
+      <Title>Appareils électroménagers</Title>
+      <Text>Ce sont des objets qui peuvent être placés sur des plans de travail. Vous devez les placer sur un plan de travail et les connectés en utilisant une clé.
+      
+{HEADER:Liste des appareils electromenagers}
+{LIST_OF_APPLIANCES}
+      </Text>
+    </StationpediaPage>
+    
+    <!--
+    ~~~~~~~~~~~~~~~~~~~~~~~~~
+    |                     TEMPLATES               |
+	~~~~~~~~~~~~~~~~~~~~~~~~~
+    -->
+    
+    <StationpediaPage>
+      <Key>ThingTemplate</Key>
+      <Text>{0}
+
+{HEADER:General}
+{LIST}Prefab Hash {POS:300}{1}
+Paintable {POS:300}{2}{3}{/LIST}</Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>ThingThermalTemplate</Key>
+      <Text>{HEADER:Thermal Limits}
+{LIST}Shatter {POS:300}{0}
+Flashpoint{POS:300}{1}
+Autoignition{POS:300}{2}{3}{/LIST}</Text>
+    </StationpediaPage>
+    
+    
+    
+    <StationpediaPage>
+      <Key>LogicTypePageTemplate</Key>
+      <Text>{0}</Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>ThingSlotHeaderTemplate</Key>
+      <Text>{HEADER:Slots}{LIST}{0}{/LIST}</Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>ThingSlotItemTemplate</Key>
+      <Text>{0}. {POS:100}{1} {POS:300}Type {2}</Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>ThingStackTemplate</Key>
+      <Text>Stack Size {POS:300}{0}</Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>ThingNutritionTemplate</Key>
+      <Text>Max Nutrition {POS:300}{0}</Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>IceMeltingTemplate</Key>
+      <Text>Melt Temperature {POS:300}{1}
+Melt Pressure {POS:300}{0}</Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>CreatorsHeaderTemplate</Key>
+      <Text>{HEADER:Manufactured By}{LIST}{0}{/LIST}</Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>ConstructedByHeaderTemplate</Key>
+      <Text>{HEADER:Constructed From}
+{LIST}{0}{/LIST}</Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>CreatedHeaderTemplate</Key>
+      <Text>{HEADER:Can Manufacture}
+{LIST}{0}{/LIST}</Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>ConstructedHeaderTemplate</Key>
+      <Text>{HEADER:Can Construct}
+{LIST}{0}{/LIST}</Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>CreatorTemplate</Key>
+      <Text>{LIST}{0}{LIST:300}{1}{/LIST}{/LIST}</Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>LogicTypeHeaderTemplate</Key>
+      <Text>{HEADER:Logic}{LIST}{0}{/LIST}</Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>LogicTypeTemplate</Key>
+      <Text>{0}{POS:300}{1} {2}</Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>ModeStringHeaderTemplate</Key>
+      <Text>{HEADER:Modes}{LIST}{0}{/LIST}</Text>
+    </StationpediaPage>
+        
+    <StationpediaPage>
+      <Key>CreatedGasesTemplate</Key>
+      <Text>{HEADER:Gases}
+{LIST}{0}{/LIST}</Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>CreatedReagentTemplate</Key>
+      <Text>{HEADER:Reagents}
+{LIST}{0}{/LIST}</Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>ModeStringItemTemplate</Key>
+      <Text>{0}.{POS:100}{1}</Text>
+    </StationpediaPage>
+    
+    
+    <StationpediaPage>
+      <Key>ReagentPageTemplate</Key>
+      <Text>A {LINK:ReagentPage;reagent}, often usable when in {LINK:IngotPage;lingots} form.
+
+{HEADER:General}
+{LIST}Unit {POS:300}{1}{/LIST}
+
+{HEADER:Found In}
+{LIST}{2}{/LIST}</Text>
+    </StationpediaPage>
+    
+    <StationpediaPage>
+      <Key>GasPageTemplate</Key>
+      <Text>A {LINK:GasPage;gas}, often produced when {LINK:SmeltingPage;smelting}.
+
+{HEADER:General}
+{LIST}Specific Heat {POS:300}{1}{2}{/LIST}
+
+{HEADER:Found In}
+{LIST}{0}{/LIST}</Text>
+    </StationpediaPage>    
+    
+    <StationpediaPage>
+      <Key>GasPageFlamableTemplate</Key>
+      <Text>Flamable Limit {POS:300}{0} to {1}</Text>
+    </StationpediaPage>
+    
+  </HelpPage>
+</Language>
