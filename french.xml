@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR0181101 (YYMMDD) - v0.2.1791.8240 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- version FR0181117 (YYMMDD) - v0.2.1814.8357 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
 <!-- https://github.com/CrocoFR/Stationeers-French-Translation -->
 <Name>French</Name>
   <Code>FR</Code>
@@ -3243,7 +3243,7 @@
     <Record>
       <Key>ItemGasCanisterNitrousOxide</Key>
       <Value>Bouteille de gaz (anesthésiant)</Value>
-    </Record>	
+    </Record>
 	<Record>
       <Key>ItemNVG</Key>
       <Value>Lunette de vision nocturne</Value>
@@ -3283,6 +3283,26 @@
     <Record>
       <Key>MotherboardComms</Key>
       <Value>Carte mère (Communications)</Value>
+    </Record>
+	<Record>
+      <Key>ItemMarineBodyArmor</Key>
+      <Value>Armure de marine</Value>
+    </Record>
+    <Record>
+      <Key>ItemMarineHelmet</Key>
+      <Value>Casque de marine</Value>
+    </Record>
+    <Record>
+      <Key>UniformMarine</Key>
+      <Value>Uniforme de marine</Value>
+    </Record>
+    <Record>
+      <Key>CardboardBox</Key>
+      <Value>Boîte en carton</Value>
+    </Record>
+    <Record>
+      <Key>StructureWallLightBattery</Key>
+      <Value>Lumière murale (Batterie)</Value>
     </Record>
 	</Things>
   <Slots>
@@ -3835,6 +3855,14 @@
     <Record>
       <Key>Button6</Key>
       <Value>Bouton6</Value>  
+    </Record>
+    <Record>
+      <Key>UnpackAll</Key>
+      <Value>Déballer tout</Value>
+    </Record>
+    <Record>
+      <Key>Unpack</Key>
+      <Value>Déballer</Value>
     </Record>
 	</Interactables>
   <Interface>
@@ -4496,6 +4524,18 @@ Scroll &lt;color=red&gt;Roulette de la souris&lt;/color&gt; pour plus d'options.
       <Key>PromptResetSettingsConfirm</Key>
       <Value>Réinitialiser</Value>
     </Record>
+	<Record>
+      <Key>SteamErrorTitle</Key>
+      <Value>Erreur Steam</Value>
+    </Record>
+    <Record>
+      <Key>SteamErrorBody</Key>
+      <Value>Impossible de se connecter à Steam. Essayez de redémarrer Steam avant de relancer Stationeers</Value>
+    </Record>
+    <Record>
+      <Key>SteamErrorButton</Key>
+      <Value>Quitter</Value>
+    </Record>
     <Record>
       <Key>PromptQuitTitle</Key>
       <Value>Quitter Stationeers</Value>
@@ -5132,6 +5172,10 @@ Temperature {1}</Value>
 	    <Record>
       <Key>InvalidDegrees</Key>
       <Value>Nil</Value>
+    </Record>
+    <Record>
+      <Key>SettingsSoundFX</Key>
+      <Value>Son FX</Value>
     </Record>
   </Interface>
   <Colors>
