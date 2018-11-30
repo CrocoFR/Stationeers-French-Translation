@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR0181117 (YYMMDD) - v0.2.1814.8357 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
-<!-- https://github.com/CrocoFR/Stationeers-French-Translation -->
+<!-- version FR181130 (YYMMDD) - v0.2.1833.8470 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- https://github.com/CrocoFR/Stationeers-French-Translation - https://st.gortc.io/fr/ -->
 <Name>French</Name>
   <Code>FR</Code>
   <Font>font_extended</Font>
@@ -2968,7 +2968,7 @@
       <Key>ItemHardsuitHelmet</Key>
       <Value>Casque Combinaison renforcée</Value>
 	</Record>
- <Record>
+	<Record>
       <Key>ItemWearLamp</Key>
       <Value>Lampe frontale</Value> 
     </Record>
@@ -3048,7 +3048,7 @@
       <Key>ItemKitDynamicCanister</Key>
       <Value>Kit (Réservoir portable)</Value>
     </Record>
-<Record>
+	<Record>
       <Key>ItemFlowerBlue</Key>
       <Value>Fleur (Bleu)</Value> 
     </Record>
@@ -3214,7 +3214,7 @@
     </Record>
     <Record>
       <Key>ItemKitHydroponicAutomated</Key>
-      <Value>Kit (Hydrophonique automatisé)</Value>
+      <Value>Kit (Hydroponique automatisé)</Value>
     </Record>
     <Record>
       <Key>ItemBasketBall</Key>
@@ -3892,7 +3892,7 @@
     </Record>
     <Record>
       <Key>MainMenuTutorial</Key>
-      <Value>Tutoriel &lt;color=green&gt; - Nouveau !&lt;/color&gt;</Value>
+      <Value>Tutoriel</Value>
     </Record>
     <Record>
       <Key>MainMenuCredits</Key>
@@ -3997,6 +3997,14 @@
     <Record>
       <Key>NewWorldAreaMars</Key>
       <Value>Mars</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldAreaEarth</Key>
+      <Value>Terre</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldAreaEuropa</Key>
+      <Value>Europa</Value>
     </Record>
     <Record>
       <Key>NewWorldEnableAwayMissions</Key>
@@ -4433,8 +4441,7 @@ Alors sors de là, Stationeer !</Value>
     </Record>
     <Record>
       <Key>MulticonstructorItem</Key>
-      <Value>&lt;color=yellow&gt;Option de construction {0} de {1} &lt;/color&gt; 
-Scroll &lt;color=red&gt;Roulette de la souris&lt;/color&gt; pour plus d'options.</Value>
+      <Value>&lt;color=yellow&gt;Option de construction {0} de {1} &lt;/color&gt; Scroll &lt;color=red&gt;Roulette de la souris&lt;/color&gt; pour plus d'options.</Value>
     </Record>
     <Record>
       <Key>UnableToConstruct</Key>
@@ -4634,7 +4641,7 @@ Scroll &lt;color=red&gt;Roulette de la souris&lt;/color&gt; pour plus d'options.
     </Record>
     <Record>
       <Key>AlertInvalidIP</Key>
-      <Value>Adresse IP non valide {0} \ nVérifier que l'adresse IP ou l'URL soit valide</Value>
+      <Value>Adresse IP non valide {0} \nVérifier que l'adresse IP ou l'URL soit valide</Value>
     </Record>
     <Record>
       <Key>AlertPlayerCountExceeded</Key>
@@ -4967,8 +4974,8 @@ Ne soyez pas triste quand vous vous faites exploser en minuscules petits morceau
     </Record>
     <Record>
       <Key>FurnaceChamberText</Key>
-      <Value>Pression {0}
-Temperature {1}</Value>
+      <Value>Pression {0} 
+Température {1}</Value>
     </Record>
     <Record>
       <Key>FurnaceSmelting</Key>
@@ -4987,6 +4994,22 @@ Temperature {1}</Value>
       <Value>Aucun Réglages</Value>
     </Record>
     <Record>
+      <Key>LogicNoAdditionalSettingsFor</Key>
+      <Value>Aucun paramètre additionel pour {0}</Value>
+    </Record>
+    <Record>
+      <Key>LogicNoSlot</Key>
+      <Value>&lt;color=red&gt;Aucun emplacement&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>LogicNoAvailableSlots</Key>
+      <Value>&lt;color=red&gt;Aucun emplacement disponible&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>LogicNoAdditionalSlotsFor</Key>
+      <Value>Aucun emplacement additionel pour {0}</Value>
+    </Record>
+    <Record>
       <Key>RequiresScrewdriver</Key>
       <Value>Vous devez avoir un {THING:ItemScrewdriver} pour changer les réglages</Value>
     </Record>
@@ -4999,8 +5022,16 @@ Temperature {1}</Value>
       <Value>Aucun autre type lisible sur le réseau</Value>
     </Record>
     <Record>
+      <Key>LogicNoWritableDevices</Key>
+      <Value>Aucun autre appareil en écriture sur le réseau</Value>
+    </Record>
+    <Record>
       <Key>ChangeSettingTo</Key>
       <Value>Changer pour {0}</Value>
+    </Record>
+    <Record>
+      <Key>ChangeSettingToAll</Key>
+      <Value>Changer tous pour {0}</Value>
     </Record>
     <Record>
       <Key>HoldForPreviousObject</Key>
@@ -5009,6 +5040,30 @@ Temperature {1}</Value>
     <Record>
       <Key>ChangeSettingToFor</Key>
       <Value>Changer en {0} pour {1}</Value>
+    </Record>
+    <Record>
+      <Key>ChangeSettingToForIn</Key>
+      <Value>Changer en &lt;color=yellow&gt;{0}&lt;/color&gt; pour {3} &lt;color=yellow&gt;({2})&lt;/color&gt; dans {1}</Value>
+    </Record>
+    <Record>
+      <Key>ChangeReagentSettingTo</Key>
+      <Value>Changer en {2}.&lt;color=yellow&gt;{0}&lt;/color&gt;.&lt;color=yellow&gt;{1}&lt;/color&gt;</Value>
+    </Record>
+    <Record>
+      <Key>ChangeSlotSettingToFor</Key>
+      <Value>Changer en {1}&lt;color=yellow&gt;({0})&lt;/color&gt; pour {2}</Value>
+    </Record>
+    <Record>
+      <Key>ChangeSettingToForAll</Key>
+      <Value>Changer en &lt;color=yellow&gt;{0}&lt;/color&gt;&gt;pour tous {1}</Value>
+    </Record>
+    <Record>
+      <Key>InteractionTemporarilyDisabledOnThisObject</Key>
+      <Value>Interaction temporairement désactivée sur cet objet</Value>
+    </Record>
+    <Record>
+      <Key>UnableToInteractAsYouDoNotHaveTheRequiredAccessCard</Key>
+      <Value>Impossible d'interagir car vous n'avez pas le {SLOT: AccessCard} requis</Value>
     </Record>
     <Record>
       <Key>SettingsAtmosphericScattering</Key>
@@ -5041,6 +5096,22 @@ Temperature {1}</Value>
     <Record>
       <Key>NewWorldAreaEuropa</Key>
       <Value>Europa</Value> 
+    </Record>
+    <Record>
+      <Key>NewWorldMarsShortDesc</Key>
+      <Value>Une boule de poussière rouge désolée, mars dispose d'un terrain plus varié qui peut atteindre dans le ciel, et une atmosphère froide qui n'est pas bon pour respirer, mais peut-être qu'il peut être utilisé pour quelque chose...</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldMoonShortDesc</Key>
+      <Value>Alors que la présence de charbon n'est pas typique de la lune terrestre, le terrain relativement plat plein de divers cratères importants et le manque d'atmosphère peut être plus familier dans ce paysage gris.</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldSpaceShortDesc</Key>
+      <Value>Bien qu'il n'y ait pas de gravité ou d'atmosphère, au moins il ya beaucoup d'espace à construire!  Vous vous retrouverez parmi plusieurs astéroïdes qui peuvent contenir divers minerais et glaces que vous pouvez utiliser pour survivre ici.</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldEuropaShortDesc</Key>
+      <Value>Fondre une partie de la glace sur ce monde froid lui a finalement donné une atmosphère, mais c'est l'environnement extrêmement glacial présente un défi extrême pour le stationeers.</Value>
     </Record>
     <Record>
       <Key>SettingsTitleAudioAlerts</Key>
@@ -5086,7 +5157,7 @@ Temperature {1}</Value>
       <Key>SettingsChunkRenderDistance</Key>
       <Value>Distance de rendu</Value> 
     </Record>
- <Record>
+	<Record>
       <Key>ScenarioScoreboardBackToMenu</Key>
       <Value>Sortir vers le menu</Value> 
     </Record>
@@ -5140,9 +5211,7 @@ Temperature {1}</Value>
     </Record>
     <Record>
       <Key>SettingsMenuAdvanced</Key>
-      <Value>Avancé
-
-</Value>
+      <Value>Avancé</Value>
     </Record>
     <Record>
       <Key>SettingsLegacyInventory</Key>
@@ -5154,8 +5223,7 @@ Temperature {1}</Value>
     </Record>
 	<Record>
       <Key>SettingsInterface</Key>
-      <Value>Interface
-</Value>
+      <Value>Interface</Value>
 	</Record>
 	<Record>
       <Key>SettingsUPNPEnabled</Key>
@@ -5176,6 +5244,42 @@ Temperature {1}</Value>
     <Record>
       <Key>SettingsSoundFX</Key>
       <Value>Son FX</Value>
+    </Record>
+    <Record>
+      <Key>WarningControlConflict</Key>
+      <Value>Conflits des touches de contrôle</Value>
+    </Record>
+    <Record>
+      <Key>WarningControlConflictDescription</Key>
+      <Value>S'il vous plait, visiter le menu des touches de contrôle et corriger les conflits</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldGameMode</Key>
+      <Value>Mode de jeu</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldGravity</Key>
+      <Value>Gravité</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldTemperature</Key>
+      <Value>Température</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldPressure</Key>
+      <Value>Pression</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldSolarEnergy</Key>
+      <Value>Energie solaire</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldSolarAngle</Key>
+      <Value>Angle solaire</Value>
+    </Record>
+    <Record>
+      <Key>SettingsMenuAppearance</Key>
+      <Value>Apparence</Value>
     </Record>
   </Interface>
   <Colors>
