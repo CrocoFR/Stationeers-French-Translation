@@ -3,19 +3,22 @@ Traduction Française du jeu Stationeers
 
 ## Installation des fichiers
 
-Répertoire Stationneers sur Steam :
-Steam\SteamApps\common\Stationeers\
+Répertoire d'installation Stationneers sur Steam :
+%steamapps%/common/Stationeers/
 
-Dans le répertoire Stationeers :
+Copier les fichiers dans les répertoires Stationeers /rocketstation_Data/StreamingAssets/
 
-\rocketstation_Data\StreamingAssets\Language\
+/Language/
 - french.xml
 - french_help.xml
 - french_keys.xml
 - french_tips.xml
 
-\rocketstation_Data\StreamingAssets\Scenario\EscapeFromMars\Language\
+/Scenario/EscapeFromMars/Language/
 - french_mars_mission.xml
+
+/Scenario/Tutorial/Language/
+- french_tutorial.xml
 
 ## Communauté
 
