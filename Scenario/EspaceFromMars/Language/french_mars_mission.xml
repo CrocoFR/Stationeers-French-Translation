@@ -1,213 +1,208 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR180903 (YYMMDD) - v0.1.1621.7613 - Updated by Mustard and CrocoFR - Based from version Totor -->
-<!-- https://github.com/CrocoFR/Stationeers-French-Translation -->  
+<!-- version FR181216 (YYMMDD) - v0.2.1847.8519 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
+<!-- https://github.com/CrocoFR/Stationeers-French-Translation - https://st.gortc.io/fr/ -->
   <Name>French</Name>
   <Code>FR</Code>
-  <Font>font_extended</Font> <!-- Permet l'ajout des accents ^^ -->
+  <Font>font_extended</Font>
   <Interface>
-  	<Record>
+    <Record>
       <Key>EscapeFromMarsTitle</Key>
-      <Value>S'échapper de Mars</Value>
+      <Value>S&apos;échapper de Mars</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>EscapeFromMarsDescription</Key>
-      <Value>Avec seulement une quantité limitée de fournitures, vous devez utiliser votre intelligence et votre esprit pour trouver un moyen de survivre sur Mars. Tout cela est planifié, cela conduira finalement à la construction d'une fusée capable de quitter l'atmosphère de Mars.</Value>
+      <Value>Avec seulement une quantité limitée de fournitures, vous devez utiliser votre intelligence et votre esprit pour trouver un moyen de survivre sur Mars. Tout cela est planifié, cela conduira finalement à la construction d&apos;une fusée capable de quitter l&apos;atmosphère de Mars.</Value>
     </Record>
-  	<!-- Mission Stage: In Case of Emergency -->
-	<Record>
+    <!-- Mission Stage: In Case of Emergency -->
+    <Record>
       <Key>MarsTitleInCaseOfEmergency</Key>
-      <Value>En cas d'urgence...</Value>
+      <Value>En cas d&apos;urgence...</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsDescInCaseOfEmergency</Key>
       <Value>Votre combinaison est endommagé et vous devez trouver de la nourriture.</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsTaskGetTape</Key>
       <Value>Trouvez plusieurs {THING:ItemDuctTape}</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsTaskGetFood</Key>
-      <Value>Trouver une {THING:ItemCerealBar}</Value>
+      <Value>Trouvez une {THING:ItemCerealBar}</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsTabletStage1</Key>
-      <Value>GUIDE D'URGENCE</Value>
-    </Record> 	
-	<Record>
+      <Value>GUIDE D&apos;URGENCE</Value>
+    </Record>
+    <Record>
       <Key>MarsTabletStage1Page1</Key>
-      <Value>PAGE 1 sur 2 \NE CEDEZ PAS A LA PANIQUE.\n\nSi vous lisez ceci, vous avez survécu à l'évacuation - félicitations. Quel que soit votre environnement, votre première priorité est de vérifier votre santé et celle de votre entourage. Assurez-vous de vérifier l'intégrité de la combinaison, de reconnaitre l'environnement dans lequel vous vous trouvez et protéger l'approvisionnement en air que vous avez est crucial.</Value>
-    </Record> 
-	<Record>
+      <Value>PAGE 1 sur 2 \nNE PANIQUEZ PAS.\n\nSi vous lisez ceci, vous avez survécu à l&apos;évacuation - félicitations. Indépendamment de votre environnement, votre première priorité est de vérifier votre santé et celle de votre entourage. Assurez-vous de vérifier l&apos;intégrité de la combinaison, car rien ne permet de savoir dans quel environnement vous pouvez vous trouver et il est crucial de protéger votre réserve d&apos;air.</Value>
+    </Record>
+    <Record>
       <Key>MarsTabletStage1Page2</Key>
-      <Value>PAGE 2 sur 2 \nSi vous êtes à proximité d'une nacelle d'évacuation intacte et d'une caisse d'approvisionnement, vous devriez avoir des fournitures essentielles pour vous aider à attendre le sauvetage. Sinon, recherchez alors les survivants. Vous devez être sûr de noter l’emplacement ou la collecte des fournitures qui seront de la plus haute importance pour votre survie, comme la nourriture, les piles, le matériel utilitaire comme le ruban adhésif et l’équipement de survie portable.\n</Value>
-    </Record> 
-	<!-- Mission Stage: Aquire Raw Materials -->
-	<Record>
+      <Value>PAGE 2 sur 2 \nSi vous vous trouvez à proximité d&apos;une capsule d&apos;évacuation intact et d&apos;une caisse de fournitures, vous devez disposer de fournitures essentielles pour faciliter votre attente de sauvetage. Si non, alors rechercher des survivants. Assurez-vous de noter l&apos;emplacement, ou de rassembler, toutes les fournitures qui seront de la plus haute importance pour votre survie, telles que la nourriture, les piles, le matériel utilitaire comme le ruban adhésif et l&apos;équipement de survie portatif. \n</Value>
+    </Record>
+    <!-- Mission Stage: Aquire Raw Materials -->
+    <Record>
       <Key>MarsTitleRawMaterials</Key>
       <Value>Mendier, Creuser et Voler</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsTabletStage2</Key>
-      <Value>MATIÈRES PREMIÈRES</Value>
+      <Value>MATIERES PREMIERES</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsDescRawMaterials</Key>
-      <Value>Trouver un moyen de produire les matériaux de base dont vous avez besoin pour lancer la fabrication.</Value>
+      <Value>Trouver un moyen de produire les matériaux de base dont vous avez besoin pour obtenir la fabrication en cours.</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsTaskGetIronIngots</Key>
-      <Value>Obtenir un {THING:ItemIronIngot}</Value>
+      <Value>Prendre un {THING:ItemIronIngot}</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsTaskGetCopperIngots</Key>
-      <Value>Obtenir un {THING:ItemCopperIngot}</Value>
+      <Value>Prendre un {THING:ItemCopperIngot}</Value>
     </Record>
-		<Record>
+    <Record>
       <Key>MarsTaskGetGoldIngots</Key>
-      <Value>Obtenir un {THING:ItemGoldIngot}</Value>
+      <Value>Prendre un {THING:ItemGoldIngot}</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsTabletStage2Page1</Key>
       <Value>PAGE 1 sur 5 \nMENDIER, CREUSER ou VOLERn\nHeureusement, nos outils de fabrication connaissent toutes les recettes dont vous aurez probablement besoin dans votre situation. Malheureusement, ils auront besoin de matières premières pour le faire.  Ceux-ci peuvent provenir de plusieurs sources en fonction de votre situation :</Value>
-    </Record> 
-	<Record>
+    </Record>
+    <Record>
       <Key>MarsTabletStage2Page2</Key>
-      <Value>PAGE 2 sur 5 \nFOUILLER\n\nSi votre navire est encore largement intact, vous pouvez trouver des matériaux sous leur forme transformé, soit déjà à l'intérieur des machines de fabrication, soit stockés à proximité.</Value>
-    </Record> 
-	<Record>
+      <Value>PAGE 2 sur 5 \nFOUILLER\n\nSi votre navire est encore largement intact, vous pouvez trouver des matériaux sous leur forme transformé, soit déjà à l&apos;intérieur des machines de fabrication, soit stockés à proximité.</Value>
+    </Record>
+    <Record>
       <Key>MarsTabletStage2Page3</Key>
-      <Value>PAGE 3 sur 5 \nDEMANTELER\n\nSi vous êtes en mesure de trouver ou de fabriquer une meuleuse, vous devriez pouvoir l'utiliser pour démanteler une partie de l'épave du navire. Un recycleur peut être utilisé pour les décomposer en un mélange de ses composants et une centrifugeuse les séparera pour qu'ils puissent être refondus en matériaux utilisables.</Value>
-    </Record> 
-	<Record>
+      <Value>PAGE 3 sur 5 \nDEMANTELER\n\nSi vous êtes en mesure de trouver ou de fabriquer une meuleuse, vous devriez pouvoir l&apos;utiliser pour démanteler une partie de l&apos;épave du navire. Un recycleur peut être utilisé pour les décomposer en un mélange de ses composants et une centrifugeuse les séparera pour qu&apos;ils puissent être refondus en matériaux utilisables.</Value>
+    </Record>
+    <Record>
       <Key>MarsTabletStage2Page4</Key>
-      <Value>PAGE 4 sur 5 \nEXTRAIRE\n\nTrès dépendants de votre environnement, certains navires explorateurs étaient équipés d'équipements miniers de base. Si vous avez la chance de vous trouver quelque part avec une abondance de ressources minérales, c'est certainement une option viable.</Value>
-    </Record> 
-	<Record>
+      <Value>PAGE 4 sur 5 \nEXTRAIRE\n\nTrès dépendants de votre environnement, certains navires explorateurs étaient équipés d&apos;équipements miniers de base. Si vous avez la chance de vous trouver quelque part avec une abondance de ressources minérales, c&apos;est certainement une option viable.</Value>
+    </Record>
+    <Record>
       <Key>MarsTabletStage2Page5</Key>
-      <Value>PAGE 5 sur 5\nFONDRE\n\nLa façon la plus simple de convertir les matières premières en lingots transformés prêts pour la fabrication est d'utiliser le four à arc et de lui fournir de l'énergie. Si vous êtes limité en ressources, cela devrait probablement être votre premier investissement, car si vous ne pouvez pas récupérer suffisamment de matériaux, ce sera nécessaire pour vous assurer que vous serez en mesure de produire davantage.</Value>
-    </Record> 
-	<!-- Mission Stage: Setup Manufacturing -->
-	<Record>
+      <Value>PAGE 5 sur 5\nFONDRE\n\nLa façon la plus simple de convertir les matières premières en lingots transformés prêts pour la fabrication est d&apos;utiliser le four à arc et de lui fournir de l&apos;énergie. Si vous êtes limité en ressources, cela devrait probablement être votre premier investissement, car si vous ne pouvez pas récupérer suffisamment de matériaux, ce sera nécessaire pour vous assurer que vous serez en mesure de produire davantage.</Value>
+    </Record>
+    <!-- Mission Stage: Setup Manufacturing -->
+    <Record>
       <Key>MarsTitleSetupManufacturing</Key>
-      <Value>S'emparer des moyens de production</Value>
+      <Value>Saisir les moyens de production</Value>
     </Record>
-	<Record>
-      <Key>MarsTabletStage3</Key>
-      <Value>PRODUCTION 101</Value>
-    </Record>
-	<Record>
+    <Record>
       <Key>MarsDescSetupManufacturing</Key>
       <Value>Afin de fabriquer tout ce dont nous aurons besoin, nous devrions commencer par un {THING:ItemKitHydraulicPipeBender} et un {THING:ItemKitElectronicsPrinter}.</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsTaskManufactureHPB</Key>
-      <Value>Fabriquer une {THING:ItemKitHydraulicPipeBender}</Value>
+      <Value>Fabriquer un {Thing:ItemKitHydraulicPipeBender}</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsTaskManufactureEP</Key>
-      <Value>Fabriquer une {THING:ItemKitElectronicsPrinter}</Value>
+      <Value>Fabriquer un {Thing:ItemKitElectronicsPrinter}</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsTabletStage3Page1</Key>
-      <Value>PAGE 1 sur 5\nFABRICATION \nMême s'il est fort probable que les efforts de sauvetage sont déjà en cours, il peut s'écouler un certain temps avant qu'ils ne soient en mesure de vous rejoindre. Il serait pertinent de prévoir un séjour plus long. Vous devrez mettre en place une infrastructure de fabrication de base. Le tour automatique est le point de départ naturel, ce qui vous permettra de construire des machines d'artisanat plus spécialisées.</Value>
-    </Record> 
-	<Record>
+      <Value>PAGE 1 sur 5\nFABRICATION \nMême s&apos;il est fort probable que les efforts de sauvetage sont déjà en cours, il peut s&apos;écouler un certain temps avant qu&apos;ils ne soient en mesure de vous rejoindre. Il serait pertinent de prévoir un séjour plus long. Vous devrez mettre en place une infrastructure de fabrication de base. Le tour automatique est le point de départ naturel, ce qui vous permettra de construire des machines d&apos;artisanat plus spécialisées.</Value>
+    </Record>
+    <Record>
       <Key>MarsTabletStage3Page2</Key>
-      <Value>PAGE 2 sur 5\nLE POUVOIR DE LA PERSONNE \n\nJ'espère qu'à ce stade, vous avez trouvé des piles et des moyens de les recharger. La façon la plus simple d'alimenter un réseau est de connecter des batteries à une unité de contrôle de l'alimentation. Pour fournir l'énergie dont vous aurez besoin pour la fusion et la fabrication en vrac, vous aurez besoin de quelque chose d'un peu plus pratique. La meilleure façon de gérer cela dépend de votre situation, mais les options incluent ;</Value>
-    </Record> 
-	<Record>
+      <Value>PAGE 2 sur 5\nLE POUVOIR DE LA PERSONNE \n\nJ&apos;espère qu&apos;à ce stade, vous avez trouvé des piles et des moyens de les recharger. La façon la plus simple d&apos;alimenter un réseau est de connecter des batteries à une unité de contrôle de l&apos;alimentation. Pour fournir l&apos;énergie dont vous aurez besoin pour la fusion et la fabrication en vrac, vous aurez besoin de quelque chose d&apos;un peu plus pratique. La meilleure façon de gérer cela dépend de votre situation, mais les options incluent ;</Value>
+    </Record>
+    <Record>
       <Key>MarsTabletStage3Page3</Key>
-      <Value>PAGE 3 sur 5 \nGENERATEUR A COMBUSTIBE SOLIDE \nCela produira de l'électricité en brûlant des hydrocarbures fossilisés sous forme solide. Le kit peut être fabriqué dans une imprimante électronique ou un fabricateur.</Value>
-    </Record> 
-	<Record>
+      <Value>PAGE 3 sur 5 \nGENERATEUR A COMBUSTIBE SOLIDE \nCela produira de l&apos;électricité en brûlant des hydrocarbures fossilisés sous forme solide. Le kit peut être fabriqué dans une imprimante électronique ou un fabricateur.</Value>
+    </Record>
+    <Record>
       <Key>MarsTabletStage3Page4</Key>
-      <Value>PAGE 4 of 5 \nGENERATEUR GAZ COMBUSTIBLE \nCela va extraire l'énergie de la combustion résultant de l'allumage d'un mélange hydrogène/oxygène. Une combustion propre se traduira par une plus grande production d'énergie, mais vous devrez gérer avec soin la quantité de combustion et probablement utiliser un transformateur pour limiter la production d'énergie ou vos câbles risque de brûler.</Value>
-    </Record> 
-	<Record>
+      <Value>PAGE 4 of 5 \nGENERATEUR GAZ COMBUSTIBLE \nCela va extraire l&apos;énergie de la combustion résultant de l&apos;allumage d&apos;un mélange hydrogène/oxygène. Une combustion propre se traduira par une plus grande production d&apos;énergie, mais vous devrez gérer avec soin la quantité de combustion et probablement utiliser un transformateur pour limiter la production d&apos;énergie ou vos câbles risque de brûler.</Value>
+    </Record>
+    <Record>
       <Key>MarsTabletStage3Page5</Key>
-      <Value>PAGE 5 of 5 \nPANNEAUX SOLAIRES \nPanneaux solaires. Une fois placé, vous devrez les compléter avec du verre, mais une fois que cela sera fait, ils généreront une quantité d'énergie nominale pendant la journée. Vous pouvez utiliser votre clé pour ajuster l'angle vertical et horizontal afin de faire face au soleil, mais à long terme, vous pouvez utiliser un circuit logique et un capteur de lumière du jour pour le suivre.</Value>
-    </Record> 	
-	
-	<!-- Mission Stage: Food Supply -->
-	<Record>
+      <Value>PAGE 5 of 5 \nPANNEAUX SOLAIRES \nPanneaux solaires. Une fois placé, vous devrez les compléter avec du verre, mais une fois que cela sera fait, ils généreront une quantité d&apos;énergie nominale pendant la journée. Vous pouvez utiliser votre clé pour ajuster l&apos;angle vertical et horizontal afin de faire face au soleil, mais à long terme, vous pouvez utiliser un circuit logique et un capteur de lumière du jour pour le suivre.</Value>
+    </Record>
+    <!-- Mission Stage: Food Supply -->
+    <Record>
       <Key>MarsTitleFoodSupply</Key>
-      <Value>Une source d'alimentation fiable</Value>
+      <Value>Une source de nourriture fiable</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsTabletStage4</Key>
-      <Value>GUIDE DE JARDINAGE</Value>
+      <Value>GUIDE DU JARDINNAGE</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsDescFoodSupply</Key>
-      <Value>Nous ne savons pas combien de temps vous aurez besoin pour survivre ici. Nous devrions préparer une source de nourriture renouvelable au cas où.</Value>
+      <Value>Nous ne savons pas combien de temps vous aurez besoin pour survivre ici.  Nous devrions préparer une source de nourriture renouvelable juste au cas où.</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsTaskPrepareAtmos</Key>
-      <Value>Créez une pièce pressurisée avec une atmosphère suffisante pour faire pousser des pommes de terre.</Value>
+      <Value>Créer une salle pressurisée avec une atmosphère suffisante pour cultiver les pommes de terre.</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsTaskGrowPotato</Key>
-      <Value>Obtener une {THING:ItemPotato}</Value>
+      <Value>Cultivez une {Thing:ItemPotato} à maturité.</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsTabletStage4Page1</Key>
-      <Value>PAGE 1 of 2 \nPETITE POUCES VERTE\nLe strict minimum pour cultiver des plantes est un plateau hydroponique ou une station hydroponique portable. Il faudra l'alimenter avec une source d'eau et l'installer dans une atmosphère d'au moins 20kPa, environ 20-25° Celsius et contenant une petite quantité de dioxyde de carbone.</Value>
-    </Record> 	
-	<Record>
+      <Value>PAGE 1 of 2 \nPETITE POUCES VERTE\nLe strict minimum pour cultiver des plantes est un plateau hydroponique ou une station hydroponique portable. Il faudra l&apos;alimenter avec une source d&apos;eau et l&apos;installer dans une atmosphère d&apos;au moins 20kPa, environ 20-25° Celsius et contenant une petite quantité de dioxyde de carbone.</Value>
+    </Record>
+    <Record>
       <Key>MarsTabletStage4Page2</Key>
-      <Value>PAGE 2 of 2\nL'exigence la plus difficile est d'obtenir des semences pour commencer. Chaque module d'évacuation contient une caisse d'alimentation avec une quantité nominale de graines pour vous aider à commencer - la protection de celles-ci est cruciale. Si vous êtes séparé de votre module d'évacuation, vous pouvez trouver une carte de localisation, vous pourrez peut-être l'utiliser pour suivre la balise des modules.</Value>
-    </Record> 	
-	<!-- Mission Stage: Spawn Mothership & Engine -->
-	<Record>
+      <Value>PAGE 2 of 2\nL&apos;exigence la plus difficile est d&apos;obtenir des semences pour commencer. Chaque module d&apos;évacuation contient une caisse d&apos;alimentation avec une quantité nominale de graines pour vous aider à commencer - la protection de celles-ci est cruciale. Si vous êtes séparé de votre module d&apos;évacuation, vous pouvez trouver une carte de localisation, vous pourrez peut-être l&apos;utiliser pour suivre la balise des modules.</Value>
+    </Record>
+    <!-- Mission Stage: Spawn Mothership & Engine -->
+    <Record>
       <Key>MarsTitleCreateMothership</Key>
-      <Value>Création d'un vaisseau mère</Value>
+      <Value>Création d&apos;un vaisseau mère</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsTabletStage5</Key>
-      <Value>LIEU D'ATERISSAGE</Value>
+      <Value>LIEU D&apos;ATERISSAGE</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsDescCreateMothership</Key>
-      <Value>Créez un vaisseau mère en y ajoutant un {THING:MothershipCore} et en y attachant un {THING:StructureRocketEngine}.</Value>
+      <Value>Créer un vaisseau mère en créant un {THING:MothershipCore} en utilisant {THING:ItemKitMotherShipCore} et en lui attachant un {THING:StructureRocketEngine}</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsTaskSpawnMothershipCore</Key>
-      <Value>Créer un {THING:MothershipCore}</Value>
+      <Value>Utiliser un {THING:ItemKitMotherShipCore}</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsTaskAttachEngine</Key>
-      <Value>Attacher un {THING:StructureRocketEngine} au {THING:MothershipCore}</Value>
+      <Value>Attachez une {Thing:StructureRocketEngine} à la {Thing:MothershipCore}</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsTitleLaunchMothership</Key>
-      <Value>Lancer le Vaisseau Mère</Value>
+      <Value>Lancement d&apos;un vaisseau mère</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsTabletStage5Page1</Key>
-      <Value>PAGE 1 of 2 \nPAUSE DE LANCEMENT\nAvec la nourriture sous contrôle, vous avez maintenant du vrai travail à faire.  Obtenir les ressources nécessaires pour construire et alimenter un vaisseau pour sortir de cet planète ne sera pas facile. Vous aurez besoin d'alliages avancés et d'un système sûr pour gérer la fontes des glaces et créer/stocker une grande quantité de carburant.</Value>
-    </Record> 	
-	<Record>
+      <Value>PAGE 1 of 2 \nPAUSE DE LANCEMENT\nAvec la nourriture sous contrôle, vous avez maintenant du vrai travail à faire.  Obtenir les ressources nécessaires pour construire et alimenter un vaisseau pour sortir de cet planète ne sera pas facile. Vous aurez besoin d&apos;alliages avancés et d&apos;un système sûr pour gérer la fontes des glaces et créer/stocker une grande quantité de carburant.</Value>
+    </Record>
+    <Record>
       <Key>MarsTabletStage5Page2</Key>
-      <Value>PAGE 2 of 2\nLe strict minimum dont vous aurez besoin pour vote vaisseau est un noyau avec deux moteurs attachés et orientés dans la bonne direction et une ancre stellaire qui, une fois allumée et éteinte, permettra à votre navire de se déplacer. Un siège de contrôle n'est pas nécessaire si vous êtes assez courageux pour conduire les moteurs à la main, mais c'est fortement recommandé.</Value>
+      <Value>PAGE 2 of 2\nLe strict minimum dont vous aurez besoin pour vote vaisseau est un noyau avec deux moteurs attachés et orientés dans la bonne direction et une ancre stellaire qui, une fois allumée et éteinte, permettra à votre navire de se déplacer. Un siège de contrôle n&apos;est pas nécessaire si vous êtes assez courageux pour conduire les moteurs à la main, mais c&apos;est fortement recommandé.</Value>
     </Record>
-	<!-- Mission Stage: Launch -->
-	<Record>
+    <!-- Mission Stage: Launch -->
+    <Record>
       <Key>MarsDescLaunchMothership</Key>
-      <Value>Décollez dans l'espace et regagnez votre place dans le ciel !</Value>
+      <Value>Décollez dans l&apos;espace et récupérer votre place dans les cieux!</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsTaskLaunchMothership</Key>
-      <Value>Lancez votre vaisseau mère à une altitude de 100m.</Value>
+      <Value>Atteignez une altitude de 100M avec votre vaisseau-mère</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsTabletStage6</Key>
-      <Value>S'ENFUIR</Value>
+      <Value>S ENFUIR</Value>
     </Record>
-	<Record>
+    <Record>
       <Key>MarsTabletStage6Page1</Key>
-      <Value>PAGE 1 of 1 \nDECOLLAGE\nPlutôt evident.  Il est temps de quitter le sol.  Assurez-vous d'avoir suffisamment de carburant pour vos moteurs!  Bonne chance!</Value>
-    </Record> 	
+      <Value>PAGE 1 of 1 \nDECOLLAGE\nPlutôt evident.  Il est temps de quitter le sol.  Assurez-vous d&apos;avoir suffisamment de carburant pour vos moteurs!  Bonne chance!</Value>
+    </Record>
   </Interface>
 </Language>
