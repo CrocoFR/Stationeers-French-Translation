@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- version FR181223 (YYMMDD) - v0.2.1855.8558 - Updated by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->
-<!-- https://github.com/CrocoFR/Stationeers-French-Translation - https://st.gortc.io/fr/ -->
   <Name>French</Name>
   <Code>FR</Code>
   <Font>font_extended</Font>
@@ -572,7 +570,7 @@
     </Record>
     <Record>
       <Key>CircuitboardAirControl</Key>
-      <Value>Circuit Imprimé (Contrôle d&apos;Air)</Value>
+      <Value>Circuit Imprimé (Contrôle d&apos;air)</Value>
     </Record>
     <Record>
       <Key>CircuitboardAirlockControl</Key>
@@ -580,31 +578,31 @@
     </Record>
     <Record>
       <Key>CircuitboardCameraDisplay</Key>
-      <Value>Circuit Imprimé (Affichage de la Caméra)</Value>
+      <Value>Circuit Imprimé (Affichage de la caméra)</Value>
     </Record>
     <Record>
       <Key>CircuitboardDoorControl</Key>
-      <Value>Circuit Imprimé (Contrôle de Porte)</Value>
+      <Value>Circuit Imprimé (Contrôle de porte)</Value>
     </Record>
     <Record>
       <Key>CircuitboardGasDisplay</Key>
-      <Value>Circuit Imprimé (Affichage de Gaz)</Value>
+      <Value>Circuit Imprimé (Affichage de gaz)</Value>
     </Record>
     <Record>
       <Key>CircuitboardModeControl</Key>
-      <Value>Circuit Imprimé (Contrôle de Mode)</Value>
+      <Value>Circuit Imprimé (Contrôle de mode)</Value>
     </Record>
     <Record>
       <Key>CircuitboardPowerControl</Key>
-      <Value>Circuit Imprimé (Contrôle d&apos;Alimentation)</Value>
+      <Value>Circuit Imprimé (Contrôle d&apos;alimentation)</Value>
     </Record>
     <Record>
       <Key>CircuitboardShipDisplay</Key>
-      <Value>Circuit Imprimé (Affichage du Vaisseau)</Value>
+      <Value>Circuit Imprimé (Affichage du vaisseau)</Value>
     </Record>
     <Record>
       <Key>CircuitboardSolarControl</Key>
-      <Value>Circuit Imprimé (Contrôle Panneaux Solaire)</Value>
+      <Value>Circuit Imprimé (Contrôle panneaux solaire)</Value>
     </Record>
     <Record>
       <Key>DynamicAirConditioner</Key>
@@ -676,7 +674,7 @@
     </Record>
     <Record>
       <Key>EffectSplatEgg</Key>
-      <Value>Effet d&apos;Oeuf écrasé</Value>
+      <Value>Effet d&apos;oeuf écrasé</Value>
     </Record>
     <Record>
       <Key>EntityAlien</Key>
@@ -712,11 +710,11 @@
     </Record>
     <Record>
       <Key>ItemActiveVent</Key>
-      <Value>Ventilation Active</Value>
+      <Value>Kit (Ventilation Active)</Value>
     </Record>
     <Record>
       <Key>ItemAreaPowerControl</Key>
-      <Value>Contrôleur d&apos;Alimentation</Value>
+      <Value>Kit (Contrôleur d&apos;Alimentation)</Value>
     </Record>
     <Record>
       <Key>ItemBatteryCell</Key>
@@ -732,7 +730,7 @@
     </Record>
     <Record>
       <Key>ItemBatteryCharger</Key>
-      <Value>Chargeur de Batterie</Value>
+      <Value>Kit (Chargeur de Batterie)</Value>
     </Record>
     <Record>
       <Key>ItemBook</Key>
@@ -808,7 +806,7 @@
     </Record>
     <Record>
       <Key>ItemEggCarton</Key>
-      <Value>Carton d&apos;Oeufs</Value>
+      <Value>Carton d&apos;oeufs</Value>
     </Record>
     <Record>
       <Key>ItemEggTop</Key>
@@ -828,7 +826,7 @@
     </Record>
     <Record>
       <Key>ItemFlashingLight</Key>
-      <Value>Gyrophare</Value>
+      <Value>Kit (Gyrophare)</Value>
     </Record>
     <Record>
       <Key>ItemFlour</Key>
@@ -892,7 +890,7 @@
     </Record>
     <Record>
       <Key>ItemGasTankStorage</Key>
-      <Value>Connecteur pour Bouteille</Value>
+      <Value>Kit (Connecteur pour Bouteille)</Value>
     </Record>
     <Record>
       <Key>ItemGlassSheets</Key>
@@ -920,7 +918,7 @@
     </Record>
     <Record>
       <Key>ItemHydroponicTray</Key>
-      <Value>Plateau Hydroponique</Value>
+      <Value>Kit (Plateau Hydroponique)</Value>
     </Record>
     <Record>
       <Key>ItemIce</Key>
@@ -928,7 +926,7 @@
     </Record>
     <Record>
       <Key>ItemIgniter</Key>
-      <Value>Allumeur</Value>
+      <Value>Kit (Allumeur)</Value>
     </Record>
     <Record>
       <Key>ItemInsulation</Key>
@@ -1104,11 +1102,11 @@
     </Record>
     <Record>
       <Key>ItemPipeDigitalValve</Key>
-      <Value>Vanne Numérique</Value>
+      <Value>Kit (Électrovanne)</Value>
     </Record>
     <Record>
       <Key>ItemPipeGasMixer</Key>
-      <Value>Tuyau Mélangeur de Gaz</Value>
+      <Value>Kit (Mélangeur de Gaz)</Value>
     </Record>
     <Record>
       <Key>ItemPipeLabel</Key>
@@ -1120,7 +1118,7 @@
     </Record>
     <Record>
       <Key>ItemPipeRadiator</Key>
-      <Value>Radiateur de Tuyau</Value>
+      <Value>Kit (Radiateur de Tuyau)</Value>
     </Record>
     <Record>
       <Key>ItemPipeStraight</Key>
@@ -1132,15 +1130,15 @@
     </Record>
     <Record>
       <Key>ItemPipeValve</Key>
-      <Value>Vanne de Tuyau</Value>
+      <Value>Kit (Vanne)</Value>
     </Record>
     <Record>
       <Key>ItemPipeVolumePump</Key>
-      <Value>Tuyau avec Pompe</Value>
+      <Value>Kit (Tuyau avec Pompe)</Value>
     </Record>
     <Record>
       <Key>ItemPowerConnector</Key>
-      <Value>Connecteur électrique</Value>
+      <Value>Kit (Connecteur électrique)</Value>
     </Record>
     <Record>
       <Key>ItemReagentMix</Key>
@@ -1148,7 +1146,7 @@
     </Record>
     <Record>
       <Key>ItemRoadFlare</Key>
-      <Value>Fusée Eclairante</Value>
+      <Value>Fusée éclairante</Value>
     </Record>
     <Record>
       <Key>ItemRTG</Key>
@@ -1240,7 +1238,7 @@
     </Record>
     <Record>
       <Key>ItemSuitStorage</Key>
-      <Value>Armoire à combinaison</Value>
+      <Value>Kit (Armoire à combinaison)</Value>
     </Record>
     <Record>
       <Key>ItemTablet</Key>
@@ -1248,7 +1246,7 @@
     </Record>
     <Record>
       <Key>ItemTankConnector</Key>
-      <Value>Connecteur de Réservoir portable</Value>
+      <Value>Kit (Connecteur de Réservoir portable)</Value>
     </Record>
     <Record>
       <Key>ItemToolBelt</Key>
@@ -1260,15 +1258,15 @@
     </Record>
     <Record>
       <Key>ItemWallCooler</Key>
-      <Value>Refroidisseur mural</Value>
+      <Value>Kit (Refroidisseur mural)</Value>
     </Record>
     <Record>
       <Key>ItemWallHeater</Key>
-      <Value>Chauffage mural</Value>
+      <Value>Kit (Chauffage mural)</Value>
     </Record>
     <Record>
       <Key>ItemWallLight</Key>
-      <Value>Lumière murale</Value>
+      <Value>Kit (Lumière murale)</Value>
     </Record>
     <Record>
       <Key>ItemWeldingTorch</Key>
@@ -1504,7 +1502,7 @@
     </Record>
     <Record>
       <Key>StructureDigitalValve</Key>
-      <Value>Vanne Numérique</Value>
+      <Value>Électrovanne</Value>
     </Record>
     <Record>
       <Key>StructureFabricator</Key>
@@ -2800,7 +2798,7 @@
     </Record>
     <Record>
       <Key>CircuitboardHashDisplay</Key>
-      <Value>Circuit Imprimé (Affichage du Hash)</Value>
+      <Value>Circuit Imprimé (Affichage de signature)</Value>
     </Record>
     <Record>
       <Key>StructureHydroponicsStation</Key>
@@ -2828,7 +2826,7 @@
     </Record>
     <Record>
       <Key>CircuitboardGraphDisplay</Key>
-      <Value>Circuit Imprimé (Affichage Graphique)</Value>
+      <Value>Circuit Imprimé (Affichage graphique)</Value>
     </Record>
     <Record>
       <Key>ItemKitMotherShipCore</Key>
@@ -2844,7 +2842,7 @@
     </Record>
     <Record>
       <Key>ItemKitPipeValve</Key>
-      <Value>Kit (Vanne de tuyau)</Value>
+      <Value>Vanne</Value>
     </Record>
     <Record>
       <Key>ItemKitDynamicGenerator</Key>
@@ -3131,12 +3129,16 @@
       <Value>Ballon de Basket</Value>
     </Record>
     <Record>
+      <Key>ItemKitBasket</Key>
+      <Value>Kit (Panier de Basket)</Value>
+    </Record>
+    <Record>
       <Key>StructureBasketHoop</Key>
       <Value>Structure Panier de Basket</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterNitrousOxide</Key>
-      <Value>Filtre (Oxyde Nitreux)</Value>
+      <Value>Filtre (Protoxyde d&apos;azote)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterNitrousOxideL</Key>
@@ -3160,7 +3162,7 @@
     </Record>
     <Record>
       <Key>StructureLogicHashGen</Key>
-      <Value>Générateur de Hash logique</Value>
+      <Value>Générateur de signature logique</Value>
     </Record>
     <Record>
       <Key>StructureShuttleLandingPad</Key>
@@ -3568,7 +3570,7 @@
     </Record>
     <Record>
       <Key>LayEgg</Key>
-      <Value>Pondre un Oeuf</Value>
+      <Value>Pondre un oeuf</Value>
     </Record>
     <Record>
       <Key>Eat</Key>
@@ -4277,6 +4279,14 @@ Scroll &lt;color=red&gt;Roulette de la souris&lt;/color&gt; pour plus d&apos;opt
     <Record>
       <Key>SteamErrorButton</Key>
       <Value>Quitter</Value>
+    </Record>
+    <Record>
+      <Key>WaitingTitle</Key>
+      <Value>Avertissement de sauvegarde</Value>
+    </Record>
+    <Record>
+      <Key>WaitingBody</Key>
+      <Value>Toujours sauver les données du monde.  S&apos;il vous plaît essayer à nouveau quand cela est terminé.</Value>
     </Record>
     <Record>
       <Key>PromptQuitTitle</Key>
@@ -5234,7 +5244,11 @@ Temperature {1}</Value>
     </Record>
     <Record>
       <Key>LogicTypePrefabHash</Key>
-      <Value>Le hachage de la structure</Value>
+      <Value>La signature de la structure</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeForceWrite</Key>
+      <Value>Force les logiques d&apos;écriture à réécrire la valeur</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeNone</Key>
@@ -5306,7 +5320,35 @@ Temperature {1}</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypePrefabHash</Key>
-      <Value>Indique le hachage de la structure dans l&apos;emplacement</Value>
+      <Value>Indique la signature de la structure dans l&apos;emplacement</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceButtonRandomize</Key>
+      <Value>Aléatoire</Value>
+    </Record>
+    <Record>
+      <Key>SettingsP2PHostEnabled</Key>
+      <Value>Activer P2P Host</Value>
+    </Record>
+    <Record>
+      <Key>SettingsP2PHostNote</Key>
+      <Value>Si P2P Host est activé, Stationeers utilisera le relais de paquets de Steam afin que vous puissiez jouer avec votre ami en NAT ou VPN. Il n&apos;est pas compatible avec TCP/IP et forcer ne pas annoncer le serveur.</Value>
+    </Record>
+    <Record>
+      <Key>SettingsSavePath</Key>
+      <Value>Chemin d&apos;accès</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceTitleSpecies</Key>
+      <Value>Espèces</Value>
+    </Record>
+    <Record>
+      <Key>SpinnerPannelSaving</Key>
+      <Value>Sauvegarde en cours</Value>
+    </Record>
+    <Record>
+      <Key>SpinnerPannelDone</Key>
+      <Value>Terminé</Value>
     </Record>
   </Interface>
   <Colors>
@@ -5355,7 +5397,1112 @@ Temperature {1}</Value>
       <Value>Violet</Value>
     </Record>
   </Colors>
-  <Keys/>
+  <Keys>
+    <Record>
+      <Key>None</Key>
+      <Value>Aucune</Value>
+    </Record>
+    <Record>
+      <Key>Backspace</Key>
+      <Value>Retour arrière</Value>
+    </Record>
+    <Record>
+      <Key>Return</Key>
+      <Value>Entrée</Value>
+    </Record>
+    <Record>
+      <Key>Escape</Key>
+      <Value>Echap</Value>
+    </Record>
+    <Record>
+      <Key>Space</Key>
+      <Value>Espace</Value>
+    </Record>
+    <Record>
+      <Key>Exclaim</Key>
+      <Value>!</Value>
+    </Record>
+    <Record>
+      <Key>DoubleQuote</Key>
+      <Value>&quot;</Value>
+    </Record>
+    <Record>
+      <Key>Hash</Key>
+      <Value>#</Value>
+    </Record>
+    <Record>
+      <Key>Dollar</Key>
+      <Value>$</Value>
+    </Record>
+    <Record>
+      <Key>Percent</Key>
+      <Value>%</Value>
+    </Record>
+    <Record>
+      <Key>Ampersand</Key>
+      <Value>&amp;</Value>
+    </Record>
+    <Record>
+      <Key>Quote</Key>
+      <Value>²</Value>
+    </Record>
+    <Record>
+      <Key>LeftParen</Key>
+      <Value>(</Value>
+    </Record>
+    <Record>
+      <Key>RightParen</Key>
+      <Value>)</Value>
+    </Record>
+    <Record>
+      <Key>Asterisk</Key>
+      <Value>*</Value>
+    </Record>
+    <Record>
+      <Key>Plus</Key>
+      <Value>+</Value>
+    </Record>
+    <Record>
+      <Key>Comma</Key>
+      <Value>,</Value>
+    </Record>
+    <Record>
+      <Key>Minus</Key>
+      <Value>-</Value>
+    </Record>
+    <Record>
+      <Key>Period</Key>
+      <Value>.</Value>
+    </Record>
+    <Record>
+      <Key>Slash</Key>
+      <Value>/</Value>
+    </Record>
+    <Record>
+      <Key>Alpha0</Key>
+      <Value>0</Value>
+    </Record>
+    <Record>
+      <Key>Alpha1</Key>
+      <Value>1</Value>
+    </Record>
+    <Record>
+      <Key>Alpha2</Key>
+      <Value>2</Value>
+    </Record>
+    <Record>
+      <Key>Alpha3</Key>
+      <Value>3</Value>
+    </Record>
+    <Record>
+      <Key>Alpha4</Key>
+      <Value>4</Value>
+    </Record>
+    <Record>
+      <Key>Alpha5</Key>
+      <Value>5</Value>
+    </Record>
+    <Record>
+      <Key>Alpha6</Key>
+      <Value>6</Value>
+    </Record>
+    <Record>
+      <Key>Alpha7</Key>
+      <Value>7</Value>
+    </Record>
+    <Record>
+      <Key>Alpha8</Key>
+      <Value>8</Value>
+    </Record>
+    <Record>
+      <Key>Alpha9</Key>
+      <Value>9</Value>
+    </Record>
+    <Record>
+      <Key>Colon</Key>
+      <Value>:</Value>
+    </Record>
+    <Record>
+      <Key>Semicolon</Key>
+      <Value>;</Value>
+    </Record>
+    <Record>
+      <Key>Less</Key>
+      <Value>Moins</Value>
+    </Record>
+    <Record>
+      <Key>Equals</Key>
+      <Value>=</Value>
+    </Record>
+    <Record>
+      <Key>Greater</Key>
+      <Value>Superieur</Value>
+    </Record>
+    <Record>
+      <Key>Question</Key>
+      <Value>?</Value>
+    </Record>
+    <Record>
+      <Key>At</Key>
+      <Value>@</Value>
+    </Record>
+    <Record>
+      <Key>LeftBracket</Key>
+      <Value>[</Value>
+    </Record>
+    <Record>
+      <Key>Backslash</Key>
+      <Value>\</Value>
+    </Record>
+    <Record>
+      <Key>RightBracket</Key>
+      <Value>]</Value>
+    </Record>
+    <Record>
+      <Key>Caret</Key>
+      <Value>^</Value>
+    </Record>
+    <Record>
+      <Key>Underscore</Key>
+      <Value>_</Value>
+    </Record>
+    <Record>
+      <Key>BackQuote</Key>
+      <Value>`</Value>
+    </Record>
+    <Record>
+      <Key>LeftCurlyBracket</Key>
+      <Value>[</Value>
+    </Record>
+    <Record>
+      <Key>Pipe</Key>
+      <Value>|</Value>
+    </Record>
+    <Record>
+      <Key>RightCurlyBracket</Key>
+      <Value>]</Value>
+    </Record>
+    <Record>
+      <Key>Delete</Key>
+      <Value>Supprimer</Value>
+    </Record>
+    <Record>
+      <Key>Keypad0</Key>
+      <Value>Keypad 0</Value>
+    </Record>
+    <Record>
+      <Key>Keypad1</Key>
+      <Value>Keypad 1</Value>
+    </Record>
+    <Record>
+      <Key>Keypad2</Key>
+      <Value>Keypad 2</Value>
+    </Record>
+    <Record>
+      <Key>Keypad3</Key>
+      <Value>Keypad 3</Value>
+    </Record>
+    <Record>
+      <Key>Keypad4</Key>
+      <Value>Keypad 4</Value>
+    </Record>
+    <Record>
+      <Key>Keypad5</Key>
+      <Value>Keypad 5</Value>
+    </Record>
+    <Record>
+      <Key>Keypad6</Key>
+      <Value>Keypad 6</Value>
+    </Record>
+    <Record>
+      <Key>Keypad7</Key>
+      <Value>Keypad 7</Value>
+    </Record>
+    <Record>
+      <Key>Keypad8</Key>
+      <Value>Keypad 8</Value>
+    </Record>
+    <Record>
+      <Key>Keypad9</Key>
+      <Value>Keypad 9</Value>
+    </Record>
+    <Record>
+      <Key>KeypadPeriod</Key>
+      <Value>Keypad  .</Value>
+    </Record>
+    <Record>
+      <Key>KeypadDivide</Key>
+      <Value>Keypad  /</Value>
+    </Record>
+    <Record>
+      <Key>KeypadMultiply</Key>
+      <Value>Keypad  *</Value>
+    </Record>
+    <Record>
+      <Key>KeypadMinus</Key>
+      <Value>Keypad  -</Value>
+    </Record>
+    <Record>
+      <Key>KeypadPlus</Key>
+      <Value>Keypad  +</Value>
+    </Record>
+    <Record>
+      <Key>KeypadEnter</Key>
+      <Value>Keypad  Entrer</Value>
+    </Record>
+    <Record>
+      <Key>KeypadEquals</Key>
+      <Value>Keypad  =</Value>
+    </Record>
+    <Record>
+      <Key>UpArrow</Key>
+      <Value>Flèche Haut</Value>
+    </Record>
+    <Record>
+      <Key>DownArrow</Key>
+      <Value>Flèche Bas</Value>
+    </Record>
+    <Record>
+      <Key>RightArrow</Key>
+      <Value>Flèche Droite</Value>
+    </Record>
+    <Record>
+      <Key>LeftArrow</Key>
+      <Value>Flèche Gauche</Value>
+    </Record>
+    <Record>
+      <Key>End</Key>
+      <Value>Fin</Value>
+    </Record>
+    <Record>
+      <Key>PageUp</Key>
+      <Value>Page Haut</Value>
+    </Record>
+    <Record>
+      <Key>PageDown</Key>
+      <Value>Page Bas</Value>
+    </Record>
+    <Record>
+      <Key>Numlock</Key>
+      <Value>Verr Num.</Value>
+    </Record>
+    <Record>
+      <Key>CapsLock</Key>
+      <Value>Verr Maj.</Value>
+    </Record>
+    <Record>
+      <Key>ScrollLock</Key>
+      <Value>Scroll Lock</Value>
+    </Record>
+    <Record>
+      <Key>RightShift</Key>
+      <Value>Shift Droit</Value>
+    </Record>
+    <Record>
+      <Key>LeftShift</Key>
+      <Value>Shift Gauche</Value>
+    </Record>
+    <Record>
+      <Key>RightControl</Key>
+      <Value>Controle Droit</Value>
+    </Record>
+    <Record>
+      <Key>LeftControl</Key>
+      <Value>Controle Gauche</Value>
+    </Record>
+    <Record>
+      <Key>RightAlt</Key>
+      <Value>Alt Droit</Value>
+    </Record>
+    <Record>
+      <Key>LeftAlt</Key>
+      <Value>Alt Gauche</Value>
+    </Record>
+    <Record>
+      <Key>RightApple</Key>
+      <Value>Right Apple</Value>
+    </Record>
+    <Record>
+      <Key>RightCommand</Key>
+      <Value>Command Droit</Value>
+    </Record>
+    <Record>
+      <Key>LeftCommand</Key>
+      <Value>Command Gauche</Value>
+    </Record>
+    <Record>
+      <Key>LeftApple</Key>
+      <Value>Apple Gauche</Value>
+    </Record>
+    <Record>
+      <Key>LeftWindows</Key>
+      <Value>Windows Gauche</Value>
+    </Record>
+    <Record>
+      <Key>RightWindows</Key>
+      <Value>Windows Droit</Value>
+    </Record>
+    <Record>
+      <Key>AltGr</Key>
+      <Value>Alt Gr</Value>
+    </Record>
+    <Record>
+      <Key>Print</Key>
+      <Value>Impr écran</Value>
+    </Record>
+    <Record>
+      <Key>SysReq</Key>
+      <Value>Sys Req</Value>
+    </Record>
+    <Record>
+      <Key>Mouse0</Key>
+      <Value>Mouse 0</Value>
+    </Record>
+    <Record>
+      <Key>Mouse1</Key>
+      <Value>Mouse 1</Value>
+    </Record>
+    <Record>
+      <Key>Mouse2</Key>
+      <Value>Mouse 2</Value>
+    </Record>
+    <Record>
+      <Key>Mouse3</Key>
+      <Value>Mouse 3</Value>
+    </Record>
+    <Record>
+      <Key>Mouse4</Key>
+      <Value>Mouse 4</Value>
+    </Record>
+    <Record>
+      <Key>Mouse5</Key>
+      <Value>Mouse 5</Value>
+    </Record>
+    <Record>
+      <Key>Mouse6</Key>
+      <Value>Mouse 6</Value>
+    </Record>
+    <Record>
+      <Key>JoystickButton0</Key>
+      <Value>Joystick Bouton 0</Value>
+    </Record>
+    <Record>
+      <Key>JoystickButton1</Key>
+      <Value>Joystick Bouton 1</Value>
+    </Record>
+    <Record>
+      <Key>JoystickButton2</Key>
+      <Value>Joystick Bouton 2</Value>
+    </Record>
+    <Record>
+      <Key>JoystickButton3</Key>
+      <Value>Joystick Bouton 3</Value>
+    </Record>
+    <Record>
+      <Key>JoystickButton4</Key>
+      <Value>Joystick Bouton 4</Value>
+    </Record>
+    <Record>
+      <Key>JoystickButton5</Key>
+      <Value>Joystick Bouton 5</Value>
+    </Record>
+    <Record>
+      <Key>JoystickButton6</Key>
+      <Value>Joystick Bouton 6</Value>
+    </Record>
+    <Record>
+      <Key>JoystickButton7</Key>
+      <Value>Joystick Bouton 7</Value>
+    </Record>
+    <Record>
+      <Key>JoystickButton8</Key>
+      <Value>Joystick Bouton 8</Value>
+    </Record>
+    <Record>
+      <Key>JoystickButton9</Key>
+      <Value>Joystick Bouton 9</Value>
+    </Record>
+    <Record>
+      <Key>JoystickButton10</Key>
+      <Value>Joystick Bouton 10</Value>
+    </Record>
+    <Record>
+      <Key>JoystickButton11</Key>
+      <Value>Joystick Bouton 11</Value>
+    </Record>
+    <Record>
+      <Key>JoystickButton12</Key>
+      <Value>Joystick Bouton 12</Value>
+    </Record>
+    <Record>
+      <Key>JoystickButton13</Key>
+      <Value>Joystick Bouton 13</Value>
+    </Record>
+    <Record>
+      <Key>JoystickButton14</Key>
+      <Value>Joystick Bouton 14</Value>
+    </Record>
+    <Record>
+      <Key>JoystickButton15</Key>
+      <Value>Joystick Bouton 15</Value>
+    </Record>
+    <Record>
+      <Key>JoystickButton16</Key>
+      <Value>Joystick Bouton 16</Value>
+    </Record>
+    <Record>
+      <Key>JoystickButton17</Key>
+      <Value>Joystick Bouton 17</Value>
+    </Record>
+    <Record>
+      <Key>JoystickButton18</Key>
+      <Value>Joystick Bouton 18</Value>
+    </Record>
+    <Record>
+      <Key>JoystickButton19</Key>
+      <Value>Joystick Bouton 19</Value>
+    </Record>
+    <Record>
+      <Key>Joystick1Button0</Key>
+      <Value>Joystick1 Bouton 0</Value>
+    </Record>
+    <Record>
+      <Key>Joystick1Button1</Key>
+      <Value>Joystick1 Bouton 1</Value>
+    </Record>
+    <Record>
+      <Key>Joystick1Button2</Key>
+      <Value>Joystick1 Bouton 2</Value>
+    </Record>
+    <Record>
+      <Key>Joystick1Button3</Key>
+      <Value>Joystick1 Bouton 3</Value>
+    </Record>
+    <Record>
+      <Key>Joystick1Button4</Key>
+      <Value>Joystick1 Bouton 4</Value>
+    </Record>
+    <Record>
+      <Key>Joystick1Button5</Key>
+      <Value>Joystick1 Bouton 5</Value>
+    </Record>
+    <Record>
+      <Key>Joystick1Button6</Key>
+      <Value>Joystick1 Bouton 6</Value>
+    </Record>
+    <Record>
+      <Key>Joystick1Button7</Key>
+      <Value>Joystick1 Bouton 7</Value>
+    </Record>
+    <Record>
+      <Key>Joystick1Button8</Key>
+      <Value>Joystick1 Bouton 8</Value>
+    </Record>
+    <Record>
+      <Key>Joystick1Button9</Key>
+      <Value>Joystick1 Bouton 9</Value>
+    </Record>
+    <Record>
+      <Key>Joystick1Button10</Key>
+      <Value>Joystick1 Bouton 10</Value>
+    </Record>
+    <Record>
+      <Key>Joystick1Button11</Key>
+      <Value>Joystick1 Bouton 11</Value>
+    </Record>
+    <Record>
+      <Key>Joystick1Button12</Key>
+      <Value>Joystick1 Bouton 12</Value>
+    </Record>
+    <Record>
+      <Key>Joystick1Button13</Key>
+      <Value>Joystick1 Bouton 13</Value>
+    </Record>
+    <Record>
+      <Key>Joystick1Button14</Key>
+      <Value>Joystick1 Bouton 14</Value>
+    </Record>
+    <Record>
+      <Key>Joystick1Button15</Key>
+      <Value>Joystick1 Bouton 15</Value>
+    </Record>
+    <Record>
+      <Key>Joystick1Button16</Key>
+      <Value>Joystick1 Bouton 16</Value>
+    </Record>
+    <Record>
+      <Key>Joystick1Button17</Key>
+      <Value>Joystick1 Bouton 17</Value>
+    </Record>
+    <Record>
+      <Key>Joystick1Button18</Key>
+      <Value>Joystick1 Bouton 18</Value>
+    </Record>
+    <Record>
+      <Key>Joystick1Button19</Key>
+      <Value>Joystick1 Bouton 19</Value>
+    </Record>
+    <Record>
+      <Key>Joystick2Button0</Key>
+      <Value>Joystick2 Button 0</Value>
+    </Record>
+    <Record>
+      <Key>Joystick2Button1</Key>
+      <Value>Joystick2 Bouton 1</Value>
+    </Record>
+    <Record>
+      <Key>Joystick2Button2</Key>
+      <Value>Joystick2 Bouton 2</Value>
+    </Record>
+    <Record>
+      <Key>Joystick2Button3</Key>
+      <Value>Joystick2 Bouton 3</Value>
+    </Record>
+    <Record>
+      <Key>Joystick2Button4</Key>
+      <Value>Joystick2 Bouton 4</Value>
+    </Record>
+    <Record>
+      <Key>Joystick2Button5</Key>
+      <Value>Joystick2 Bouton 5</Value>
+    </Record>
+    <Record>
+      <Key>Joystick2Button6</Key>
+      <Value>Joystick2 Bouton 6</Value>
+    </Record>
+    <Record>
+      <Key>Joystick2Button7</Key>
+      <Value>Joystick2 Bouton 7</Value>
+    </Record>
+    <Record>
+      <Key>Joystick2Button8</Key>
+      <Value>Joystick2 Bouton 8</Value>
+    </Record>
+    <Record>
+      <Key>Joystick2Button9</Key>
+      <Value>Joystick2 Bouton 9</Value>
+    </Record>
+    <Record>
+      <Key>Joystick2Button10</Key>
+      <Value>Joystick2 Bouton 10</Value>
+    </Record>
+    <Record>
+      <Key>Joystick2Button11</Key>
+      <Value>Joystick2 Bouton 11</Value>
+    </Record>
+    <Record>
+      <Key>Joystick2Button12</Key>
+      <Value>Joystick2 Bouton 12</Value>
+    </Record>
+    <Record>
+      <Key>Joystick2Button13</Key>
+      <Value>Joystick2 Bouton 13</Value>
+    </Record>
+    <Record>
+      <Key>Joystick2Button14</Key>
+      <Value>Joystick2 Bouton 14</Value>
+    </Record>
+    <Record>
+      <Key>Joystick2Button15</Key>
+      <Value>Joystick2 Bouton 15</Value>
+    </Record>
+    <Record>
+      <Key>Joystick2Button16</Key>
+      <Value>Joystick2 Bouton 16</Value>
+    </Record>
+    <Record>
+      <Key>Joystick2Button17</Key>
+      <Value>Joystick2 Bouton 17</Value>
+    </Record>
+    <Record>
+      <Key>Joystick2Button18</Key>
+      <Value>Joystick2 Bouton 18</Value>
+    </Record>
+    <Record>
+      <Key>Joystick2Button19</Key>
+      <Value>Joystick2 Bouton 19</Value>
+    </Record>
+    <Record>
+      <Key>Joystick3Button0</Key>
+      <Value>Joystick3 Bouton 0</Value>
+    </Record>
+    <Record>
+      <Key>Joystick3Button1</Key>
+      <Value>Joystick3 Bouton 1</Value>
+    </Record>
+    <Record>
+      <Key>Joystick3Button2</Key>
+      <Value>Joystick3 Bouton 2</Value>
+    </Record>
+    <Record>
+      <Key>Joystick3Button3</Key>
+      <Value>Joystick3 Bouton 3</Value>
+    </Record>
+    <Record>
+      <Key>Joystick3Button4</Key>
+      <Value>Joystick3 Bouton 4</Value>
+    </Record>
+    <Record>
+      <Key>Joystick3Button5</Key>
+      <Value>Joystick3 Bouton 5</Value>
+    </Record>
+    <Record>
+      <Key>Joystick3Button6</Key>
+      <Value>Joystick3 Bouton 6</Value>
+    </Record>
+    <Record>
+      <Key>Joystick3Button7</Key>
+      <Value>Joystick3 Bouton 7</Value>
+    </Record>
+    <Record>
+      <Key>Joystick3Button8</Key>
+      <Value>Joystick3 Bouton 8</Value>
+    </Record>
+    <Record>
+      <Key>Joystick3Button9</Key>
+      <Value>Joystick3 Bouton 9</Value>
+    </Record>
+    <Record>
+      <Key>Joystick3Button10</Key>
+      <Value>Joystick3 Bouton 10</Value>
+    </Record>
+    <Record>
+      <Key>Joystick3Button11</Key>
+      <Value>Joystick3 Bouton 11</Value>
+    </Record>
+    <Record>
+      <Key>Joystick3Button12</Key>
+      <Value>Joystick3 Bouton 12</Value>
+    </Record>
+    <Record>
+      <Key>Joystick3Button13</Key>
+      <Value>Joystick3 Bouton 13</Value>
+    </Record>
+    <Record>
+      <Key>Joystick3Button14</Key>
+      <Value>Joystick3 Bouton 14</Value>
+    </Record>
+    <Record>
+      <Key>Joystick3Button15</Key>
+      <Value>Joystick3 Bouton 15</Value>
+    </Record>
+    <Record>
+      <Key>Joystick3Button16</Key>
+      <Value>Joystick3 Bouton 16</Value>
+    </Record>
+    <Record>
+      <Key>Joystick3Button17</Key>
+      <Value>Joystick3 Bouton 17</Value>
+    </Record>
+    <Record>
+      <Key>Joystick3Button18</Key>
+      <Value>Joystick3 Bouton 18</Value>
+    </Record>
+    <Record>
+      <Key>Joystick3Button19</Key>
+      <Value>Joystick3 Bouton 19</Value>
+    </Record>
+    <Record>
+      <Key>Joystick4Button0</Key>
+      <Value>Joystick4 Bouton 0</Value>
+    </Record>
+    <Record>
+      <Key>Joystick4Button1</Key>
+      <Value>Joystick4 Bouton 1</Value>
+    </Record>
+    <Record>
+      <Key>Joystick4Button2</Key>
+      <Value>Joystick4 Bouton 2</Value>
+    </Record>
+    <Record>
+      <Key>Joystick4Button3</Key>
+      <Value>Joystick4 Bouton 3</Value>
+    </Record>
+    <Record>
+      <Key>Joystick4Button4</Key>
+      <Value>Joystick4 Bouton 4</Value>
+    </Record>
+    <Record>
+      <Key>Joystick4Button5</Key>
+      <Value>Joystick4 Bouton 5</Value>
+    </Record>
+    <Record>
+      <Key>Joystick4Button6</Key>
+      <Value>Joystick4 Bouton 6</Value>
+    </Record>
+    <Record>
+      <Key>Joystick4Button7</Key>
+      <Value>Joystick4 Bouton 7</Value>
+    </Record>
+    <Record>
+      <Key>Joystick4Button8</Key>
+      <Value>Joystick4 Bouton 8</Value>
+    </Record>
+    <Record>
+      <Key>Joystick4Button9</Key>
+      <Value>Joystick4 Bouton 9</Value>
+    </Record>
+    <Record>
+      <Key>Joystick4Button10</Key>
+      <Value>Joystick4 Bouton 10</Value>
+    </Record>
+    <Record>
+      <Key>Joystick4Button11</Key>
+      <Value>Joystick4 Bouton 11</Value>
+    </Record>
+    <Record>
+      <Key>Joystick4Button12</Key>
+      <Value>Joystick4 Bouton 12</Value>
+    </Record>
+    <Record>
+      <Key>Joystick4Button13</Key>
+      <Value>Joystick4 Bouton 13</Value>
+    </Record>
+    <Record>
+      <Key>Joystick4Button14</Key>
+      <Value>Joystick4 Bouton 14</Value>
+    </Record>
+    <Record>
+      <Key>Joystick4Button15</Key>
+      <Value>Joystick4 Bouton 15</Value>
+    </Record>
+    <Record>
+      <Key>Joystick4Button16</Key>
+      <Value>Joystick4 Bouton 16</Value>
+    </Record>
+    <Record>
+      <Key>Joystick4Button17</Key>
+      <Value>Joystick4 Bouton 17</Value>
+    </Record>
+    <Record>
+      <Key>Joystick4Button18</Key>
+      <Value>Joystick4 Bouton 18</Value>
+    </Record>
+    <Record>
+      <Key>Joystick4Button19</Key>
+      <Value>Joystick4 Bouton 19</Value>
+    </Record>
+    <Record>
+      <Key>Joystick5Button0</Key>
+      <Value>Joystick5 Bouton 0</Value>
+    </Record>
+    <Record>
+      <Key>Joystick5Button1</Key>
+      <Value>Joystick5 Bouton 1</Value>
+    </Record>
+    <Record>
+      <Key>Joystick5Button2</Key>
+      <Value>Joystick5 Bouton 2</Value>
+    </Record>
+    <Record>
+      <Key>Joystick5Button3</Key>
+      <Value>Joystick5 Bouton 3</Value>
+    </Record>
+    <Record>
+      <Key>Joystick5Button4</Key>
+      <Value>Joystick5 Bouton 4</Value>
+    </Record>
+    <Record>
+      <Key>Joystick5Button5</Key>
+      <Value>Joystick5 Bouton 5</Value>
+    </Record>
+    <Record>
+      <Key>Joystick5Button6</Key>
+      <Value>Joystick5 Bouton 6</Value>
+    </Record>
+    <Record>
+      <Key>Joystick5Button7</Key>
+      <Value>Joystick5 Bouton 7</Value>
+    </Record>
+    <Record>
+      <Key>Joystick5Button8</Key>
+      <Value>Joystick5 Bouton 8</Value>
+    </Record>
+    <Record>
+      <Key>Joystick5Button9</Key>
+      <Value>Joystick5 Bouton 9</Value>
+    </Record>
+    <Record>
+      <Key>Joystick5Button10</Key>
+      <Value>Joystick5 Bouton 10</Value>
+    </Record>
+    <Record>
+      <Key>Joystick5Button11</Key>
+      <Value>Joystick5 Bouton 11</Value>
+    </Record>
+    <Record>
+      <Key>Joystick5Button12</Key>
+      <Value>Joystick5 Bouton 12</Value>
+    </Record>
+    <Record>
+      <Key>Joystick5Button13</Key>
+      <Value>Joystick5 Bouton 13</Value>
+    </Record>
+    <Record>
+      <Key>Joystick5Button14</Key>
+      <Value>Joystick5 Bouton 14</Value>
+    </Record>
+    <Record>
+      <Key>Joystick5Button15</Key>
+      <Value>Joystick5 Bouton 15</Value>
+    </Record>
+    <Record>
+      <Key>Joystick5Button16</Key>
+      <Value>Joystick5 Bouton 16</Value>
+    </Record>
+    <Record>
+      <Key>Joystick5Button17</Key>
+      <Value>Joystick5 Bouton 17</Value>
+    </Record>
+    <Record>
+      <Key>Joystick5Button18</Key>
+      <Value>Joystick5 Bouton 18</Value>
+    </Record>
+    <Record>
+      <Key>Joystick5Button19</Key>
+      <Value>Joystick5 Bouton 19</Value>
+    </Record>
+    <Record>
+      <Key>Joystick6Button0</Key>
+      <Value>Joystick6 Bouton 0</Value>
+    </Record>
+    <Record>
+      <Key>Joystick6Button1</Key>
+      <Value>Joystick6 Bouton 1</Value>
+    </Record>
+    <Record>
+      <Key>Joystick6Button2</Key>
+      <Value>Joystick6 Bouton 2</Value>
+    </Record>
+    <Record>
+      <Key>Joystick6Button3</Key>
+      <Value>Joystick6 Bouton 3</Value>
+    </Record>
+    <Record>
+      <Key>Joystick6Button4</Key>
+      <Value>Joystick6 Bouton 4</Value>
+    </Record>
+    <Record>
+      <Key>Joystick6Button5</Key>
+      <Value>Joystick6 Bouton 5</Value>
+    </Record>
+    <Record>
+      <Key>Joystick6Button6</Key>
+      <Value>Joystick6 Bouton 6</Value>
+    </Record>
+    <Record>
+      <Key>Joystick6Button7</Key>
+      <Value>Joystick6 Bouton 7</Value>
+    </Record>
+    <Record>
+      <Key>Joystick6Button8</Key>
+      <Value>Joystick6 Bouton 8</Value>
+    </Record>
+    <Record>
+      <Key>Joystick6Button9</Key>
+      <Value>Joystick6 Bouton 9</Value>
+    </Record>
+    <Record>
+      <Key>Joystick6Button10</Key>
+      <Value>Joystick6 Bouton 10</Value>
+    </Record>
+    <Record>
+      <Key>Joystick6Button11</Key>
+      <Value>Joystick6 Bouton 11</Value>
+    </Record>
+    <Record>
+      <Key>Joystick6Button12</Key>
+      <Value>Joystick6 Bouton 12</Value>
+    </Record>
+    <Record>
+      <Key>Joystick6Button13</Key>
+      <Value>Joystick6 Bouton 13</Value>
+    </Record>
+    <Record>
+      <Key>Joystick6Button14</Key>
+      <Value>Joystick6 Bouton 14</Value>
+    </Record>
+    <Record>
+      <Key>Joystick6Button15</Key>
+      <Value>Joystick6 Bouton 15</Value>
+    </Record>
+    <Record>
+      <Key>Joystick6Button16</Key>
+      <Value>Joystick6 Bouton 16</Value>
+    </Record>
+    <Record>
+      <Key>Joystick6Button17</Key>
+      <Value>Joystick6 Bouton 17</Value>
+    </Record>
+    <Record>
+      <Key>Joystick6Button18</Key>
+      <Value>Joystick6 Bouton 18</Value>
+    </Record>
+    <Record>
+      <Key>Joystick6Button19</Key>
+      <Value>Joystick6 Bouton 19</Value>
+    </Record>
+    <Record>
+      <Key>Joystick7Button0</Key>
+      <Value>Joystick7 Bouton 0</Value>
+    </Record>
+    <Record>
+      <Key>Joystick7Button1</Key>
+      <Value>Joystick7 Bouton 1</Value>
+    </Record>
+    <Record>
+      <Key>Joystick7Button2</Key>
+      <Value>Joystick7 Bouton 2</Value>
+    </Record>
+    <Record>
+      <Key>Joystick7Button3</Key>
+      <Value>Joystick7 Bouton 3</Value>
+    </Record>
+    <Record>
+      <Key>Joystick7Button4</Key>
+      <Value>Joystick7 Bouton 4</Value>
+    </Record>
+    <Record>
+      <Key>Joystick7Button5</Key>
+      <Value>Joystick7 Bouton 5</Value>
+    </Record>
+    <Record>
+      <Key>Joystick7Button6</Key>
+      <Value>Joystick7 Bouton 6</Value>
+    </Record>
+    <Record>
+      <Key>Joystick7Button7</Key>
+      <Value>Joystick7 Bouton 7</Value>
+    </Record>
+    <Record>
+      <Key>Joystick7Button8</Key>
+      <Value>Joystick7 Bouton 8</Value>
+    </Record>
+    <Record>
+      <Key>Joystick7Button9</Key>
+      <Value>Joystick7 Bouton 9</Value>
+    </Record>
+    <Record>
+      <Key>Joystick7Button10</Key>
+      <Value>Joystick7 Bouton 10</Value>
+    </Record>
+    <Record>
+      <Key>Joystick7Button11</Key>
+      <Value>Joystick7 Bouton 11</Value>
+    </Record>
+    <Record>
+      <Key>Joystick7Button12</Key>
+      <Value>Joystick7 Bouton 12</Value>
+    </Record>
+    <Record>
+      <Key>Joystick7Button13</Key>
+      <Value>Joystick7 Bouton 13</Value>
+    </Record>
+    <Record>
+      <Key>Joystick7Button14</Key>
+      <Value>Joystick7 Bouton 14</Value>
+    </Record>
+    <Record>
+      <Key>Joystick7Button15</Key>
+      <Value>Joystick7 Bouton 15</Value>
+    </Record>
+    <Record>
+      <Key>Joystick7Button16</Key>
+      <Value>Joystick7 Bouton 16</Value>
+    </Record>
+    <Record>
+      <Key>Joystick7Button17</Key>
+      <Value>Joystick7 Bouton 17</Value>
+    </Record>
+    <Record>
+      <Key>Joystick7Button18</Key>
+      <Value>Joystick7 Bouton 18</Value>
+    </Record>
+    <Record>
+      <Key>Joystick7Button19</Key>
+      <Value>Joystick7 Bouton 19</Value>
+    </Record>
+    <Record>
+      <Key>Joystick8Button0</Key>
+      <Value>Joystick8 Bouton 0</Value>
+    </Record>
+    <Record>
+      <Key>Joystick8Button1</Key>
+      <Value>Joystick8 Bouton 1</Value>
+    </Record>
+    <Record>
+      <Key>Joystick8Button2</Key>
+      <Value>Joystick8 Bouton 2</Value>
+    </Record>
+    <Record>
+      <Key>Joystick8Button3</Key>
+      <Value>Joystick8 Bouton 3</Value>
+    </Record>
+    <Record>
+      <Key>Joystick8Button4</Key>
+      <Value>Joystick8 Bouton 4</Value>
+    </Record>
+    <Record>
+      <Key>Joystick8Button5</Key>
+      <Value>Joystick8 Bouton 5</Value>
+    </Record>
+    <Record>
+      <Key>Joystick8Button6</Key>
+      <Value>Joystick8 Bouton 6</Value>
+    </Record>
+    <Record>
+      <Key>Joystick8Button7</Key>
+      <Value>Joystick8 Bouton 7</Value>
+    </Record>
+    <Record>
+      <Key>Joystick8Button8</Key>
+      <Value>Joystick8 Bouton 8</Value>
+    </Record>
+    <Record>
+      <Key>Joystick8Button9</Key>
+      <Value>Joystick8 Bouton 9</Value>
+    </Record>
+    <Record>
+      <Key>Joystick8Button10</Key>
+      <Value>Joystick8 Bouton 10</Value>
+    </Record>
+    <Record>
+      <Key>Joystick8Button11</Key>
+      <Value>Joystick8 Bouton 11</Value>
+    </Record>
+    <Record>
+      <Key>Joystick8Button12</Key>
+      <Value>Joystick8 Bouton 12</Value>
+    </Record>
+    <Record>
+      <Key>Joystick8Button13</Key>
+      <Value>Joystick8 Bouton 13</Value>
+    </Record>
+    <Record>
+      <Key>Joystick8Button14</Key>
+      <Value>Joystick8 Bouton 14</Value>
+    </Record>
+    <Record>
+      <Key>Joystick8Button15</Key>
+      <Value>Joystick8 Bouton 15</Value>
+    </Record>
+    <Record>
+      <Key>Joystick8Button16</Key>
+      <Value>Joystick8 Bouton 16</Value>
+    </Record>
+    <Record>
+      <Key>Joystick8Button17</Key>
+      <Value>Joystick8 Bouton 17</Value>
+    </Record>
+    <Record>
+      <Key>Joystick8Button18</Key>
+      <Value>Joystick8 Bouton 18</Value>
+    </Record>
+    <Record>
+      <Key>Joystick8Button19</Key>
+      <Value>Joystick8 Bouton 19</Value>
+    </Record>
+  </Keys>
   <Mineables>
     <Record>
       <Key>Iron</Key>
