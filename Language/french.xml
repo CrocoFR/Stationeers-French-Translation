@@ -1078,7 +1078,7 @@
     </Record>
     <Record>
       <Key>ItemPipeAnalyizer</Key>
-      <Value>Analyseur de Tuyau</Value>
+      <Value>Kit (Analyseur de Tuyau)</Value>
     </Record>
     <Record>
       <Key>ItemPipeCorner</Key>
@@ -1110,11 +1110,11 @@
     </Record>
     <Record>
       <Key>ItemPipeLabel</Key>
-      <Value>Libellé de Tuyau</Value>
+      <Value>Kit (Libellé de Tuyau)</Value>
     </Record>
     <Record>
       <Key>ItemPipeMeter</Key>
-      <Value>Tuyau avec Manomètre</Value>
+      <Value>Kit (Tuyau avec Manomètre)</Value>
     </Record>
     <Record>
       <Key>ItemPipeRadiator</Key>
