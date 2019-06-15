@@ -1110,7 +1110,7 @@
     </Record>
     <Record>
       <Key>ItemPipeLabel</Key>
-      <Value>Kit (Libellé de Tuyau)</Value>
+      <Value>Kit (Étiquette de Tuyau)</Value>
     </Record>
     <Record>
       <Key>ItemPipeMeter</Key>
@@ -1594,7 +1594,7 @@
     </Record>
     <Record>
       <Key>StructurePipeLabel</Key>
-      <Value>Etiquette de Tuyau</Value>
+      <Value>Étiquette de Tuyau</Value>
     </Record>
     <Record>
       <Key>StructurePipeMeter</Key>
@@ -3162,7 +3162,7 @@
     </Record>
     <Record>
       <Key>StructureLogicHashGen</Key>
-      <Value>Générateur de signature logique</Value>
+      <Value>Générateur logique de signature</Value>
     </Record>
     <Record>
       <Key>StructureShuttleLandingPad</Key>
@@ -3211,6 +3211,34 @@
     <Record>
       <Key>StructureWallLightBattery</Key>
       <Value>Lumière murale (Batterie)</Value>
+    </Record>
+    <Record>
+      <Key>DynamicPortal</Key>
+      <Value>Portail dynamique</Value>
+    </Record>
+    <Record>
+      <Key>ItemArcWelder</Key>
+      <Value>Soudeur à l’arc</Value>
+    </Record>
+    <Record>
+      <Key>ItemMiningDrillHeavy</Key>
+      <Value>Foreuse lourde</Value>
+    </Record>
+    <Record>
+      <Key>RoverCargo</Key>
+      <Value>Rover (cargo)</Value>
+    </Record>
+    <Record>
+      <Key>ItemCreditCard</Key>
+      <Value>Carte de crédit</Value>
+    </Record>
+    <Record>
+      <Key>StructureRover</Key>
+      <Value>Cadre pour Rover</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitRoverFrame</Key>
+      <Value>Kit (Cadre pour Rover)</Value>
     </Record>
   </Things>
   <Slots>
@@ -3398,6 +3426,10 @@
       <Key>ProgrammableChip</Key>
       <Value>Processeur programmable</Value>
     </Record>
+    <Record>
+      <Key>CreditCard</Key>
+      <Value>Carte de crédit</Value>
+    </Record>
   </Slots>
   <Interactables>
     <Record>
@@ -3458,7 +3490,7 @@
     </Record>
     <Record>
       <Key>SplitHalf</Key>
-      <Value>Diviser (en 2)</Value>
+      <Value>Diviser en 2</Value>
     </Record>
     <Record>
       <Key>NextPage</Key>
@@ -3530,7 +3562,7 @@
     </Record>
     <Record>
       <Key>TiltDownwards</Key>
-      <Value>Incliner vers le Bas</Value>
+      <Value>Inclinaison vers le Bas</Value>
     </Record>
     <Record>
       <Key>Launch</Key>
@@ -3929,6 +3961,10 @@
     <Record>
       <Key>SettingsScreenMode</Key>
       <Value>Mode écran</Value>
+    </Record>
+    <Record>
+      <Key>SettingsVsync</Key>
+      <Value>Synchronisation verticale</Value>
     </Record>
     <Record>
       <Key>SettingsButtonApply</Key>
@@ -4411,7 +4447,7 @@ Veuillez réessayer.</Value>
     </Record>
     <Record>
       <Key>AlertInvalidPort</Key>
-      <Value>Les valeurs de port doivent être comprises entre 0 et 65535.</Value>
+      <Value>Les valeurs du port doivent être comprises entre 0 et 65535.</Value>
     </Record>
     <Record>
       <Key>AlertCannotUpdatePort</Key>
@@ -4664,6 +4700,18 @@ Ne soyez pas triste quand vous vous faites exploser en minuscules petits morceau
     <Record>
       <Key>SettingsMouseWheelZoom</Key>
       <Value>Zoom avec molette souris</Value>
+    </Record>
+    <Record>
+      <Key>TradingNoMoneyHash</Key>
+      <Value>Vous n&apos;avez pas assez d&apos;argent pour terminer cette transaction !</Value>
+    </Record>
+    <Record>
+      <Key>SomethingWentWrongTrading</Key>
+      <Value>Quelque chose s&apos;est mal déroulé durant la transaction, quelque chose de quitter le vendeur !</Value>
+    </Record>
+    <Record>
+      <Key>SomethingWentWrongTrading2</Key>
+      <Value>Quelque chose s&apos;est mal déroulé durant la transaction, vous n&apos;avez pas de carte de crédit !</Value>
     </Record>
     <Record>
       <Key>GameMenuRespawn</Key>
@@ -5148,11 +5196,11 @@ Temperature {1}</Value>
     </Record>
     <Record>
       <Key>LogicTypeRecipeHash</Key>
-      <Value>Hachage actuel de la recette que l&apos;appareil est configuré pour produire</Value>
+      <Value>Signature actuel de la recette configuré dans la production de l&apos;appareil</Value>
     </Record>
     <Record>
       <Key>LogicTypeRequestHash</Key>
-      <Value>Lorsqu&apos;il est défini sur l&apos;identificateur unique, demande un élément du type fourni à partir du périphérique</Value>
+      <Value>Lorsqu&apos;il est défini sur identification unique, recherche à nouveau un élément du même type fourni à partir du périphérique</Value>
     </Record>
     <Record>
       <Key>LogicTypeCompletionRatio</Key>
@@ -5244,11 +5292,19 @@ Temperature {1}</Value>
     </Record>
     <Record>
       <Key>LogicTypePrefabHash</Key>
-      <Value>La signature de la structure</Value>
+      <Value>La signature de la construction</Value>
     </Record>
     <Record>
       <Key>LogicTypeForceWrite</Key>
       <Value>Force les logiques d&apos;écriture à réécrire la valeur</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeSignalStrength</Key>
+      <Value>Renvoie la puissance du signal le plus fort reçu de satellite</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeSignalID</Key>
+      <Value>Renvoie l&apos;identification du contact avec le signal le plus fort de ce satellite</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeNone</Key>
@@ -5260,7 +5316,7 @@ Temperature {1}</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeOccupantHash</Key>
-      <Value>Indique l&apos;occupant actuel de l&apos;emplacement, l&apos;identificateur unique de la chose</Value>
+      <Value>Indique la signature de la construction actuel de l&apos;emplacement, l&apos;identification unique de l&apos;objet</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeQuantity</Key>
@@ -5300,7 +5356,7 @@ Temperature {1}</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeChargeRatio</Key>
-      <Value>Indique la charge d&apos;énergie actuelle par l&apos;emplacement occupé comme un ratio entre 0 et 1 étant son maximun</Value>
+      <Value>Indique la charge d&apos;énergie actuelle par l&apos;emplacement occupé comme un ratio entre 0 et 1 étant son maximum</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeClass</Key>
@@ -5320,7 +5376,7 @@ Temperature {1}</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypePrefabHash</Key>
-      <Value>Indique la signature de la structure dans l&apos;emplacement</Value>
+      <Value>Indique la signature de la construction dans l&apos;emplacement</Value>
     </Record>
     <Record>
       <Key>AppearanceButtonRandomize</Key>
@@ -5349,6 +5405,78 @@ Temperature {1}</Value>
     <Record>
       <Key>SpinnerPannelDone</Key>
       <Value>Terminé</Value>
+    </Record>
+    <Record>
+      <Key>TraderGoneMissing</Key>
+      <Value>Le contact semble avoir poursuivi son chemin.</Value>
+    </Record>
+    <Record>
+      <Key>ContactEventDefault</Key>
+      <Value>Il n&apos;y a pas eu de réponse.</Value>
+    </Record>
+    <Record>
+      <Key>ContactTradeRequest</Key>
+      <Value>Un marchand demande la permission d&apos;atterrir.</Value>
+    </Record>
+    <Record>
+      <Key>ContactNoResponse</Key>
+      <Value>Il n&apos;y a pas eu de réponse.</Value>
+    </Record>
+    <Record>
+      <Key>ContactTradeRequestFail</Key>
+      <Value>Le marchand nécessite un atterrissage sûre. Veuillez vous assurer que l’espace d’atterrissage est clair et connecté.</Value>
+    </Record>
+    <Record>
+      <Key>InputTextTradingTitle</Key>
+      <Value>Terminal de vente</Value>
+    </Record>
+    <Record>
+      <Key>TraderElectronics</Key>
+      <Value>ELECTO MARCHE</Value>
+    </Record>
+    <Record>
+      <Key>TraderOrganics</Key>
+      <Value>ORGANIQUE SHOP</Value>
+    </Record>
+    <Record>
+      <Key>TraderBasic</Key>
+      <Value>BRIC A BRAC SPATIALE</Value>
+    </Record>
+    <Record>
+      <Key>TraderHydraulic</Key>
+      <Value>HYDRAULIQUE MARKET</Value>
+    </Record>
+    <Record>
+      <Key>TraderOre</Key>
+      <Value>MINERITE</Value>
+    </Record>
+    <Record>
+      <Key>TraderMicrowave</Key>
+      <Value>MICRO ONDES SHOP</Value>
+    </Record>
+    <Record>
+      <Key>TraderChemistry</Key>
+      <Value>LE LABO</Value>
+    </Record>
+    <Record>
+      <Key>TraderExotic</Key>
+      <Value>EXOTECH</Value>
+    </Record>
+    <Record>
+      <Key>TraderPaint</Key>
+      <Value>PEINTURE INDUSTRIE</Value>
+    </Record>
+    <Record>
+      <Key>TraderTool</Key>
+      <Value>BRICO MARCHE</Value>
+    </Record>
+    <Record>
+      <Key>TraderSecurity</Key>
+      <Value>SECURITE PLANETAIRE</Value>
+    </Record>
+    <Record>
+      <Key>TraderOther</Key>
+      <Value>MARCHE SPATIALE</Value>
     </Record>
   </Interface>
   <Colors>
@@ -5572,7 +5700,7 @@ Temperature {1}</Value>
     </Record>
     <Record>
       <Key>LeftCurlyBracket</Key>
-      <Value>[</Value>
+      <Value>{</Value>
     </Record>
     <Record>
       <Key>Pipe</Key>
@@ -5580,7 +5708,7 @@ Temperature {1}</Value>
     </Record>
     <Record>
       <Key>RightCurlyBracket</Key>
-      <Value>]</Value>
+      <Value>}</Value>
     </Record>
     <Record>
       <Key>Delete</Key>
