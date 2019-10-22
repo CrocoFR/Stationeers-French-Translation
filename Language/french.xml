@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Language xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>French</Name>
   <Code>FR</Code>
   <Font>font_extended</Font>
@@ -3240,6 +3240,110 @@
       <Key>ItemKitRoverFrame</Key>
       <Value>Kit (Cadre pour Rover)</Value>
     </Record>
+    <Record>
+      <Key>StructureStairs4x2Rails</Key>
+      <Value>Escaliers avec rampe</Value>
+    </Record>
+    <Record>
+      <Key>StructureStairs4x2RailL</Key>
+      <Value>Escaliers avec rampe (gauche)</Value>
+    </Record>
+    <Record>
+      <Key>StructureStairs4x2RailR</Key>
+      <Value>Escaliers avec rampe (droite)</Value>
+    </Record>
+    <Record>
+      <Key>Meteorite</Key>
+      <Value>Météorite</Value>
+    </Record>
+    <Record>
+      <Key>ItemReferenceTool</Key>
+      <Value>Outil de création d&apos;objet</Value>
+    </Record>
+    <Record>
+      <Key>DynamicGasCanisterNitrousOxide</Key>
+      <Value>Réservoir portable (Azote)</Value>
+    </Record>
+    <Record>
+      <Key>DynamicGasCanisterPollutants</Key>
+      <Value>Réservoir portable (Volatiles)</Value>
+    </Record>
+    <Record>
+      <Key>StructureSolarPanelFused</Key>
+      <Value>Panneau Solaire</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeGPS</Key>
+      <Value>Carte (Guide)</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicTransmitter</Key>
+      <Value>Unité Logique: Ecriture</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitLogicTransmitter</Key>
+      <Value>Kit (Unité Logique)</Value>
+    </Record>
+    <Record>
+      <Key>StructureAdvancedFurnace</Key>
+      <Value>Four à Arc</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitAdvancedFurnace</Key>
+      <Value>Kit (Four à Arc)</Value>
+    </Record>
+    <Record>
+      <Key>ItemStelliteIngot</Key>
+      <Value>Lingot (Acier)</Value>
+    </Record>
+    <Record>
+      <Key>ItemWaspaloyIngot</Key>
+      <Value>Lingot (Déchets)</Value>
+    </Record>
+    <Record>
+      <Key>ItemHastelloyIngot</Key>
+      <Value>Lingot (Déchets)</Value>
+    </Record>
+    <Record>
+      <Key>ItemInconelIngot</Key>
+      <Value>Lingot (Fer)</Value>
+    </Record>
+    <Record>
+      <Key>ItemAstroloyIngot</Key>
+      <Value>Lingot (Fer)</Value>
+    </Record>
+    <Record>
+      <Key>ItemCobaltOre</Key>
+      <Value>Minerai (Charbon)</Value>
+    </Record>
+    <Record>
+      <Key>ItemCobaltIngot</Key>
+      <Value>Lingot (Or)</Value>
+    </Record>
+    <Record>
+      <Key>ReagentCobalt</Key>
+      <Value>Poudre d&apos;Or</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeCladdingRoundedCornerInner</Key>
+      <Value>Revêtement Composite (Coin arrondi)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeCladdingAngledCornerInnerLongR</Key>
+      <Value>Revêtement Composite (Coin incliné)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeCladdingAngledCornerInnerLongL</Key>
+      <Value>Revêtement Composite (Coin incliné)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeCladdingAngledCornerInnerLong</Key>
+      <Value>Revêtement Composite (Coin incliné)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCompositeCladdingAngledCornerInner</Key>
+      <Value>Revêtement Composite (Coin incliné)</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
@@ -3421,10 +3525,6 @@
     <Record>
       <Key>Storage</Key>
       <Value>Stockage</Value>
-    </Record>
-    <Record>
-      <Key>ProgrammableChip</Key>
-      <Value>Processeur programmable</Value>
     </Record>
     <Record>
       <Key>CreditCard</Key>
@@ -3719,8 +3819,8 @@
       <Value>Temps de jeu :</Value>
     </Record>
     <Record>
-      <Key>WorldInfoTextPlayers</Key>
-      <Value>Joueurs :</Value>
+      <Key>WorldInfoMapName</Key>
+      <Value>Carte:</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextAsteroids</Key>
@@ -3788,6 +3888,14 @@
     </Record>
     <Record>
       <Key>NewWorldAreaSpace</Key>
+      <Value>Espace</Value>
+    </Record>
+    <Record>
+      <Key>Moon</Key>
+      <Value>Lune</Value>
+    </Record>
+    <Record>
+      <Key>Space</Key>
       <Value>Espace</Value>
     </Record>
     <Record>
@@ -4061,6 +4169,10 @@
     <Record>
       <Key>NotificationTitle</Key>
       <Value>Sauvegarde réussie</Value>
+    </Record>
+    <Record>
+      <Key>SaveLocationBroken</Key>
+      <Value>Impossible d&apos;acceder a la sauvegarde, utilisez vous un caractere invalide ? Essayez de changer le repertoire de sauvegarde dans les parametres.</Value>
     </Record>
     <Record>
       <Key>AlertButtonClose</Key>
@@ -4421,8 +4533,16 @@ Scroll &lt;color=red&gt;Roulette de la souris&lt;/color&gt; pour plus d&apos;opt
       <Value>Abandonner</Value>
     </Record>
     <Record>
+      <Key>AlertYourSaveFileIsBroken</Key>
+      <Value>Le fichier {0} est invalide. Vérifiez le monde {1}.</Value>
+    </Record>
+    <Record>
       <Key>AlertInvalidIP</Key>
       <Value>Adresse IP non valide {0} \nVérifier que l&apos;adresse IP ou l&apos;URL soit valide</Value>
+    </Record>
+    <Record>
+      <Key>AlertNoBackups</Key>
+      <Value>Dossier de sauvegarde manquant ou vide.</Value>
     </Record>
     <Record>
       <Key>AlertPlayerCountExceeded</Key>
@@ -4700,6 +4820,14 @@ Ne soyez pas triste quand vous vous faites exploser en minuscules petits morceau
     <Record>
       <Key>SettingsMouseWheelZoom</Key>
       <Value>Zoom avec molette souris</Value>
+    </Record>
+    <Record>
+      <Key>Incident_Supply_Title</Key>
+      <Value>Caisse de fournitures</Value>
+    </Record>
+    <Record>
+      <Key>Incident_Supply</Key>
+      <Value>Les satellites suggèrent qu&apos;une caisse est tombée à proximité, votre traqueur de balise devrait vous montrer le chemin.</Value>
     </Record>
     <Record>
       <Key>TradingNoMoneyHash</Key>
@@ -5407,6 +5535,10 @@ Temperature {1}</Value>
       <Value>Terminé</Value>
     </Record>
     <Record>
+      <Key>OpenIncidentUI</Key>
+      <Value>Incidents en cours</Value>
+    </Record>
+    <Record>
       <Key>TraderGoneMissing</Key>
       <Value>Le contact semble avoir poursuivi son chemin.</Value>
     </Record>
@@ -5452,7 +5584,7 @@ Temperature {1}</Value>
     </Record>
     <Record>
       <Key>TraderBasic</Key>
-      <Value>BRIC A BRAC SPATIALE</Value>
+      <Value>BRIC A BRAC SPATIAL</Value>
     </Record>
     <Record>
       <Key>TraderHydraulic</Key>
@@ -5471,7 +5603,7 @@ Temperature {1}</Value>
       <Value>LE LABO</Value>
     </Record>
     <Record>
-      <Key>TraderExotic</Key>
+      <Key>TraderExotics</Key>
       <Value>EXOTECH</Value>
     </Record>
     <Record>
@@ -5488,7 +5620,55 @@ Temperature {1}</Value>
     </Record>
     <Record>
       <Key>TraderOther</Key>
-      <Value>MARCHE SPATIALE</Value>
+      <Value>MARCHE SPATIAL</Value>
+    </Record>
+    <Record>
+      <Key>TraderCustom</Key>
+      <Value>MARCHE SPATIAL</Value>
+    </Record>
+    <Record>
+      <Key>LoadBackupsTitle</Key>
+      <Value>Charger la sauvegarde</Value>
+    </Record>
+    <Record>
+      <Key>BackupMenuFileListTitle</Key>
+      <Value>Sauvegardes</Value>
+    </Record>
+    <Record>
+      <Key>Experiments</Key>
+      <Value>Expérimentation</Value>
+    </Record>
+    <Record>
+      <Key>OcclusionTickSpeed</Key>
+      <Value>TickSpeed masqué</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTargetX</Key>
+      <Value>La position actuelle dans l&apos;axe X en coordonnées du monde</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTargetY</Key>
+      <Value>La position actuelle dans l&apos;axe Y en coordonnées du monde</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeTargetZ</Key>
+      <Value>La position actuelle dans l&apos;axe Z en coordonnées du monde</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeSettingInputHash</Key>
+      <Value>Réglage maximal de l&apos;appareil</Value>
+    </Record>
+    <Record>
+      <Key>LogicTypeSettingOutputHash</Key>
+      <Value>Réglage vertical de l&apos;appareil</Value>
+    </Record>
+    <Record>
+      <Key>SettingsWorldOrigin</Key>
+      <Value>Paramètres du Monde</Value>
+    </Record>
+    <Record>
+      <Key>PromptButtonLeave</Key>
+      <Value>Quitter la session</Value>
     </Record>
   </Interface>
   <Colors>
