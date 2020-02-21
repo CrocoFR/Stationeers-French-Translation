@@ -1157,10 +1157,6 @@
       <Value>Fusée éclairante</Value>
     </Record>
     <Record>
-      <Key>ItemRTG</Key>
-      <Value>RTG</Value>
-    </Record>
-    <Record>
       <Key>ItemScanner</Key>
       <Value>Scanner portable</Value>
     </Record>
@@ -1834,11 +1830,11 @@
     </Record>
     <Record>
       <Key>StructureTransformer</Key>
-      <Value>Transformateur</Value>
+      <Value>Transformateur (Large)</Value>
     </Record>
     <Record>
       <Key>ItemKitTransformer</Key>
-      <Value>Kit (Transformateur)</Value>
+      <Value>Kit Transformateur (Large)</Value>
     </Record>
     <Record>
       <Key>StructureTransformerSmall</Key>
@@ -1986,7 +1982,7 @@
     </Record>
     <Record>
       <Key>ItemKitTransformerSmall</Key>
-      <Value>Kit (Petit Transformateur)</Value>
+      <Value>Kit (Transformateur)</Value>
     </Record>
     <Record>
       <Key>ItemKitSuitStorage</Key>
@@ -2070,7 +2066,7 @@
     </Record>
     <Record>
       <Key>StructureTransformerSmallReversed</Key>
-      <Value>Transformateur (Petit)</Value>
+      <Value>Transformateur Inversé (Petit)</Value>
     </Record>
     <Record>
       <Key>StructureLogicUnit</Key>
@@ -3397,8 +3393,60 @@
       <Value>Structure du Transformateur (Moyen)</Value>
     </Record>
     <Record>
-      <Key>StructureTransformerMediumReversed</Key>
-      <Value>Structure du Transformateur (Moyen Inversé)</Value>
+      <Key>StructureTransformerMedium(Reversed)</Key>
+      <Value>Transformateur Inversé (Moyen)</Value>
+    </Record>
+    <Record>
+      <Key>ItemJetpackBasic</Key>
+      <Value>Jetpack basique</Value>
+    </Record>
+    <Record>
+      <Key>ItemEmergencyHelmet</Key>
+      <Value>Casque de secours</Value>
+    </Record>
+    <Record>
+      <Key>ItemEmergencyArcWelder</Key>
+      <Value>Chalumeau de secours</Value>
+    </Record>
+    <Record>
+      <Key>ItemEmergencyDrill</Key>
+      <Value>Foreuse de secours</Value>
+    </Record>
+    <Record>
+      <Key>ItemEmergencyAngleGrinder</Key>
+      <Value>Meuleuse de secours</Value>
+    </Record>
+    <Record>
+      <Key>ItemEmergencyCrowbar</Key>
+      <Value>Pied de biche de secours</Value>
+    </Record>
+    <Record>
+      <Key>ItemEmergencyPickaxe</Key>
+      <Value>Pioche de secours</Value>
+    </Record>
+    <Record>
+      <Key>ItemEmergencyWrench</Key>
+      <Value>Clé de secours</Value>
+    </Record>
+    <Record>
+      <Key>ItemEmergencyWireCutters</Key>
+      <Value>Pince coupante de secours</Value>
+    </Record>
+    <Record>
+      <Key>ItemEmergencyScrewdriver</Key>
+      <Value>Tournevis de secours</Value>
+    </Record>
+    <Record>
+      <Key>ItemEmergencyEvaSuit</Key>
+      <Value>Combinaison spatiale de secours</Value>
+    </Record>
+    <Record>
+      <Key>ItemEmergencySpaceHelmet</Key>
+      <Value>Casque d’espace de secours</Value>
+    </Record>
+    <Record>
+      <Key>ItemEmergencyToolBelt</Key>
+      <Value>Ceinture d’outils de secours</Value>
     </Record>
   </Things>
   <Slots>
@@ -3847,6 +3895,10 @@
       <Value>Rejoindre un monde</Value>
     </Record>
     <Record>
+      <Key>MainMenuWorkshop</Key>
+      <Value>Atelier</Value>
+    </Record>
+    <Record>
       <Key>MainMenuSettings</Key>
       <Value>Paramètres</Value>
     </Record>
@@ -3948,7 +4000,11 @@
     </Record>
     <Record>
       <Key>NewWorldAreaSpace</Key>
-      <Value>Espace</Value>
+      <Value>Ceinture d&apos;astéroïdes</Value>
+    </Record>
+    <Record>
+      <Key>LoulanShortDesc</Key>
+      <Value>Loulan, à votre arrivée, vous remarquerez une atmosphère respirable, une pression suffisamment élevée pour maintenir la vie - mais une grave absence. Cette géante sablonneuse est situé dans le système Gargantuan, se rapprochant chaque jour du trou noir situé au centre. Bien qu&apos;abandonnée et non plus verte et pleine d&apos;eau, cette planète a toujours une atmosphère fonctionnelle et vous êtes chargé de parcourir le désert pour acquérir les matériaux et les ressources nécessaires pour survivre dans ce désert éternel.</Value>
     </Record>
     <Record>
       <Key>Moon</Key>
@@ -3956,7 +4012,7 @@
     </Record>
     <Record>
       <Key>Space</Key>
-      <Value>Espace</Value>
+      <Value>Ceinture d&apos;astéroïdes</Value>
     </Record>
     <Record>
       <Key>Vulcan</Key>
@@ -4368,7 +4424,7 @@
     </Record>
     <Record>
       <Key>TutorialStartButton</Key>
-      <Value>Commencer</Value>
+      <Value>Démarrer Tutorial</Value>
     </Record>
     <Record>
       <Key>TutorialComplete</Key>
@@ -5798,6 +5854,366 @@ Soyez très prudent lorsque vous marchez ou sautez, car vous pouvez parcourir un
     <Record>
       <Key>TierTwo</Key>
       <Value>Niveau deux</Value>
+    </Record>
+    <Record>
+      <Key>TravelMenuTitle</Key>
+      <Value>Parcourir ce monde</Value>
+    </Record>
+    <Record>
+      <Key>TravelMenuListTitle</Key>
+      <Value>Mondes disponibles</Value>
+    </Record>
+    <Record>
+      <Key>TravelMenuButtonTravel</Key>
+      <Value>Parcourir ce monde</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuButtonTravel</Key>
+      <Value>Parcourir ce monde</Value>
+    </Record>
+    <Record>
+      <Key>PromptTravelBody</Key>
+      <Value>Êtes-vous sûr de vouloir sur la carte de voyage ?</Value>
+    </Record>
+    <Record>
+      <Key>TravelMenuNamePlaceholder</Key>
+      <Value>Nom du monde de voyage</Value>
+    </Record>
+    <Record>
+      <Key>PromptTravelConfirm</Key>
+      <Value>Voyage</Value>
+    </Record>
+    <Record>
+      <Key>TravelMenuButtonTravelNew</Key>
+      <Value>Nouveau monde</Value>
+    </Record>
+    <Record>
+      <Key>TravelMenuButtonTravelLoad</Key>
+      <Value>Charger un monde</Value>
+    </Record>
+    <Record>
+      <Key>SettingsDifficulty</Key>
+      <Value>Paramètres de difficulté</Value>
+    </Record>
+    <Record>
+      <Key>WorldCustomTerrainLabel</Key>
+      <Value>Couleur Terrain</Value>
+    </Record>
+    <Record>
+      <Key>BlueField</Key>
+      <Value>Bleu:</Value>
+    </Record>
+    <Record>
+      <Key>GreenField</Key>
+      <Value>Vert:</Value>
+    </Record>
+    <Record>
+      <Key>RedField</Key>
+      <Value>Rouge:</Value>
+    </Record>
+    <Record>
+      <Key>HueField</Key>
+      <Value>Teinte:</Value>
+    </Record>
+    <Record>
+      <Key>BrightnessField</Key>
+      <Value>Luminosité:</Value>
+    </Record>
+    <Record>
+      <Key>RGBValues</Key>
+      <Value>Valeurs RGB</Value>
+    </Record>
+    <Record>
+      <Key>HVSValues</Key>
+      <Value>Valeurs HVS</Value>
+    </Record>
+    <Record>
+      <Key>ColourSelecter</Key>
+      <Value>Sélection de couleurs:</Value>
+    </Record>
+    <Record>
+      <Key>HasLavaField</Key>
+      <Value>A de la lave</Value>
+    </Record>
+    <Record>
+      <Key>Colour</Key>
+      <Value>Couleur</Value>
+    </Record>
+    <Record>
+      <Key>Gravity</Key>
+      <Value>Gravité</Value>
+    </Record>
+    <Record>
+      <Key>AtmosphereScatteringField</Key>
+      <Value>Diffusion atmosphérique</Value>
+    </Record>
+    <Record>
+      <Key>LevelLevelField</Key>
+      <Value>Niveau de lave</Value>
+    </Record>
+    <Record>
+      <Key>TerrainFeaturesField</Key>
+      <Value>Caractéristiques du terrain</Value>
+    </Record>
+    <Record>
+      <Key>RespawnConditionsField</Key>
+      <Value>Condition de réapparition</Value>
+    </Record>
+    <Record>
+      <Key>DifficultyField</Key>
+      <Value>Difficulté</Value>
+    </Record>
+    <Record>
+      <Key>HasLODField</Key>
+      <Value>A un niveau de détail</Value>
+    </Record>
+    <Record>
+      <Key>SolarScaleField</Key>
+      <Value>Angle solaire</Value>
+    </Record>
+    <Record>
+      <Key>DawnTemperatureField</Key>
+      <Value>Température de l’aube</Value>
+    </Record>
+    <Record>
+      <Key>NoonTemperatureField</Key>
+      <Value>Température de midi</Value>
+    </Record>
+    <Record>
+      <Key>DuskTemperatureField</Key>
+      <Value>Température du crépuscule</Value>
+    </Record>
+    <Record>
+      <Key>MidnightTemperatureField</Key>
+      <Value>Température</Value>
+    </Record>
+    <Record>
+      <Key>PreviewAtmosphereField</Key>
+      <Value>Aperçu Atmosphère</Value>
+    </Record>
+    <Record>
+      <Key>HasCustomTemperatureField</Key>
+      <Value>Température personnalisée</Value>
+    </Record>
+    <Record>
+      <Key>LavaLevelField</Key>
+      <Value>Niveau de lave</Value>
+    </Record>
+    <Record>
+      <Key>SolidTerrainColourField</Key>
+      <Value>Couleur du terrain solide</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeTrackerSelected</Key>
+      <Value>Faites défiler pour sélectionner la cible</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeElectronicReaderSelected</Key>
+      <Value>Cadres en acier</Value>
+    </Record>
+    <Record>
+      <Key>ButtonCustomWorld</Key>
+      <Value>Monde personnalisé</Value>
+    </Record>
+    <Record>
+      <Key>GasItemGasAmount</Key>
+      <Value>100 %</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeAtmosAnalyserPressureTitle</Key>
+      <Value>PRESSION</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeAtmosAnalyserTitle</Key>
+      <Value>ANALYSEUR DE L’ATMOSPHERE</Value>
+    </Record>
+    <Record>
+      <Key>BigWarning</Key>
+      <Value>ATTENTION</Value>
+    </Record>
+    <Record>
+      <Key>DialogConfirmLastSaveIsAutoSave</Key>
+      <Value>ES-TU-SUR ? Le dernier enregistrement que vous avez est une sauvegarde automatique. Vous risquez de perdre vos progrès si vous n’enregistrez pas maintenant.</Value>
+    </Record>
+    <Record>
+      <Key>GameMenuButtonCancel</Key>
+      <Value>Annuler</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeElectronicReaderRecipeTitle</Key>
+      <Value>Recette:</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeElectronicReaderRecipeOrder</Key>
+      <Value>1 sur 2</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeElectronicReaderAutoFlashTitle</Key>
+      <Value>Point de fusion:</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeElectronicReaderAutoITitle</Key>
+      <Value>Auto-allumage:</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeElectronicReaderAutoHashTitle</Key>
+      <Value>Hachage:</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderIron</Key>
+      <Value>Fer</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderIce</Key>
+      <Value>Glace</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderGold</Key>
+      <Value>Or</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderCoal</Key>
+      <Value>Charbon</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderCopper</Key>
+      <Value>Cuivre</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderSilver</Key>
+      <Value>Argent</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderLead</Key>
+      <Value>Plomb</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderSilicon</Key>
+      <Value>Silicium</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderCarbon</Key>
+      <Value>Carbone</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderSteel</Key>
+      <Value>Acier</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderHydrocarbon</Key>
+      <Value>Hydrocarbure</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderSilver</Key>
+      <Value>Argent</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderLead</Key>
+      <Value>Plomb</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderSolder</Key>
+      <Value>Soudure</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderSilicon</Key>
+      <Value>Silicium</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderSalicylicAcid</Key>
+      <Value>Acide salicylique</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderAlcohol</Key>
+      <Value>Alcool</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderOil</Key>
+      <Value>Huile</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderColorRed</Key>
+      <Value>Coloration rouge</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderColorBlue</Key>
+      <Value>Coloration bleue</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderColorYellow</Key>
+      <Value>Coloration jaune</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderColorOrange</Key>
+      <Value>Coloration orange</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderColorGreen</Key>
+      <Value>Coloration verte</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderMilk</Key>
+      <Value>Lait</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderFlour</Key>
+      <Value>Farine</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderEgg</Key>
+      <Value>Oeuf</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReadereggs</Key>
+      <Value>oeufs</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderTime</Key>
+      <Value>Durée</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderSeconds</Key>
+      <Value>Secondes</Value>
+    </Record>
+    <Record>
+      <Key>SettingsThingRenderDistance</Key>
+      <Value>Distance de rendu</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderEnergy</Key>
+      <Value>Énergie</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderTemperature</Key>
+      <Value>Température</Value>
+    </Record>
+    <Record>
+      <Key>ElectronicReaderPressure</Key>
+      <Value>Pression</Value>
+    </Record>
+    <Record>
+      <Key>NetworkAnalyserNetwork</Key>
+      <Value>CABLE RESEAU</Value>
+    </Record>
+    <Record>
+      <Key>NetworkAnalyserActual</Key>
+      <Value>ACTUEL</Value>
+    </Record>
+    <Record>
+      <Key>NetworkAnalyserPotential</Key>
+      <Value>POTENTIEL</Value>
+    </Record>
+    <Record>
+      <Key>NetworkAnalyserDevices</Key>
+      <Value>APPAREILS</Value>
+    </Record>
+    <Record>
+      <Key>NetworkAnalyserRequired</Key>
+      <Value>OBLIGATOIRE</Value>
+    </Record>
+    <Record>
+      <Key>NetworkAnalyserTitle</Key>
+      <Value>ANALYSEUR RÉSEAU</Value>
     </Record>
   </Interface>
   <Colors>
