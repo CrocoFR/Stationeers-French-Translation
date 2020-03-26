@@ -176,7 +176,7 @@
     </Record>
     <Record>
       <Key>Swap</Key>
-      <Value>Echanger</Value>
+      <Value>Permuter</Value>
     </Record>
     <Record>
       <Key>Clear</Key>
@@ -998,7 +998,7 @@
     </Record>
     <Record>
       <Key>ItemKitFurniture</Key>
-      <Value>Kit (Fourniture)</Value>
+      <Value>Kit (Mobilier)</Value>
     </Record>
     <Record>
       <Key>ItemKitRegulator</Key>
@@ -1158,7 +1158,7 @@
     </Record>
     <Record>
       <Key>ItemScanner</Key>
-      <Value>Scanner portable</Value>
+      <Value>Scanneur portable</Value>
     </Record>
     <Record>
       <Key>ItemScrewdriver</Key>
@@ -1862,7 +1862,7 @@
     </Record>
     <Record>
       <Key>CartridgeElectronicReader</Key>
-      <Value>Carte (Liseuse Wiki)</Value>
+      <Value>Carte (Liseuse Encyclopdédie)</Value>
     </Record>
     <Record>
       <Key>ItemCableCoilHeavy</Key>
@@ -2130,7 +2130,7 @@
     </Record>
     <Record>
       <Key>StructureConsoleLED5</Key>
-      <Value>Afficheur LED (Moyen)</Value>
+      <Value>Afficheur LED (Petit)</Value>
     </Record>
     <Record>
       <Key>StructureConsoleLED8Large</Key>
@@ -2146,7 +2146,7 @@
     </Record>
     <Record>
       <Key>StructureConsoleLED5Large</Key>
-      <Value>Structure Console LED (Grand)</Value>
+      <Value>Afficheur LED (Moyen)</Value>
     </Record>
     <Record>
       <Key>StructureSolarPanelDual</Key>
@@ -2190,11 +2190,11 @@
     </Record>
     <Record>
       <Key>StructureConsoleLED1x2</Key>
-      <Value>Afficheur à LED 1x2</Value>
+      <Value>Afficheur LED (Moyen)</Value>
     </Record>
     <Record>
       <Key>StructureConsoleLED1x3</Key>
-      <Value>Afficheur à LED 1x3</Value>
+      <Value>Afficheur LED (Grand)</Value>
     </Record>
     <Record>
       <Key>NpcChick</Key>
@@ -2242,7 +2242,7 @@
     </Record>
     <Record>
       <Key>CartridgeOreScanner</Key>
-      <Value>Carte (Scanneur de minérai)</Value>
+      <Value>Carte (Scanneur de minéral)</Value>
     </Record>
     <Record>
       <Key>ItemPotatoBaked</Key>
@@ -2370,7 +2370,7 @@
     </Record>
     <Record>
       <Key>StructureDockPortSide</Key>
-      <Value>Structure coté de Port d&apos;amarrage</Value>
+      <Value>Port d&apos;amarrage (base)</Value>
     </Record>
     <Record>
       <Key>ItemKitDockingPort</Key>
@@ -2378,7 +2378,7 @@
     </Record>
     <Record>
       <Key>StructureDockShipSide</Key>
-      <Value>Structure coté d&apos;amarrage vaisseau</Value>
+      <Value>Port d&apos;amarrage (vaisseau)</Value>
     </Record>
     <Record>
       <Key>StructureLightLong</Key>
@@ -3098,7 +3098,7 @@
     </Record>
     <Record>
       <Key>CartridgeOreScannerColor</Key>
-      <Value>Cartouche (Scanner mineral en Couleur)</Value>
+      <Value>Cartouche (Scanneur minéral en Couleur)</Value>
     </Record>
     <Record>
       <Key>StructureLogicWriterSwitch</Key>
@@ -3266,7 +3266,7 @@
     </Record>
     <Record>
       <Key>ItemKitAutoMiner</Key>
-      <Value>Kit Auto Miner</Value>
+      <Value>Kit Extracteur automatique</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterNitrousOxide</Key>
@@ -3447,6 +3447,98 @@
     <Record>
       <Key>ItemEmergencyToolBelt</Key>
       <Value>Ceinture d’outils de secours</Value>
+    </Record>
+    <Record>
+      <Key>ItemElectronicParts</Key>
+      <Value>Pièces électroniques</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitResearchMachine</Key>
+      <Value>Machine de recherche</Value>
+    </Record>
+    <Record>
+      <Key>StructureResearchMachine</Key>
+      <Value>Structure Machine de recherche</Value>
+    </Record>
+    <Record>
+      <Key>StructureShelf</Key>
+      <Value>Structure étagère</Value>
+    </Record>
+    <Record>
+      <Key>HumanSkull</Key>
+      <Value>Crâne Humain</Value>
+    </Record>
+    <Record>
+      <Key>StructurePictureFrameThinMountLandscapeLarge</Key>
+      <Value>Cadre d&apos;image à montage fin en paysage (grand)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePictureFrameThinMountLandscapeSmall</Key>
+      <Value>Cadre d&apos;image à montage fin en paysage (petit)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePictureFrameThinMountPortraitLarge</Key>
+      <Value>Cadre d&apos;image à montage fin en portrait (grand)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePictureFrameThinMountPortraitSmall</Key>
+      <Value>Cadre d&apos;image à montage fin en portrait (petit)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePictureFrameThinPortraitSmall</Key>
+      <Value>Cadre d&apos;image mince en portait (petit)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePictureFrameThinLandscapeSmall</Key>
+      <Value>Cadre d&apos;image mince en paysage (petit)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePictureFrameThinLandscapeLarge</Key>
+      <Value>Cadre d&apos;image mince en paysage (grand)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePictureFrameThickPortraitSmall</Key>
+      <Value>Cadre d&apos;image épais en portait (petit)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePictureFrameThickMountPortraitSmall</Key>
+      <Value>Cadre d&apos;image à montage épais en portrait (petit)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePictureFrameThickMountPortraitLarge</Key>
+      <Value>Cadre d&apos;image à montage épais en portrait (grand)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePictureFrameThickMountLandscapeSmall</Key>
+      <Value>Cadre d&apos;image à montage épais en paysage (petit)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePictureFrameThickMountLandscapeLarge</Key>
+      <Value>Cadre d&apos;image à montage épais en paysage (grand)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePictureFrameThickLandscapeSmall</Key>
+      <Value>Cadre d&apos;image épais en paysage (petit)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePictureFrameThickLandscapeLarge</Key>
+      <Value>Cadre d&apos;image épais en paysage (grand)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePictureFrameThickPortraitLarge</Key>
+      <Value>Cadre d&apos;image épais en portait (grand)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePictureFrameThinPortraitLarge</Key>
+      <Value>Cadre d&apos;image mince en portait (grand)</Value>
+    </Record>
+    <Record>
+      <Key>ApplianceDeskLampLeft</Key>
+      <Value>Applique de bureau lampe gauche</Value>
+    </Record>
+    <Record>
+      <Key>ApplianceDeskLampRight</Key>
+      <Value>Applique de bureau lampe droite</Value>
     </Record>
   </Things>
   <Slots>
@@ -3881,6 +3973,10 @@
     <Record>
       <Key>MainMenuContinue</Key>
       <Value>Continuer</Value>
+    </Record>
+    <Record>
+      <Key>Picture</Key>
+      <Value>Image</Value>
     </Record>
     <Record>
       <Key>MainMenuNewWorld</Key>
@@ -5142,8 +5238,7 @@ Un excellent endroit pour commencer le voyage du stationnaire en herbe, avec moi
     </Record>
     <Record>
       <Key>NewWorldEuropaShortDesc</Key>
-      <Value>Faire fondre une partie de la glace sur ce monde froid lui a finalement donné une atmosphère, mais son environnement extrêmement froid présente un sérieux défi pour les stationnaires.
-Le froid extrême provoquera une perte de puissance rapide des batteries. Il est donc prioritaire d’obtenir une source d’alimentation stable dans un environnement chaud.</Value>
+      <Value>La fonte d&apos;une partie de la glace sur ce monde froid lui a finalement donné une atmosphère, mais son environnement extrêmement frigide représente un sérieux défi pour les stationnaires. Le froid extrême fera rapidement perdre de l&apos;énergie aux batteries, donc obtenir une source d&apos;énergie stable et un endroit chaud sont vos priorités.</Value>
     </Record>
     <Record>
       <Key>NewWorldVulcanShortDesc</Key>
@@ -6214,6 +6309,34 @@ Soyez très prudent lorsque vous marchez ou sautez, car vous pouvez parcourir un
     <Record>
       <Key>NetworkAnalyserTitle</Key>
       <Value>ANALYSEUR RÉSEAU</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeElectronicReaderTitle</Key>
+      <Value>ENCYCLOPEDIE</Value>
+    </Record>
+    <Record>
+      <Key>CustomWorld</Key>
+      <Value>Monde personnalisé</Value>
+    </Record>
+    <Record>
+      <Key>ScenariosTitle</Key>
+      <Value>Scénarios</Value>
+    </Record>
+    <Record>
+      <Key>ScenariosObjectiveTitle</Key>
+      <Value>Objectif</Value>
+    </Record>
+    <Record>
+      <Key>TutorialsTitle</Key>
+      <Value>Tutoriels</Value>
+    </Record>
+    <Record>
+      <Key>TutorialsObjectiveTitle</Key>
+      <Value>Objectif</Value>
+    </Record>
+    <Record>
+      <Key>SettingsTerrainClutter</Key>
+      <Value>Encombrement du terrain</Value>
     </Record>
   </Interface>
   <Colors>
