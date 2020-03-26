@@ -1834,7 +1834,7 @@
     </Record>
     <Record>
       <Key>ItemKitTransformer</Key>
-      <Value>Kit Transformateur (Large)</Value>
+      <Value>Kit (Transformateur Large)</Value>
     </Record>
     <Record>
       <Key>StructureTransformerSmall</Key>
@@ -4100,7 +4100,7 @@
     </Record>
     <Record>
       <Key>LoulanShortDesc</Key>
-      <Value>Loulan, à votre arrivée, vous remarquerez une atmosphère respirable, une pression suffisamment élevée pour maintenir la vie - mais une grave absence. Cette géante sablonneuse est situé dans le système Gargantuan, se rapprochant chaque jour du trou noir situé au centre. Bien qu&apos;abandonnée et non plus verte et pleine d&apos;eau, cette planète a toujours une atmosphère fonctionnelle et vous êtes chargé de parcourir le désert pour acquérir les matériaux et les ressources nécessaires pour survivre dans ce désert éternel.</Value>
+      <Value>Loulan, à votre arrivée, vous remarquerez une atmosphère respirable, une pression suffisamment élevée pour maintenir la vie - mais un manque sévère de celle-ci. Ce géant des sables est situé dans le système Gargantuesque, se rapprochant chaque jour du trou noir situé au centre. Bien qu&apos;elle soit abandonnée et qu&apos;elle ne soit plus verte et pleine d&apos;eau, cette planète possède toujours une atmosphère en état de fonctionnement et vous êtes chargé de parcourir les terres incultes pour acquérir les matériaux et les ressources nécessaires à la survie dans ce désert éternel.</Value>
     </Record>
     <Record>
       <Key>Moon</Key>
@@ -5024,9 +5024,9 @@ On dirait que tu vas être ici un moment.</Value>
     <Record>
       <Key>NewWorldSpaceDesc</Key>
       <Value>C&apos;est le mode créatif de Stationeers !
-Spawn avec n&apos;importe quel élément, tester des idées et construisez des trucs dingue rapidement.
-&lt;color=red&gt;Ce mode est expérimental.&lt;/color&gt; Pensez-y comme une fête spatiale libre où des choses* passionnantes et inattendues peuvent et vont se produire. C&apos;est une expérience plus sûr que le mode Survie.
-Ne soyez pas triste quand vous vous faites exploser en minuscules petits morceaux ou que vous vous faites massacrer par des poulets ou que vous explosez lentement tout en dérivant seul dans le vide infini.
+Fabriquez n&apos;importe quel objet, testez des idées et construisez des trucs dingues très rapidement.
+&lt;color=red&gt;Ce mode est expérimental.&lt;/color&gt; Voyez-le comme une fête spatiale libre où des choses excitantes et inattendues* peuvent et vont se produire, comparé à l&apos;expérience plus fiable de mort imminente du mode Survie.
+Ne soyez pas triste lorsque vous vous faites exploser en tout petits morceaux ou que vous êtes attaqué par des poulets ou que vous explosez lentement en dérivant seul dans le vide infini.
 *bugs</Value>
     </Record>
     <Record>
@@ -5225,12 +5225,12 @@ Temperature {1}</Value>
     </Record>
     <Record>
       <Key>NewWorldMarsShortDesc</Key>
-      <Value>Une boule de poussière rouge désolée, mars dispose d&apos;un terrain plus varié qui peut atteindre dans le ciel, et une atmosphère froide qui n&apos;est pas bon pour respirer, mais peut-être qu&apos;il peut être utilisé pour quelque chose...</Value>
+      <Value>Boule rouge poussiéreuse et désolée, Mars présente un terrain plus varié qui peut atteindre le ciel, et une atmosphère froide qui n&apos;est pas bonne pour respirer, mais qui peut peut-être servir à quelque chose...</Value>
     </Record>
     <Record>
       <Key>NewWorldMoonShortDesc</Key>
-      <Value>Bien que la présence de charbon ne soit pas typique de la Lune de la Terre, le terrain relativement plat regorgeant de divers cratères importants et le manque d&apos;atmosphère sont peut-être plus familiers dans ce paysage gris.
-Un excellent endroit pour commencer le voyage du stationnaire en herbe, avec moins de risques et de complexités offerts sur des mondes plus exotiques</Value>
+      <Value>Si la présence de charbon n&apos;est pas typique de la Lune, le terrain relativement plat, parsemé de cratères de taille variable et dépourvu d&apos;atmosphère, est peut-être plus familier dans ce paysage gris.
+Un endroit idéal pour le voyageur en herbe, avec moins de dangers et de complexités que dans des mondes plus exotiques.</Value>
     </Record>
     <Record>
       <Key>NewWorldSpaceShortDesc</Key>
@@ -5238,7 +5238,7 @@ Un excellent endroit pour commencer le voyage du stationnaire en herbe, avec moi
     </Record>
     <Record>
       <Key>NewWorldEuropaShortDesc</Key>
-      <Value>La fonte d&apos;une partie de la glace sur ce monde froid lui a finalement donné une atmosphère, mais son environnement extrêmement frigide représente un sérieux défi pour les stationnaires. Le froid extrême fera rapidement perdre de l&apos;énergie aux batteries, donc obtenir une source d&apos;énergie stable et un endroit chaud sont vos priorités.</Value>
+      <Value>La fonte d&apos;une partie de la glace sur ce monde froid lui a finalement donné une atmosphère, mais son environnement extrêmement glacial représente un sérieux défi pour les stationnaires. Le froid extrême fera rapidement perdre de l&apos;énergie aux batteries, donc obtenir une source d&apos;énergie stable et un endroit chaud sont vos priorités.</Value>
     </Record>
     <Record>
       <Key>NewWorldVulcanShortDesc</Key>
