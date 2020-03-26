@@ -18,9 +18,9 @@
     <Record> Using 
 			
       <Key>TutorialTheBeginningDescription</Key>
-      <Value>Commençons. Fermez votre Stationpedia en utilisant {KEY: Help}. Ensuite, utilisez {KEY: PrimaryAction} pour récupérer les éléments. Appuyez sur {KEY: HelmetSlot}, {KEY: SuitSlot}, {KEY: BackSlot}, {KEY: UniformSlot} ou {{KEY: ToolBeltSlot} pour basculer entre les interactions et les emplacements des articles à sous que vous portez. Maintenez-le enfoncé pour permuter entre cet emplacement et vos mains actives. Vous pouvez également maintenir {KEY: MouseControl} et faire glisser les peices vers le logement approprié.
+      <Value>Commençons. Fermez votre Stationpedia en utilisant {KEY:Help}. Ensuite, utilisez {KEY:PrimaryAction} pour récupérer les éléments. Appuyez sur {KEY:HelmetSlot}, {KEY:SuitSlot}, {KEY:BackSlot}, {KEY:UniformSlot} ou {{KEY:ToolBeltSlot} pour basculer entre les interactions et les emplacements des articles à sous que vous portez. Maintenez-le enfoncé pour permuter entre cet emplacement et vos mains actives. Vous pouvez également maintenir {KEY:MouseControl} et faire glisser les pièces vers le logement approprié.
 
-Les emplacements pour votre personnage sont visibles à gauche de l&apos;écran. Un exemple consiste à utiliser la {KEY: MouseControl} et à cliquer sur l&apos;emplacement {THING: UniformOrangeJumpSuit}. Cela ouvrira un menu pour l&apos;élément donné dans la fente, permettant des intractions avec l&apos;élément.</Value>
+Les emplacements pour votre personnage sont visibles à gauche de l&apos;écran. Un exemple consiste à utiliser la {KEY:MouseControl} et à cliquer sur l&apos;emplacement {THING:UniformOrangeJumpSuit}. Cela ouvrira un menu pour l&apos;élément donné dans la fente, permettant des interactions avec l&apos;élément.</Value>
     </Record>
     <Record>
       <Key>TutorialTheBeginningTask1</Key>
@@ -36,7 +36,7 @@ Les emplacements pour votre personnage sont visibles à gauche de l&apos;écran.
     </Record>
     <Record>
       <Key>TutorialTheBeginningTask4</Key>
-      <Value>Equipez vous de la {THING:ItemEvaSuit}</Value>
+      <Value>Équipez-vous de la {THING:ItemEvaSuit}</Value>
     </Record>
     <Record>
       <Key>TutorialDontBeAToolTitle</Key>
@@ -44,11 +44,11 @@ Les emplacements pour votre personnage sont visibles à gauche de l&apos;écran.
     </Record>
     <Record>
       <Key>TutorialDontBeAToolDescription</Key>
-      <Value>Vous savez ce qu&apos;ils disent, n&apos;allez nulle part sans votre ceinture d&apos;outils ! Ramasse-la et mettez la.</Value>
+      <Value>Vous savez ce qu&apos;on dit, n&apos;allez nulle part sans votre ceinture à outils ! Prenez-la et mettez-la.</Value>
     </Record>
     <Record>
       <Key>TutorialDontBeAToolTask1</Key>
-      <Value>Equipez vous de votre {THING:ItemToolBelt}</Value>
+      <Value>Équipez-vous de votre {THING:ItemToolBelt}</Value>
     </Record>
     <Record>
       <Key>TutorialPowerUpTitle</Key>
@@ -104,7 +104,7 @@ Les emplacements pour votre personnage sont visibles à gauche de l&apos;écran.
     </Record>
     <Record>
       <Key>TutorialFeelingHotHotHotDescripton</Key>
-      <Value>Il fait un peu chaud à l&apos;intérieur de ce costume! Ouvrez votre {THING:ItemEvaSuit} à l&apos;aide de la touche {KEY:SuitSlot} et baissez la température à 20c. Des températures plus basses peuvent aider à prolonger la durée de vie de la batterie de votre costume, ce qui peut être pratique si vous vous trouvez dans une situation délicate. Vous verrez vos changements reflétés dans votre HUD.</Value>
+      <Value>Il fait un peu chaud dans ce costume ! Ouvrez votre {THING:ItemEvaSuit} à l&apos;aide de la touche {KEY:SuitSlot} et baissez la température à 20c. Une température plus basse peut aider à prolonger la durée de vie de la batterie de votre combinaison, ce qui peut être utile si vous vous trouvez dans une situation délicate. Vous verrez vos changements se refléter dans votre HUD.</Value>
     </Record>
     <Record>
       <Key>TutorialFeelingHotHotHotTask1</Key>
@@ -116,15 +116,15 @@ Les emplacements pour votre personnage sont visibles à gauche de l&apos;écran.
     </Record>
     <Record>
       <Key>TutorialLockItDownDescripton</Key>
-      <Value>Il est temps d&apos;aller dehors ! N&apos;oubliez pas de fermer votre casque - la respiration sera difficile autrement. Verrouiller le casque peut empêcher accidentellement d&apos;ouvrir votre costume et de vous exposer à des atmosphères nocives et des fluctuations de température, alors verrouillons-le.</Value>
+      <Value>Il est temps de sortir ! N&apos;oubliez pas de fermer votre casque, sinon vous aurez du mal à respirer. Le fait de fermer le casque peut vous éviter d&apos;ouvrir accidentellement votre combinaison et de vous exposer à des atmosphères nocives et à des fluctuations de température, alors verrouillons le.</Value>
     </Record>
     <Record>
       <Key>TutorialLockItDownTask1</Key>
-      <Value>Fermez la visière de votre {THING:ItemSpaceHelmet} avec {KEY:Internals}</Value>
+      <Value>Fermez la visière de votre {THING:ItemSpaceHelmet} avec la touche {KEY:Internals}</Value>
     </Record>
     <Record>
       <Key>TutorialLockItDownTask2</Key>
-      <Value>Ouvrez le {THING:ItemSpaceHelmet} à l&apos;aide de la touche {KEY:HelmetSlot} et sélectionnez le bouton Lock Mask.</Value>
+      <Value>Ouvrez le {THING:ItemSpaceHelmet} à l&apos;aide de la touche {KEY:HelmetSlot} et sélectionnez le bouton Bloquer Mask.</Value>
     </Record>
     <Record>
       <Key>TutorialTheGreatOutdoorsTitle</Key>
@@ -132,7 +132,7 @@ Les emplacements pour votre personnage sont visibles à gauche de l&apos;écran.
     </Record>
     <Record>
       <Key>TutorialTheGreatOutdoorsDescription</Key>
-      <Value>Partons à l&apos;aventure ! Préparez-vous à exécuter le cycle du {THING: StructureAirlock}.</Value>
+      <Value>Partons à l&apos;aventure ! Préparez-vous à exécuter le cycle du {THING:StructureAirlock}.</Value>
     </Record>
     <Record>
       <Key>TutorialTheGreatOutdoorsTask1</Key>
@@ -140,7 +140,7 @@ Les emplacements pour votre personnage sont visibles à gauche de l&apos;écran.
     </Record>
     <Record>
       <Key>TutorialTheGreatOutdoorsTask2</Key>
-      <Value>Executez le cycle du {THING:StructureAirlock} en cliquant sur le bouton Cycle sur la console illuminée et attendez qu&apos;elle se termine.</Value>
+      <Value>Exécutez le cycle de la {THING:StructureAirlock} en cliquant sur le bouton Cycle sur la console illuminée et attendez qu&apos;elle se termine.</Value>
     </Record>
     <Record>
       <Key>TutorialDescCycleAirlock1</Key>
@@ -152,15 +152,15 @@ Les emplacements pour votre personnage sont visibles à gauche de l&apos;écran.
     </Record>
     <Record>
       <Key>TutorialAnotherDayAnotherDollarDescription</Key>
-      <Value>Ces minerais ne vont pas s’exploiter ! Vous pouvez déplacer des éléments d&apos;un emplacement vers votre main en maintenant {KEY: InventorySelect}, et vous pouvez déplacer des éléments de votre main vers un emplacement en maintenant le numéro d&apos;emplacement. Rendez-vous dans votre sac à dos et sortez votre {THING: ItemMiningBelt} en le tenant en maintenant {KEY: ToolBeltSlot} tant qu&apos;il est dans votre main. Équipez votre {THING: ItemMiningDrill} et commencez à creuser. N&apos;oubliez pas de l&apos;éteindre avant de le ranger !</Value>
+      <Value>Ces minerais ne vont pas s&apos;extraire tout seuls ! Vous pouvez déplacer des objets d&apos;un emplacement vers votre main en maintenant {KEY:InventorySelect}, et vous pouvez déplacer des éléments de votre main vers un emplacement en maintenant le numéro d&apos;emplacement. Rentrez dans votre sac à dos et sortez votre {THING:ItemMiningBelt}, en l&apos;équipant en tenant {KEY:ToolBeltSlot} pendant qu&apos;il est dans votre main. Équipez votre {THING:ItemMiningDrill} et commencez à creuser. N&apos;oubliez pas de l&apos;éteindre avant de la ranger !</Value>
     </Record>
     <Record>
       <Key>TutorialAnotherDayAnotherDollarTask1</Key>
-      <Value>Équipez la {THING: ItemMiningDrill} de votre {THING: ItemMiningBelt}</Value>
+      <Value>Équipez la {THING:ItemMiningDrill} de votre {THING:ItemMiningBelt}</Value>
     </Record>
     <Record>
       <Key>TutorialAnotherDayAnotherDollarTask0</Key>
-      <Value>Essayez d’allumer votre foreuse en utilisant {KEY: ToggleHandPower}</Value>
+      <Value>Essayez d’allumer votre foreuse en utilisant {KEY:ToggleHandPower}</Value>
     </Record>
     <Record>
       <Key>TutorialAnotherDayAnotherDollarTask2</Key>
@@ -184,7 +184,7 @@ Les emplacements pour votre personnage sont visibles à gauche de l&apos;écran.
     </Record>
     <Record>
       <Key>TutorialJetpackTask4</Key>
-      <Value>Executez le cycle du {THING:StructureAirlock}</Value>
+      <Value>Exécutez le cycle du {THING:StructureAirlock}</Value>
     </Record>
     <Record>
       <Key>TutorialHatHairTitle</Key>
@@ -736,7 +736,7 @@ Les emplacements pour votre personnage sont visibles à gauche de l&apos;écran.
     </Record>
     <Record>
       <Key>TutorialBeFreeTask1</Key>
-      <Value>Executez le cycle du {THING:StructureAirlock}</Value>
+      <Value>Exécutez le cycle du {THING:StructureAirlock}</Value>
     </Record>
     <Record>
       <Key>TutorialCompletedDescription</Key>
