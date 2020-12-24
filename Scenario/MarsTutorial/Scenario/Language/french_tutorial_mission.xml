@@ -8,7 +8,7 @@
     </Record>
     <Record>
       <Key>TheNewBeginningDescription</Key>
-      <Value>Voyons quelques bases et apprenez à être le meilleur Stationeer que vous pouvez être !</Value>
+      <Value>Voyons quelques bases et apprenez à être le meilleur Stationaute que vous pouvez être !</Value>
     </Record>
     <!-- start the tutorial -->
     <Record>
@@ -140,7 +140,7 @@ Les emplacements pour votre personnage sont visibles à gauche de l&apos;écran.
     </Record>
     <Record>
       <Key>TutorialTheGreatOutdoorsTask2</Key>
-      <Value>Exécutez le cycle de la {THING:StructureAirlock} en cliquant sur le bouton Cycle sur la console illuminée et attendez qu&apos;elle se termine.</Value>
+      <Value>Exécutez le cycle du {THING:StructureAirlock} en cliquant sur le bouton Cycle sur la console illuminée et attendez qu&apos;elle se termine.</Value>
     </Record>
     <Record>
       <Key>TutorialDescCycleAirlock1</Key>
@@ -176,7 +176,7 @@ Les emplacements pour votre personnage sont visibles à gauche de l&apos;écran.
     </Record>
     <Record>
       <Key>TutorialJetpackTask1</Key>
-      <Value>Allumez les jets de votre {THING:ItemSpacepack} en utilisant {KEY:Jetpack}</Value>
+      <Value>Allumez les réacteurs de votre {THING:ItemSpacepack} en utilisant {KEY:Jetpack}</Value>
     </Record>
     <Record>
       <Key>TutorialJetpackTask2</Key>
@@ -260,11 +260,11 @@ Les emplacements pour votre personnage sont visibles à gauche de l&apos;écran.
     </Record>
     <Record>
       <Key>TutorialStopLathenAroundDescription</Key>
-      <Value>Placez votre {THING:ItemKitAutolathe} et sortez votre {THING:ItemWeldingTorch}. Utilisez les matériaux nécessaires pour terminer la construction. Lorsque l&apos;option &quot;Info-bulles étendues&quot; est activée dans le menu Options, vous pouvez déplacer le curseur de la souris sur la structure pour voir ce dont vous avez besoin pour effectuer la prochaine étape de la construction.</Value>
+      <Value>Placez votre {THING:ItemKitAutolathe} et sortez votre {THING:ItemWeldingTorch}. Utilisez les matériaux nécessaires pour terminer la construction. Lorsque l&apos;option &quot;Info-bulles étendues&quot; est activée dans le menu Paramètres, vous pouvez déplacer le curseur de la souris sur la structure pour voir ce dont vous avez besoin pour effectuer la prochaine étape de la construction.</Value>
     </Record>
     <Record>
       <Key>TutorialStopLathenAroundTask1</Key>
-      <Value>Prenez le {THING:ItemKitAutolathe} du casier et placez-le dans la zone en surbrillance</Value>
+      <Value>Prenez-le {THING:ItemKitAutolathe} du casier et placez-le dans la zone en surbrillance</Value>
     </Record>
     <Record>
       <Key>TutorialStopLathenAround1Title</Key>
@@ -556,7 +556,7 @@ Les emplacements pour votre personnage sont visibles à gauche de l&apos;écran.
     </Record>
     <Record>
       <Key>TutorialLetsTankItUpTask2</Key>
-      <Value>Définissez le {THING:StructureActiveVent} sur &quot;in-ward&quot;</Value>
+      <Value>Définissez le {THING:StructureActiveVent} sur &quot;inward&quot;</Value>
     </Record>
     <Record>
       <Key>TutorialLetsTankItUpTask3</Key>
@@ -717,14 +717,14 @@ Les emplacements pour votre personnage sont visibles à gauche de l&apos;écran.
     <Record>
       <Key>TutorialHackingTheMainframeDescription</Key>
       <Value>Maintenant, retirez le DataDisk et allumez la console pour programmer le {THING:StructureAirlock}.
-\t\t\t
-\t\tLorsque vous sélectionnez le SAS, assurez-vous que l’option «INTÉRIEUR» est sélectionnée sur la porte intérieure. Cela peut être vu par le voyant lumineux des sas qui passe du vert au rouge pour indiquer le SAS auquel vous appliquez l&apos;option.
-\t\t\t	
-\t\tUne fois que la console a un appareil sélectionné, il sera sous son contrôle et sera verrouillé, il ne répondra pas à vos interactions de côté.</Value>
+
+Lorsque vous sélectionnez le sas, assurez-vous que l’option «INTÉRIEUR» est sélectionnée sur la porte intérieure. Cela peut être vu par le voyant lumineux des sas qui passe du vert au rouge pour indiquer le sas auquel vous appliquez l&apos;option.
+
+Une fois que la console a un appareil sélectionné, il sera sous son contrôle et sera verrouillé, il ne répondra pas à vos interactions de côté.</Value>
     </Record>
     <Record>
       <Key>TutorialHackingTheMainframeTask1</Key>
-      <Value>Attribuer les composants de la {THING:StructureAirlock}</Value>
+      <Value>Attribuer les composants du {THING:StructureAirlock}</Value>
     </Record>
     <Record>
       <Key>TutorialBeFreeTitle</Key>
@@ -740,7 +740,7 @@ Les emplacements pour votre personnage sont visibles à gauche de l&apos;écran.
     </Record>
     <Record>
       <Key>TutorialCompletedDescription</Key>
-      <Value>Félicitations, votre formation de base est terminée! Sortez, Stationeer !</Value>
+      <Value>Félicitations, votre formation de base est terminée! A vous de jouer, Stationaute !</Value>
     </Record>
   </Interface>
 </Language>
