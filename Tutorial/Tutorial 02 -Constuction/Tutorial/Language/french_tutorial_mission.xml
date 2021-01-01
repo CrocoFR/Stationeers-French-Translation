@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>FR</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralConstructionDescription</Key>
+      <Value>Construire des bases pour l&apos;ODA commence par la compréhension de la base de la construction.</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralConstructionSubTitle</Key>
+      <Value>Formation pratique : Étape II</Value>
+    </Record>
+    <Record>
+      <Key>IntoTutoiralConstructionDescription</Key>
+      <Value>Bonjour, Cadet. Vous avez démontré que vous avez les compétences essentielles d&apos;un Stationeer, maintenant il est temps de vous mettre au travail.
+Les Stationeers sont avant tout, des constructeurs. Testons vos capacités de construction basique.</Value>
+    </Record>
+    <Record>
+      <Key>2PutAwayScrewDriver</Key>
+      <Value>Récupérez le tournevis, placez-le dans la ceinture à outils.</Value>
+    </Record>
+    <Record>
+      <Key>2PutAwayAngleGrinder</Key>
+      <Value>Prenez la meuleuse dans une main.</Value>
+    </Record>
+    <Record>
+      <Key>2PutAwayPowerdrill</Key>
+      <Value>Récupérez la perceuse, placez-la dans la ceinture à outils.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration1T</Key>
+      <Value>Formation pratique : Étape II.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration1D</Key>
+      <Value>Sans outils, un stationeer est sans défense face à un univers hostile.
+Récupérez vos outils dans la caisse, avant que quelque chose de terrible n&apos;arrives.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration2D</Key>
+      <Value>Dans cette simulation d&apos;entrainement de l&apos;ODA, les murs ont été &apos;endommagé&apos; par une pluie de  météorites.
+Pour les remplacer, vous devez d&apos;abord retirer les cadres endommagés avec la meuleuse.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration2T</Key>
+      <Value>Déconstruction </Value>
+    </Record>
+    <Record>
+      <Key>T2Deconstruct1</Key>
+      <Value>Supprimer le cadre détruit 1.</Value>
+    </Record>
+    <Record>
+      <Key>T2Deconstruct2</Key>
+      <Value>Supprimer le cadre détruit 2.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration3T</Key>
+      <Value>Construction</Value>
+    </Record>
+    <Record>
+      <Key>2Narration3D</Key>
+      <Value>Assurez-vous que cette base soit bien rangée pour le prochain cadet - terminez la construction des murs de la base.
+Commencez par les cadres en fer.</Value>
+    </Record>
+    <Record>
+      <Key>BuildFramesTutorial2N1</Key>
+      <Value>Construise le cadre dans la zone en surbrillance.</Value>
+    </Record>
+    <Record>
+      <Key>BuildIronFramesT2</Key>
+      <Value>Compléter les cadres avec des plaques de fer et le chalumeau en main.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration5T</Key>
+      <Value>Déconstruire le Tour Automatique.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration5D</Key>
+      <Value>Précision et planification sont des compétences essentielles du Stationeer. Le cadet précédent a été viré du programme pour avoir construit le Tour Automatique au mauvais endroit.
+Démonter-le pièce par pièce et installer-le correctement.</Value>
+    </Record>
+    <Record>
+      <Key>DeconstructAutolatherT2t1</Key>
+      <Value>Etape 5, démontage du tour automatique avec la perceuse.</Value>
+    </Record>
+    <Record>
+      <Key>DeconstructAutolatherT2t2</Key>
+      <Value>Etape 4, démontage du tour automatique avec la meuleuse.</Value>
+    </Record>
+    <Record>
+      <Key>DeconstructAutolatherT2t3</Key>
+      <Value>Etape 3, démontage du tour automatique avec la pince coupante.</Value>
+    </Record>
+    <Record>
+      <Key>DeconstructAutolatherT2t4</Key>
+      <Value>Etape 2, démontage du tour automatique avec la meuleuse.</Value>
+    </Record>
+    <Record>
+      <Key>DeconstructAutolatherT2t5</Key>
+      <Value>Etape 1, démontage du tour automatique avec la clé à molette.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration6T</Key>
+      <Value>Construire le Tour Automatique.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration6D</Key>
+      <Value>Vous avez tout ce qu&apos;il vous faut pour reconstruire le tour automatique à l&apos;emplacement correct dans la zone en surbrillance. Donc, vous devriez le faire, maintenant.  </Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2AutolatePlacement</Key>
+      <Value>Placer le tour automatique dans la zone en surbrillance.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2AutolateConstruct</Key>
+      <Value>Construction du tour automatique étape 2, avec le chalumeau et des plaques de fer</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2AutolateConstruct2</Key>
+      <Value>Construction du tour automatique étape 3, avec des bobines de câble</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2AutolateConstruct3</Key>
+      <Value>Construction du tour automatique étape 4, avec le chalumeau et des plaques de plastique</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2AutolateConstruct4</Key>
+      <Value>Construction du tour automatique étape 5, avec le tournevis</Value>
+    </Record>
+    <Record>
+      <Key>2Narration7T</Key>
+      <Value>Retirer les câbles endommagés.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration7D</Key>
+      <Value>Sans électricité, on ne peut pas fabriquer grand-chose. Pour alimenter la station, il faut rebrancher les panneaux solaires au réseau. Commencer par retirer les câbles endommagés.</Value>
+    </Record>
+    <Record>
+      <Key>T2Deconstruct3</Key>
+      <Value>Retirer le câble endommagé #1 à l’aide de la pince coupante</Value>
+    </Record>
+    <Record>
+      <Key>T2Deconstruct4</Key>
+      <Value>Retirer le câble endommagé #2 à l’aide de la pince coupante</Value>
+    </Record>
+    <Record>
+      <Key>T2Deconstruct5</Key>
+      <Value>Retirer le câble endommagé #3 à l’aide de la pince coupante</Value>
+    </Record>
+    <Record>
+      <Key>2Narration8T</Key>
+      <Value>Positionnement des câbles.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration8D</Key>
+      <Value>La conception de réseaux électriques est un élément central de la construction de la base.
+Connectez les panneaux solaires au réseau électrique à l’aide des câbles trouvés dans la caisse. Comme de nombreux kits, les câbles ont plusieurs variantes de constructions.</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2HCablePlacement</Key>
+      <Value>Remplacer le Câble HT (Droit).</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2HCablePlacement2</Key>
+      <Value>Remplacer le Câble HT (Jonction à 3 voies).</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial2HCablePlacement3</Key>
+      <Value>Remplacer le Câble HT (Droit) #2.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration9T</Key>
+      <Value>Puissance de secours.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration9D</Key>
+      <Value>Tu n’as pas encore fini, Cadet ! Il fait parfois nuit, alors créons un système d’alimentation de secours, à l’aide d’un générateur de carburant solide.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration10D</Key>
+      <Value>Vous devrez connecter le générateur au réseau électrique.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration11T</Key>
+      <Value>Jonction de superposition</Value>
+    </Record>
+    <Record>
+      <Key>2Narration11D</Key>
+      <Value>Utilisez la fonction « superposition » pour relier de nouveaux câbles à un réseau existant.</Value>
+    </Record>
+    <Record>
+      <Key>2GetSolidGenerator</Key>
+      <Value>Obtenez le kit de générateur de carburant solide de la caisse</Value>
+    </Record>
+    <Record>
+      <Key>2PlaceSolidGenerator</Key>
+      <Value>Placer le générateur de combustible solide</Value>
+    </Record>
+    <Record>
+      <Key>2MergeEvent</Key>
+      <Value>Utilisez des fil-cotateurs et du câble pour créer une jonction.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration12T</Key>
+      <Value>Mise sous tension</Value>
+    </Record>
+    <Record>
+      <Key>2GetBatt</Key>
+      <Value>Obtenez une batterie de la caisse</Value>
+    </Record>
+    <Record>
+      <Key>2OpenAPCTask</Key>
+      <Value>Ouvrez l&apos;APC avec le pied de biche.</Value>
+    </Record>
+    <Record>
+      <Key>2GetCoal</Key>
+      <Value>Obtenez du charbon de la caisse</Value>
+    </Record>
+    <Record>
+      <Key>AddCoalToGenerator</Key>
+      <Value>Ajouter du charbon au générateur</Value>
+    </Record>
+    <Record>
+      <Key>2TurnOnGenerator</Key>
+      <Value>Allumez le générateur</Value>
+    </Record>
+    <Record>
+      <Key>PlaceBatt</Key>
+      <Value>Ajouter de la batterie à APC</Value>
+    </Record>
+    <Record>
+      <Key>2FlipSwitch</Key>
+      <Value>Allumez l&apos;APC.</Value>
+    </Record>
+    <Record>
+      <Key>2PediaOpen</Key>
+      <Value>Ouvrir le Stationpedia</Value>
+    </Record>
+    <Record>
+      <Key>2PediaNavigation</Key>
+      <Value>Accédez à la page Contrôleur d&apos;Alimentation.</Value>
+    </Record>
+    <Record>
+      <Key>2GettingHelpClose</Key>
+      <Value>Fermez le Stationpedia</Value>
+    </Record>
+    <Record>
+      <Key>2Narration16T</Key>
+      <Value>Terminer.</Value>
+    </Record>
+    <Record>
+      <Key>2Narration16D</Key>
+      <Value>Bon travail, cadet. Vous avez réparé les murs et terminé un système électrique. C&apos;est la dernière étape de la phase II. Appuyez sur le bouton &apos;Terminer&apos; pour transmettre vos résultats à Stationeer Command, et nous continuerons.</Value>
+    </Record>
+    <Record>
+      <Key>2OnButtonPressTaskT1</Key>
+      <Value>Appuyez sur le bouton pour terminer le test.</Value>
+    </Record>
+    <Record>
+      <Key>2GetCableHCoil</Key>
+      <Value>Prendre des câbles haute tension dans la caisse.</Value>
+    </Record>
+    <Record>
+      <Key>2GetFrames</Key>
+      <Value>Prendre des cadres en fer dans la caisse.</Value>
+    </Record>
+  </Interface>
+</Language>

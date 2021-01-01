@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>French</Name>
+  <Code>FR</Code>
+  <Font>font_extended</Font>
+  <Interface>
+    <Record>
+      <Key>Incident_SolarFlare_Cold_Title</Key>
+      <Value>Éruption solaire froide</Value>
+    </Record>
+    <Record>
+      <Key>Incident_SolarFlare_Cold</Key>
+      <Value>Les satellites ont reconnu des zones avec une météo extrême autour de votre région.</Value>
+    </Record>
+  </Interface>
+</Language>

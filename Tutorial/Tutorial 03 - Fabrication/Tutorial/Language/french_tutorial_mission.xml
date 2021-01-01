@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>FR</Code>
+  <Interface>
+    <Record>
+      <Key>TutoiralFabrication</Key>
+      <Value>Exploitation minière + Fabrication</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralFabricationDescription</Key>
+      <Value>Explorez les principes fondamentaux de l’exploitation minière et de la fabrication.</Value>
+    </Record>
+    <Record>
+      <Key>TutoiralFabricationSubTitle</Key>
+      <Value>Formation pratique : Étape III</Value>
+    </Record>
+    <Record>
+      <Key>3Narration1T</Key>
+      <Value>Formation pratique : Étape III</Value>
+    </Record>
+    <Record>
+      <Key>3Narration1D</Key>
+      <Value>Le design fonctionne souvent à l’envers : pour réparer la base d’essai dont vous avez besoin de composants, pour lesquels vous avez besoin d’une cintreuse hydraulique ... dont vous avez besoin de ressources pour fabriquer.
+Donc, nous allons traquer un peu de minerai à l’aide de votre tablette.</Value>
+    </Record>
+    <Record>
+      <Key>3GetTablet</Key>
+      <Value>Prendre la tablette dans la caisse.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration2T</Key>
+      <Value>Formation pratique : Étape III</Value>
+    </Record>
+    <Record>
+      <Key>2PutCartInTablet</Key>
+      <Value>Ajouter la cartouche tracker de la caisse à la tablette.</Value>
+    </Record>
+    <Record>
+      <Key>3TabletOn</Key>
+      <Value>Allumez la tablette.</Value>
+    </Record>
+    <Record>
+      <Key>3EnterAreaT1</Key>
+      <Value>Naviguer vers la balise</Value>
+    </Record>
+    <Record>
+      <Key>3GetMDrill</Key>
+      <Value>Équiper la perceuse minière de la ceinture minière dans le sac à dos.</Value>
+    </Record>
+    <Record>
+      <Key>3MDrillOn</Key>
+      <Value>Activer la foreuse</Value>
+    </Record>
+    <Record>
+      <Key>3GetIronOre</Key>
+      <Value>Minez 30 fer.</Value>
+    </Record>
+    <Record>
+      <Key>3EnterAreaT2</Key>
+      <Value>Retour à la base</Value>
+    </Record>
+    <Record>
+      <Key>3GetArcFurnaceKit</Key>
+      <Value>Obtenez un kit de four à arc dans la caisse.</Value>
+    </Record>
+    <Record>
+      <Key>3BuildArcFurnaceTutorial</Key>
+      <Value>Placez le four à arc dans la zone surlignée.</Value>
+    </Record>
+    <Record>
+      <Key>3ArcFurnaceOn</Key>
+      <Value>Allumez le four à arc</Value>
+    </Record>
+    <Record>
+      <Key>3PutOreInFurnace</Key>
+      <Value>Ajouter le minerai de fer au four à arc</Value>
+    </Record>
+    <Record>
+      <Key>3ArcFurnaceActive</Key>
+      <Value>Activer le four à arc</Value>
+    </Record>
+    <Record>
+      <Key>2GetIronIngot</Key>
+      <Value>Ramasser le lingot derrière le four à arc</Value>
+    </Record>
+    <Record>
+      <Key>3PutIronIngotInAutoLathe</Key>
+      <Value>Ajouter du lingot au tour automatique</Value>
+    </Record>
+    <Record>
+      <Key>3Narration9D</Key>
+      <Value>Le cintreuse hydraulique fabrique des tuyaux, ainsi que des dispositifs atmosphériques et quelques structures portatives. Pour en construire un avec le tour automatique vous avez besoin de fer, de cuivre et d’or.
+Les autres lingots dont vous avez besoin sont dans la caisse.</Value>
+    </Record>
+    <Record>
+      <Key>3GetCopperIngot</Key>
+      <Value>Ramasser le lingot de cuivre dans la caisse.</Value>
+    </Record>
+    <Record>
+      <Key>3PutCopperIngotInAutoLathe</Key>
+      <Value>Ajouter le lingot de cuivre à la tour automatique.</Value>
+    </Record>
+    <Record>
+      <Key>3GetGoldIngot</Key>
+      <Value>Ramasser le lingot d’or dans la caisse.</Value>
+    </Record>
+    <Record>
+      <Key>3PutGoldIngotInAutoLathe</Key>
+      <Value>Ajouter du lingot d’or à la tour automatique</Value>
+    </Record>
+    <Record>
+      <Key>3Narration10D</Key>
+      <Value>L’e tour automatique est un outil de composition moléculaire à axes multiples. Il fabrique une gamme de kits structurels et d’appareils, y compris l’humble cintreuse hydraulique. Cliquez sur le bouton de recherche à l’avant pour rechercher des recettes sélectionnées.</Value>
+    </Record>
+    <Record>
+      <Key>3AutoLatheOn</Key>
+      <Value>Allumez le tour automatique.</Value>
+    </Record>
+    <Record>
+      <Key>3PipebenderHash</Key>
+      <Value>Sélectionnez la recette de cintreuse hydraulique en utilisant la fonction de recherche.</Value>
+    </Record>
+    <Record>
+      <Key>3FabricatePipeBender</Key>
+      <Value>Imprimez le kit de cintreuse hydraulique.</Value>
+    </Record>
+    <Record>
+      <Key>3GetPipeBender</Key>
+      <Value>Ramassez le kit de Cintreuse Hydraulique.</Value>
+    </Record>
+    <Record>
+      <Key>3BuildPipebenderTutorial</Key>
+      <Value>Placez la cintreuse hydraulique en position surlignée.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration11D</Key>
+      <Value>Les choses prennent du temps: comme le tour automatique, la cintreuse hydraulique a plusieurs étapes de construction.
+Suivez les outils pour finir de le construire.</Value>
+    </Record>
+    <Record>
+      <Key>3FinishPipeBender</Key>
+      <Value>Terminer la cintreuse hydraulique avec les ressources dans la caisse.</Value>
+    </Record>
+    <Record>
+      <Key>3PipeBenderOn</Key>
+      <Value>Allumez la cintreuse hydraulique.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration12D</Key>
+      <Value>La polyvalence est une vertu. Besoin de lingots à la hâte? Les dispositifs de fabrication fournissent également le stockage des ressources.
+Éjectez-les de la tour automatique en tirant sur le levier, puis ajoutez-les à une autre machine.</Value>
+    </Record>
+    <Record>
+      <Key>3OpenAutoLathe</Key>
+      <Value>Tirez le levier du tour automatique pour éjecter les lingots</Value>
+    </Record>
+    <Record>
+      <Key>3PutIronIngotInPipeBender</Key>
+      <Value>Mettre le lingot de fer dans la cintreuse hydraulique</Value>
+    </Record>
+    <Record>
+      <Key>3PutCopperIngotInPipeBender</Key>
+      <Value>Mettre le lingot de cuivre dans la cintreuse hydraulique</Value>
+    </Record>
+    <Record>
+      <Key>3PutGoldIngotInPipeBender</Key>
+      <Value>Mettre lingot d’or dans la cintreuse hydraulique</Value>
+    </Record>
+    <Record>
+      <Key>3Narration13D</Key>
+      <Value>Les ventilations actives sont des composants critiques de sas : vous pouvez maintenant en fabriquer un avec la cintreuse hydraulique !</Value>
+    </Record>
+    <Record>
+      <Key>3ActiveVentHash</Key>
+      <Value>Sélectionnez la ventilation active sur la cintreuse hydraulique.</Value>
+    </Record>
+    <Record>
+      <Key>3FabricateActiveVent</Key>
+      <Value>Fabriquer la ventilation active à l’aide de la cintreuse hydraulique.</Value>
+    </Record>
+    <Record>
+      <Key>3PipeBenderOff</Key>
+      <Value>Éteignez la cintreuse hydraulique lorsque la fabrication est terminée.</Value>
+    </Record>
+    <Record>
+      <Key>3GetItemActiveVent</Key>
+      <Value>Prenez une ventilation active.</Value>
+    </Record>
+    <Record>
+      <Key>3Narration14D</Key>
+      <Value>Bon travail, Cadet. Vous avez créé un système de fabrication complet.
+C’est la dernière étape des tests pratiques, la phase III. Appuyez sur le bouton &apos;Terminer&apos; pour transmettre vos résultats à Stationeer Command.</Value>
+    </Record>
+    <Record>
+      <Key>3OnButtonPressTaskT1</Key>
+      <Value>Appuyez sur le bouton de transmission pour terminer le test.</Value>
+    </Record>
+    <Record>
+      <!--Equip Mining belt-->
+      <Key>3Narration15D</Key>
+      <Value>Votre ceinture minière fait deux choses : elle détient vos outils miniers et stocke le minerai que vous minez.
+Lorsqu’il est équipé dans votre fente « ceinture », tous les minerais exploités y sont stockés automatiquement.</Value>
+    </Record>
+    <Record>
+      <Key>2EquiptMiningbelt</Key>
+      <Value>Équipez vous de la ceinture d’exploitation minière</Value>
+    </Record>
+    <Record>
+      <Key>2EquiptToolbelt</Key>
+      <Value>Équiper la ceinture d’outils.</Value>
+    </Record>
+  </Interface>
+</Language>

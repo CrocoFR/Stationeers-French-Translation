@@ -32,7 +32,8 @@ Maintenez enfoncée la touche {KEY:MouseControl} pour faire glisser le curseur d
     </Record>
     <Record>
       <Key>TutorialDescPickupSuit</Key>
-      <Value>Trouvez la {THING:ItemEvaSuit} et placez-la dans votre {SLOT:LeftHand} ou {SLOT:RightHand}. Cette fois peut essayer de glisser la {THING:ItemEvaSuit} directement dans votre emplacement {SLOT:Suit}, ce sera plus rapide. Maintenez {KEY:MouseControl} et déplacez votre curseur de la souris sur la {THING:ItemEvaSuit} maintenez {KEY:PrimaryAction} et faites-la glisser dans votre emplacement {SLOT:Suit}.</Value>
+      <Value>Trouvez la {THING:ItemEvaSuit} et placez-la dans votre {SLOT:LeftHand} ou {SLOT:RightHand}. Cette fois peut essayer de glisser la {THING:ItemEvaSuit} directement dans votre emplacement {SLOT:Suit}, ce sera plus rapide. Maintenez {KEY:MouseControl} et déplacez votre curseur de la souris sur la {THING:ItemEvaSuit} maintenez {KEY:PrimaryAction} et faites-la glisser dans votre emplacement {SLOT:Suit}.
+</Value>
     </Record>
     <Record>
       <Key>TutorialDescWearSuit</Key>
@@ -156,21 +157,21 @@ La {THING:ItemMiningBelt} contient des emplacements spécialisés pour les {LINK
     </Record>
     <Record>
       <Key>TutorialTaskGoInAirlock2</Key>
-      <Value>Parcourir la {THING:StructureAirlock} porte dans la chambre jaune</Value>
+      <Value>Passez par la porte du {THING:StructureAirlock} pour entrer dans la salle jaune</Value>
     </Record>
     <Record>
       <Key>TutorialTitleCycleAirlock</Key>
-      <Value>Cycle du SAS</Value>
+      <Value>Cycle du sas</Value>
     </Record>
     <Record>
       <Key>TutorialDescCycleAirlock1</Key>
-      <Value>Vous pouvez faire un cycle du SAS en utilisant la {THING:StructureConsole} ou le clavier pour interagir sur l&apos;un des portes {THING:StructureAirlock} . Cela va dépressuriser le SAS pour que vous puissiez aller dans l&apos;espace.
+      <Value>Vous pouvez faire un cycle du sas en utilisant la {THING:StructureConsole} ou le clavier pour interagir sur l&apos;une des portes du {THING:StructureAirlock}. Cela va dépressuriser le sas pour que vous puissiez aller dans l&apos;espace.
 
-Une {THING:CircuitboardAirlockControl} dans le  {THING:StructureConsole} contrôle le {THING:StructureActiveVent} et d&apos;autres dispositifs pour faire fonctionner le SAS.</Value>
+Une {THING:CircuitboardAirlockControl} dans le {THING:StructureConsole} contrôle le {THING:StructureActiveVent} et d&apos;autres dispositifs pour faire fonctionner le sas.</Value>
     </Record>
     <Record>
       <Key>TutorialTaskCycleAirlock1</Key>
-      <Value>Cycle du SAS</Value>
+      <Value>Cycle du sas</Value>
     </Record>
     <Record>
       <Key>TutorialTitleRepairCable</Key>
@@ -178,7 +179,7 @@ Une {THING:CircuitboardAirlockControl} dans le  {THING:StructureConsole} contrô
     </Record>
     <Record>
       <Key>TutorialDescRepairCable1</Key>
-      <Value>Un {THING:StructureCableStraight} peut transporter simultanément {COLORYELLOW:Données} et {COLORYELLOW:Energie}, mais ils bruleront si trop de puissance passe au travers d&apos;eux. Il y a une {THING:StructureCableJunction} brulé quelque part en dessous de la {THING:StructureAirlock} que vous venez de quitter, retrouver la panne et réparer la en utilisant un {THING:ItemWireCutters} à partir de votre {THING:ItemToolBelt}.
+      <Value>Un {THING:StructureCableStraight} peut transporter simultanément {COLORYELLOW:Données} et {COLORYELLOW:Energie}, mais ils bruleront si trop de puissance passe au travers d&apos;eux. Il y a une {THING:StructureCableJunction} brulé quelque part en dessous du {THING:StructureAirlock} que vous venez de quitter, retrouver la panne et réparer la en utilisant un {THING:ItemWireCutters} à partir de votre {THING:ItemToolBelt}.
       
 Rappelez-vous qu&apos;il existe deux façons d&apos;interagir avec votre {LINK:InventoryPage;Inventaire}. Vous pouvez appuyer sur {KEY:MouseControl} pour activer le curseur de la souris, puis glisser-déposer ou ouvrir des choses avec la souris. Pour un contrôle rapide, appuyez sur {KEY:ToolBeltSlot} pour ouvrir votre emplacement {SLOT:Belt}. Appuyez sur {KEY:InventorySelect} pour permuter l&apos;élément d&apos;emplacement intérieur en surbrillance sur vos mains.
 
@@ -284,7 +285,7 @@ L&apos;utilisation de cartes différentes vous permet d&apos;accéder à de nomb
     </Record>
     <Record>
       <Key>TutorialTaskUseReader1</Key>
-      <Value>Allumer la {THING:ItemTablet}</Value>
+      <Value>Allumer la {THING:ItemTablet} (touche {KEY:ToggleHandPower})</Value>
     </Record>
     <Record>
       <Key>TutorialTaskUseReader2</Key>

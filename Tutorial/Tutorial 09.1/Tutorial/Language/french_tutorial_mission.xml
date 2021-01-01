@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>FR</Code>
+  <Interface>
+    <Record>
+      <Key>Tutorial-BaicSmelting</Key>
+      <Value>Fonte</Value>
+    </Record>
+    <Record>
+      <Key>Tutorial-BaicSmeltingDescription</Key>
+      <Value>Découvrez comment éperlan les métaux et alliages avancés.</Value>
+    </Record>
+    <Record>
+      <Key>GasSensors</Key>
+      <Value>Pression et temperature</Value>
+    </Record>
+    <Record>
+      <Key>GasSensorsDescription</Key>
+      <Value>Heureux de vous revoir Cadet. Allons à la fonderie !
+
+Le {THING:StructureFurnace} va fondre les minerais en lingots et en alliages, utile pour créer de nouveaux éléments technologiques.
+
+Votre première tâche consite a installer un {THING:CircuitboardGasDisplay} pour afficher la pression et la température à l&apos;intérieur du {THING:StructureFurnace}.</Value>
+    </Record>
+    <Record>
+      <Key>GasSensorsTask1</Key>
+      <Value>Prenez un {THING:CircuitboardGasDisplay} dans la {THING:DynamicCrate} rouge.</Value>
+    </Record>
+    <Record>
+      <Key>GasSensorsTask2</Key>
+      <Value>Insérez le {THING:CircuitboardGasDisplay} dans la {THING:StructureConsole} sur le mur derrière le {THING:StructureFurnace}.</Value>
+    </Record>
+    <Record>
+      <Key>GasSensorsTask3</Key>
+      <Value>Prenez une {THING:ItemGlassSheets} dans la {THING:DynamicCrate} rouge.</Value>
+    </Record>
+    <Record>
+      <Key>GasSensorsTask4</Key>
+      <Value>Installez la {THING:ItemGlassSheets} sur la {THING:StructureConsole}.</Value>
+    </Record>
+    <Record>
+      <Key>ConfigureGasSensor</Key>
+      <Value>Configurer l’affichage du capteur de gaz</Value>
+    </Record>
+    <Record>
+      <Key>ConfigureGasSensorDescription</Key>
+      <Value>Maintenant, vous pouvez allumer et configurer la {THING:StructureConsole}.
+ 
+La {THING:StructureConsole} de gauche va afficher la pression du gaz. Nous avons besoin d&apos;une nouvelle {THING:StructureConsole} pour afficher la température. Après avoir allumé la {THING:StructureConsole} et inséré le {THING:ItemDataDisk}, basculer en mode &quot;Temperature&quot; en cliquant sur le bouton &quot;Pressure&quot;.
+Puis sélectionnez le périphérique en entrée de console, déroulez le menu et choisissez le {THING:StructureFurnace}.
+ 
+</Value>
+    </Record>
+    <Record>
+      <Key>ConfigureGasSensorTask1</Key>
+      <Value>Allumer la {THING:StructureConsole}</Value>
+    </Record>
+    <Record>
+      <Key>ConfigureGasSensorTask2</Key>
+      <Value>Insérez le {THING:ItemDataDisk} dans la {THING:StructureConsole}.</Value>
+    </Record>
+    <Record>
+      <Key>ConfigureGasSensorTask3</Key>
+      <Value>Sur la {THING:StructureConsole}, sélectionnez le {THING:StructureFurnace} comme périphérique d’entrée, puis modifiez le mode en &apos;Temperature&apos;.</Value>
+    </Record>
+    <Record>
+      <Key>ConfigureGasSensorTask4</Key>
+      <Value>Retirez le {THING:ItemDataDisk} de la {THING:StructureConsole}.</Value>
+    </Record>
+    <Record>
+      <Key>HowToMakeSteel</Key>
+      <Value>Comment produire de l’acier</Value>
+    </Record>
+    <Record>
+      <Key>HowToMakeSteelDescription</Key>
+      <Value>Pour trouver la recette de l’acier, ouvrez la Stationpedia avec la touche {KEY:Help}. Maintenez la touche {KEY:MouseControl} et accédez à la section &apos;Éléments&apos;, puis cliquez sur le lien &apos;Alliages&apos;. Dans la page &apos;Alliages&apos;, cliquez sur le lien &apos;Lingot (acier)&apos;.
+
+Comme vous pouvez le voir, vous avez besoin de trois {THING:ItemIronOre} et un {THING:ItemCoalOre} pour faire de l’acier. Ceux-ci doivent être combinés à une température minimale de 600K et une pression minimale de 100.0kPa.</Value>
+    </Record>
+    <Record>
+      <Key>HowToMakeSteelTask1</Key>
+      <Value>Ouvrez le {LINK:Home;Stationpedia} (touche {KEY:Help}).</Value>
+    </Record>
+    <Record>
+      <Key>HowToMakeSteelTask2</Key>
+      <Value>Accédez à la page &apos;Lingot (acier)&apos;</Value>
+    </Record>
+    <Record>
+      <Key>IgnitingTheFurnace</Key>
+      <Value>Allumer le four</Value>
+    </Record>
+    <Record>
+      <Key>IgnitingTheFurnaceDescription</Key>
+      <Value>Pour créer de l’acier, le {THING:StructureFurnace} doit atteindre la pression et la température minimales requises. On peut ajouter de la {THING:ItemVolatiles} et de la {THING:ItemOxite} directement dans le four, ou en alimentant le {THING:StructureFurnace} avec un mélange de carburant gazeux .
+
+La première méthode utilise deux {THING:ItemVolatiles} et une {THING:ItemOxite}. Veillez à ne pas surcharger le {THING:StructureFurnace}, car l’ajout de {THING:ItemOxite} ou de {THING:ItemVolatiles} va augmenter la pression dans le {THING:StructureFurnace} et provoquer une explosion dévastatrice.</Value>
+    </Record>
+    <Record>
+      <Key>IgnitingTheFurnaceTask1</Key>
+      <Value>Prenez deux {THING:ItemVolatiles} dans la caisse rouge.</Value>
+    </Record>
+    <Record>
+      <Key>IgnitingTheFurnaceTask2</Key>
+      <Value>Insérez la {THING:ItemVolatiles} dans la trappe sur le dessus du {THING:StructureFurnace}.</Value>
+    </Record>
+    <Record>
+      <Key>IgnitingTheFurnaceTask3</Key>
+      <Value>Pressez deux fois le bouton rouge &apos;Activate&apos; du {THING:StructureArcFurnace}.</Value>
+    </Record>
+    <Record>
+      <Key>IgnitingTheFurnaceTask4</Key>
+      <Value>Prenez un {THING:ItemOxite} dans la caisse rouge.</Value>
+    </Record>
+    <Record>
+      <Key>IgnitingTheFurnaceTask5</Key>
+      <Value>Insérez la {THING:ItemOxite} dans la trappe sur le dessus du {THING:StructureFurnace}.</Value>
+    </Record>
+    <Record>
+      <Key>IgnitingTheFurnaceTask6</Key>
+      <Value>Pressez le bouton rouge &apos;Activate&apos; du {THING:StructureArcFurnace}.</Value>
+    </Record>
+    <Record>
+      <Key>SmeltingIron</Key>
+      <Value>Fondre le fer</Value>
+    </Record>
+    <Record>
+      <Key>SmeltingIronDescription</Key>
+      <Value>Comme le {THING:StructureArcFurnace}, vous pouvez fondre les minerais dans le {THING:StructureFurnace}, mais vous pouvez également mélanger les minerais. Cela modifie la composition des métaux, créant des alliages. Si vous faites un mauvais mélange, vous allez obtenir un {THING:ItemReagentMix}.
+
+Commencez par ajouter trois {THING:ItemIronOre} dans le {THING:StructureFurnace}.</Value>
+    </Record>
+    <Record>
+      <Key>SmeltingIronTask1</Key>
+      <Value>Prenez un {THING:ItemIronOre} dans la caisse rouge.</Value>
+    </Record>
+    <Record>
+      <Key>SmeltingIronTask2</Key>
+      <Value>Insérez le {THING:ItemIronOre} dans la trappe sur le dessus du {THING:StructureFurnace}.</Value>
+    </Record>
+    <Record>
+      <Key>MakingAnAlloy</Key>
+      <Value>Fabrication d’un alliage</Value>
+    </Record>
+    <Record>
+      <Key>MakingAnAlloyDescription</Key>
+      <Value>Maintenant en ajoutant un {THING:ItemCoalOre} dans le {THING:StructureFurnace}, vous transformerez le fer fondu en acier. </Value>
+    </Record>
+    <Record>
+      <Key>MakingAnAlloyTask1</Key>
+      <Value>Prenez un {THING:ItemCoalOre} dans la caisse rouge.</Value>
+    </Record>
+    <Record>
+      <Key>MakingAnAlloyTask2</Key>
+      <Value>Insérez le {THING:ItemCoalOre} dans la trappe sur le dessus du {THING:StructureFurnace}.</Value>
+    </Record>
+    <Record>
+      <Key>FromingTheIngot</Key>
+      <Value>Formation du lingot</Value>
+    </Record>
+    <Record>
+      <Key>FromingTheIngotDescription</Key>
+      <Value>Utilisez le levier pour ouvrir le {THING:StructureFurnace} et obtenir le {THING:ItemSteelIngot}. Cela vous fournira la moitié de l’acier requis pour faire un {THING:ItemKitBattery}.</Value>
+    </Record>
+    <Record>
+      <Key>FromingTheIngotTask1</Key>
+      <Value>Tirer le levier d&apos;ouverture du {THING:StructureArcFurnace}.</Value>
+    </Record>
+    <Record>
+      <Key>FromingTheIngotTask2</Key>
+      <Value>Ramasser le {THING:ItemSteelIngot}</Value>
+    </Record>
+    <Record>
+      <Key>FromingTheIngotTask3</Key>
+      <Value>Insérez le {THING:ItemSteelIngot} dans l&amp;apos;emplacement sur la gauche du {THING:StructureElectronicsPrinter}.</Value>
+    </Record>
+    <Record>
+      <Key>VentingTheGases</Key>
+      <Value>Ventilation des gaz</Value>
+    </Record>
+    <Record>
+      <Key>VentingTheGasesDescription</Key>
+      <Value>Le {THING:StructureFurnace} est actuellement rempli de gaz toxique à haute pression. Vous pouvez l’évacuer directement dans l’atmosphère. Ou, vous pouvez refroidir, filtrer et recycler ce gaz pour une utilisation future. 
+
+Avant de recharger le {THING:StructureFurnace} avec un mélange de carburant, vous devez ventiler les gaz résiduels. Le tuyau de sortie est connecté à une {THING:StructureValve} qui empêche les gaz de s’échapper, et à une {THING:StructureVolumePump} pour l’évacuation des gaz.</Value>
+    </Record>
+    <Record>
+      <Key>VentingTheGasesTask1</Key>
+      <Value>Ouvrez la {THING:StructureValve} de sortie</Value>
+    </Record>
+    <Record>
+      <Key>VentingTheGasesTask2</Key>
+      <Value>Allumez la {THING:StructureVolumePump}</Value>
+    </Record>
+    <Record>
+      <Key>VentingTheGasesTask3</Key>
+      <Value>Attendez que la pression interne du {THING:StructureFurnace} tombe à 2kPa sur la console d’affichage gauche. </Value>
+    </Record>
+    <Record>
+      <Key>VentingTheGasesDescription2</Key>
+      <Value>Maintenant que le {THINGS:StructureFurnace} a été ventilé, fermez la {THING:StructureValve} de sortie et éteignez la {THING:StructureVolumePump}.</Value>
+    </Record>
+    <Record>
+      <Key>VentingTheGasesTask4</Key>
+      <Value>Fermez la {THING:StructureValve}</Value>
+    </Record>
+    <Record>
+      <Key>VentingTheGasesTask5</Key>
+      <Value>Eteignez la {THING:StructureVolumePump}</Value>
+    </Record>
+    <Record>
+      <Key>AddingFuelMix</Key>
+      <Value>Ajout de carburant gazeux</Value>
+    </Record>
+    <Record>
+      <Key>AddingFuelMixDescription</Key>
+      <Value>Maintenant que le {THING:StructureFurnace} est vide, nous allons le recharger d&apos;une autre manière, en injectant un mélange de carburant gazeux.
+
+Le mélange de carburant idéal est composé de 75% d&apos;hydrogène et 25% d&apos;oxygène.
+
+Assurez-vous de fermer le levier d&apos;ouverture du {THING:StructureFurnace}, avant de remplir le carburant.</Value>
+    </Record>
+    <Record>
+      <Key>AddingFuelMixTask1</Key>
+      <Value>Ouvrez la {THING:StructureValve} d’entrée sur le côté droit de {THING:StructureFurnace}</Value>
+    </Record>
+    <Record>
+      <Key>AddingFuelMixTask3</Key>
+      <Value>Attendez que la pression interne du {THING:StructureFurnace} atteigne 100kPa</Value>
+    </Record>
+    <Record>
+      <Key>AddingFuelMixTask4</Key>
+      <Value>Fermer rapidement la vanne d’entrée - trop de mélange de carburant pourrait provoquer une explosion </Value>
+    </Record>
+    <Record>
+      <Key>AddingFuelMixTask5</Key>
+      <Value>Pressez le bouton &apos;Activate&apos; du {THING:StructureFurnace}</Value>
+    </Record>
+    <Record>
+      <Key>NewAlloy</Key>
+      <Value>Nouvel Alliage</Value>
+    </Record>
+    <Record>
+      <Key>NewAlloyDescription</Key>
+      <Value>Fabriquons un autre {THING:ItemSteelIngot}. Tout comme la dernière fois, nous avons besoin d’ajouter trois [THING:ItemIronOre} et un {THING:ItemCoalOre}. Vous pouvez trouver plus de {THING:ItemIronOre} et {THING:ItemCoalOre} dans la caisse orange, maintenant ouverte.</Value>
+    </Record>
+    <Record>
+      <Key>NewAlloyTask1</Key>
+      <Value>Insérez le {THING:ItemIronOre} dans le {THING:StructureFurnace}</Value>
+    </Record>
+    <Record>
+      <Key>NewAlloyTask2</Key>
+      <Value>Insérez le {THING:ItemCoalOre} dans le {THING:StructureFurnace}</Value>
+    </Record>
+    <Record>
+      <Key>NewAlloyTask3</Key>
+      <Value>Tirez le levier d&apos;ouverture du {THING:StructureFurnace} et récupérez le {THING:ItemSteelIngot}</Value>
+    </Record>
+    <Record>
+      <Key>WhatASteel</Key>
+      <Value>Que faire de l&apos;acier</Value>
+    </Record>
+    <Record>
+      <Key>WhatASteelDescription</Key>
+      <Value>Nous avons suffisament d&apos;acier pour fabriquer une {THING:ItemKitBattery}. La {THING:ItemKitBattery} peut stocker une importante quantité d&apos;énergie électrique.
+
+Imprimez un {THING:ItemKitBattery} avec l&apos;{THING:StructureElectronicsPrinter}.</Value>
+    </Record>
+    <Record>
+      <Key>WhatASteelTask1</Key>
+      <Value>Ramasser le {THING:ItemSteelIngot}</Value>
+    </Record>
+    <Record>
+      <Key>WhatASteelTask2</Key>
+      <Value>Insérer le {THING:ItemSteelIngot} dans l&apos;{THING:StructureElectronicsPrinter}</Value>
+    </Record>
+    <Record>
+      <Key>WhatASteelTask3</Key>
+      <Value>Allumez l&apos;{THING:StructureElectronicsPrinter}, et imprimez un {THING:ItemKitBattery}.</Value>
+    </Record>
+  </Interface>
+</Language>

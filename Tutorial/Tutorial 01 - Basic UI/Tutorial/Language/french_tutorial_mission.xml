@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>FR</Code>
+  <Interface>
+    <Record>
+      <Key>01TutorialUIBasics</Key>
+      <Value>#1 Base de l&apos;interface</Value>
+    </Record>
+    <Record>
+      <Key>UIBasicsDescription</Key>
+      <Value>Bienvenue à l’Académie, Cadet ! Ici, nous allons vous enseigner les bases de devenir un Stationeer. Dans notre première leçon, nous allons faire un plongeon dans les bases de l’interface et des contrôles.</Value>
+    </Record>
+    <!-- start the tutorial -->
+    <Record>
+      <Key>TutorialMouseControls</Key>
+      <Value>Où est mon curseur ?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialMouseControlsDescription</Key>
+      <Value>Commençons. Notre première tâche est d&apos;effectuer une rapide lecture de la {LINK:Home;Stationpedia}. Une fois terminé, fermez la {LINK:Home;Stationpedia} avec la touche {KEY:Help} ou avec la souris, maintenez appuyé la touche {KEY:MouseControl} et déplaçer le curseur de la souris.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialMouseControlsTask1</Key>
+      <Value>Fermez la {LINK:Home;Stationpedia}.</Value>
+    </Record>
+    <Record>
+      <Key>AlertSystem</Key>
+      <Value>ALERTE</Value>
+    </Record>
+    <Record>
+      <Key>AlertSystemDescription</Key>
+      <Value>Alerte entrante !!!</Value>
+    </Record>
+    <Record>
+      <Key>DisplayAlert1</Key>
+      <Value>Aspirant, nous avons détecté un dysfonctionnement imminent. Le virus est en train d&apos;attaquer le mécanisme d’ouverture de votre casque.
+Appuyez sur la touche {KEY:Internals} pour fermer votre casque s’il s’ouvre.
+Fermez ce message, maintenez la touche {KEY:MouseControl} pour activer la souris.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUIControls</Key>
+      <Value>Fermer le casque</Value>
+    </Record>
+    <Record>
+      <Key>ALTTask1</Key>
+      <Value>Fermer l’alerte</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUIControlsDescription</Key>
+      <Value>En tant qu&apos;humain, vous ne pouvez pas survivre sur des planètes sans oxygène sans une combinaison ou une base suffisamment pressurisée avec une atmosphère respirable. Veillez à bien fermer votre casque et à le verrouiller pour éviter toute mort accidentelle.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUIControlsTask</Key>
+      <Value>Ouvrez l&apos;interface de votre casque avec {KEY:HelmetSlot} ou maintenez la touche {KEY:MouseControl} et cliquez sur l&apos;icône {SLOT:Helmet}.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUIControlsTask1</Key>
+      <Value>Fermez votre casque avec la touche {KEY:Internals}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialUIControlsTask2</Key>
+      <Value>Assurez-vous de verrouiller le casque pour éviter tout nouvel incident. Maintenez la touche {KEY:MouseControl} et cliquez sur le bouton &apos;Bloquer Mask&apos; dans le menu du casque.</Value>
+    </Record>
+    <Record>
+      <Key>AlertSystem2</Key>
+      <Value>ALERTE</Value>
+    </Record>
+    <Record>
+      <Key>ALTTask2</Key>
+      <Value>Fermer l’alerte</Value>
+    </Record>
+    <Record>
+      <Key>AlertSystemDescription2</Key>
+      <Value>Alerte entrante !!!</Value>
+    </Record>
+    <Record>
+      <Key>DisplayAlert2</Key>
+      <Value>Aspirant, le système de contrôle de votre combinaison semble infecté par un virus. Nous sommes en train d&apos;y travailler, mais il s&apos;attaque aux contrôles de pression et de température internes.
+Fermez ce message, maintenez la touche {KEY:MouseControl} pour activer la souris.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSuitControls</Key>
+      <Value>Il fait froid ici ?</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSuitControlsDescription</Key>
+      <Value>Ouvrez les commandes de votre combinaison avec {KEY:SuitSlot} ou cliquer sur l&apos;icône combinaison sur la gauche (maintenir la touche {KEY:MouseControl}) et ajustez la pression et la température de votre combinaison en utilisant les commandes du menu.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSuitControlsTask</Key>
+      <Value>Ouvrez l&apos;interface de votre combinaison avec {KEY:SuitSlot}</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSuitControlsTask1</Key>
+      <Value>Ajustez la température de votre combinaison à 22 degrés. Maintenez la touche {KEY:MouseControl} pour activer la souris et cliquez sur le bouton &apos;Monter température&apos;.</Value>
+    </Record>
+    <Record>
+      <Key>TutorialSuitControlsTask2</Key>
+      <Value>Changez votre combinaison de pression interne à 45 pascals en cliquant sur l’option Pression.</Value>
+    </Record>
+    <Record>
+      <Key>ReplaceingSuititems</Key>
+      <Value>Equipements de survie</Value>
+    </Record>
+    <Record>
+      <Key>ReplaceingSuititemsDescription</Key>
+      <Value>Nous avons presque nettoyé la combinaison du virus. Cependant, il a endommagé certains équipements de survie de votre combinaison. Remplaçons-les maintenant. 
+Vous avons reçu l&apos;autorisation d&apos;accéder à une caisse voisine qui devrait contenir les pièces dont vous avez besoin. Pour les besoins de survie de base, il vous faut une batterie pour alimenter les systèmes de support de vie et un filtre CO2 pour filtrer le gaz carbonique produit par votre respiration.</Value>
+    </Record>
+    <Record>
+      <Key>ReplaceingSuititemsTask1</Key>
+      <Value>Remplacez la batterie alimentant le support de vie de votre combinaison. Vous pouvez simplement faire glisser l’élément directement depuis la caisse dans l&apos;emplacement de la combinaison. En maintenant la touche {KEY:MouseControl}, essayez de faire glisser la batterie depuis la caisse dans l&amp;apos;emplacement de votre combinaison avec la batterie vide pour les échanger.</Value>
+    </Record>
+    <Record>
+      <Key>ReplaceingSuititemsTask2</Key>
+      <Value>Remplacez un filtre CO2 de votre combinaison. Cliquez sur le filtre CO2 dans la caisse pour le prendre en main. Avec la molette de la souris, selectionnez le filtre CO2 défectueux. Appuyer sur la touche F, cela va échanger le filtre de votre main et celui de la combinaison.</Value>
+    </Record>
+    <Record>
+      <Key>DisplayAlert3</Key>
+      <Value>Virus éradiqué. Beau boulot, Cadet !
+N’oubliez pas que vous pouvez toujours fermer toute l’interface ouverte rapidement avec la touche {KEY:HideAllWindows},
+ou les fermer manuellement en cliquant sur leur icône,
+ou avec la touche correspondant au numéro ({KEY:HelmetSlot}:casque; {KEY:SuitSlot}:combinaison; etc).</Value>
+    </Record>
+    <Record>
+      <Key>CloseingUIs</Key>
+      <Value>Fermeture des menus</Value>
+    </Record>
+    <Record>
+      <Key>CloseingUIsDescription</Key>
+      <Value>Passons maintenant à l&apos;étape finale. Nettoyons les fenêtres de l&apos;interface.</Value>
+    </Record>
+    <Record>
+      <Key>ALTTask3</Key>
+      <Value>Fermer l’alerte</Value>
+    </Record>
+    <Record>
+      <Key>CloseingUIstask1</Key>
+      <Value>Fermez toutes les interfaces de travail avec la clé {KEY:HideAllWindows}.</Value>
+    </Record>
+    <Record>
+      <Key>CloseingUIstask2</Key>
+      <Value>Si vous avez encore des objets dans vos mains, déposez-les avec la touche {KEY:Drop}, pour permuter les mains utilisez la touche {KEY:SwapHands}.</Value>
+    </Record>
+  </Interface>
+</Language>

@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>FR</Code>
+  <Interface>
+    <Record>
+      <Key>BasicConcepts</Key>
+      <Value>Compétences de base</Value>
+    </Record>
+    <Record>
+      <Key>MBasicConceptsDescription</Key>
+      <Value>Avant de vous envoyer dans les étoiles, testons vos compétences de base.</Value>
+    </Record>
+    <Record>
+      <Key>BasicConceptsSubTitle</Key>
+      <Value>Formation pratique : Étape I</Value>
+    </Record>
+    <Record>
+      <Key>IntroClose</Key>
+      <Value>Séance d’information sur la mission</Value>
+    </Record>
+    <Record>
+      <Key>WelcomeRecuit</Key>
+      <Value>Bienvenue Cadet</Value>
+    </Record>
+    <Record>
+      <Key>BasicConceptsDescription</Key>
+      <Value>Bienvenue à la base d’entraînement lunaire, cadet. L’ODA a approuvé votre demande, alors améliorons vos chances de survivre à votre déploiement dans le système solaire. 
+Entrez dans la base d’entraînement par le sas droit devant.</Value>
+    </Record>
+    <Record>
+      <Key>WelcomeRecuitDisc</Key>
+      <Value>Faites votre chemin jusqu&apos;à la base d&apos;entraînement.</Value>
+    </Record>
+    <Record>
+      <Key>ControlMovementDisc</Key>
+      <Value>Se déplacer</Value>
+    </Record>
+    <Record>
+      <Key>Narration1T</Key>
+      <Value>Bienvenue Cadet</Value>
+    </Record>
+    <Record>
+      <Key>Narration1D</Key>
+      <Value>Travaillant et construisant dans des conditions dangereuses, seul et loin de chez lui, un Stationeer a besoin de nombreuses compétences pour sa survie. Entrez dans la base d’entraînement par le sas droit devant.</Value>
+    </Record>
+    <Record>
+      <Key>EnterAreaT1</Key>
+      <Value>Entrer dans le sas</Value>
+    </Record>
+    <Record>
+      <Key>ControlLeftClickDisc</Key>
+      <Value>Interagir</Value>
+    </Record>
+    <Record>
+      <Key>Narration2T</Key>
+      <Value>Contrôles des sas</Value>
+    </Record>
+    <Record>
+      <Key>Narration2D</Key>
+      <Value>Pour travailler et construire dans des conditions dangereuses loin de la maison, un Stationeer a besoin de nombreuses compétences. Vous devez également savoir appuyer sur des boutons.
+Appuyez sur &apos;Cycle to interior&apos; pour entrer dans la base.</Value>
+    </Record>
+    <Record>
+      <Key>TrainingBaseDisc</Key>
+      <Value>Entrez dans la base d’entraînement.</Value>
+    </Record>
+    <Record>
+      <Key>OpenAirlock</Key>
+      <Value>Activer le sas en utilisant la console</Value>
+    </Record>
+    <Record>
+      <Key>ExitAreaT1</Key>
+      <Value>Entrer dans la zone de test</Value>
+    </Record>
+    <Record>
+      <Key>Narration3T</Key>
+      <Value>Protocoles</Value>
+    </Record>
+    <Record>
+      <Key>Narration3D</Key>
+      <Value>Avant de s’effondrer en une singularité auto-induite, le Guide du Stationeer a établi un protocole clef pour les Stationeers : Les cadets ont DEUX mains, mais ne devraient faire qu’UNE seule chose à la fois.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpControlsDisc</Key>
+      <Value>Interagir</Value>
+    </Record>
+    <Record>
+      <Key>SwapControlsDisc</Key>
+      <Value>Changer la main active</Value>
+    </Record>
+    <Record>
+      <Key>Co-OrdinationDisc</Key>
+      <Value>Testez votre coordination en échangeant des objets entre les mains.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1</Key>
+      <Value>Prenez le chalumeau dans la caisse</Value>
+    </Record>
+    <Record>
+      <Key>SwapHandsT1</Key>
+      <Value>Changer de main</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 1</Key>
+      <Value>Prenez la pince coupante dans la caisse.</Value>
+    </Record>
+    <Record>
+      <Key>SwapHandsT1 2</Key>
+      <Value>Changer de main ... de nouveau</Value>
+    </Record>
+    <Record>
+      <Key>Narration4T</Key>
+      <Value>Le chalumeau.</Value>
+    </Record>
+    <Record>
+      <Key>Narration4D</Key>
+      <Value>Tu aurais pu être jongleur. Mais vous vous êtes inscrit en tant que Stationeer, donc vous allez jongler avec les outils à la place. Beaucoup d’entre eux. Certains doivent être activés en premier, avec {KEY:SecondaryAction}.</Value>
+    </Record>
+    <Record>
+      <Key>ActiveWilderDisc</Key>
+      <Value>Activer le chalumeau</Value>
+    </Record>
+    <Record>
+      <Key>TurnOnControlsDisc</Key>
+      <Value>Mettre sous tension</Value>
+    </Record>
+    <Record>
+      <Key>TurnOnControlsDisc</Key>
+      <Value>Mettre sous tension</Value>
+    </Record>
+    <Record>
+      <Key>WeilderOn</Key>
+      <Value>Allumer le chalumeau</Value>
+    </Record>
+    <Record>
+      <Key>WeilderOff</Key>
+      <Value>Éteindre le chalumeau</Value>
+    </Record>
+    <Record>
+      <Key>Narration5T</Key>
+      <Value>Lâcher prise</Value>
+    </Record>
+    <Record>
+      <Key>Narration5D</Key>
+      <Value>Jusqu’à présent, vos mains fonctionnent très bien. C’est bien, tu en auras besoin. Alors essayons de poser et de lancer.
+Appuyez sur {KEY:Drop} pour déposer des objets, ou maintenez {KEY:Drop} pour les lancer.</Value>
+    </Record>
+    <Record>
+      <Key>DropItemT1 1</Key>
+      <Value>Lâcher l&apos;outil dans la main droite</Value>
+    </Record>
+    <Record>
+      <Key>DropWireCutters</Key>
+      <Value>Lâcher ou jeter l’outil dans votre main droite</Value>
+    </Record>
+    <Record>
+      <Key>ThrowControls</Key>
+      <Value>Maintenir {KEY:Drop}</Value>
+    </Record>
+    <Record>
+      <Key>ThrowControlsDisc</Key>
+      <Value>Jeter l’objet</Value>
+    </Record>
+    <Record>
+      <Key>DropControlsDisc</Key>
+      <Value>Lâcher l&apos;objet</Value>
+    </Record>
+    <Record>
+      <Key>PrecisionPLaceT1 1</Key>
+      <Value>Placez avec précision l&apos;outil sur la table à l’aide de {KEY:PrecisionPlace}</Value>
+    </Record>
+    <Record>
+      <Key>Narration6T</Key>
+      <Value>Le soudeur</Value>
+    </Record>
+    <Record>
+      <Key>Narration6D</Key>
+      <Value>Parfois, vous aurez besoin de poser des articles plus soigneusement. C’est la propriété de l’ODA. Essayez-le à l’aide de {KEY:PrecisionPlace}, et vérifiez que vos joints de combinaison fonctionnent bien.</Value>
+    </Record>
+    <Record>
+      <Key>PrecisionPlaceControlsDisc</Key>
+      <Value>Mode : placement de précision</Value>
+    </Record>
+    <Record>
+      <Key>PrecisionPlaceControlsPlaceDisc</Key>
+      <Value>Placer l’élément</Value>
+    </Record>
+    <Record>
+      <Key>PrecisionPlace</Key>
+      <Value>Poser le chalumeau sur la table à l’aide du &apos;Mode : placement de précision&apos;</Value>
+    </Record>
+    <Record>
+      <Key>Narration7T</Key>
+      <Value>Le système d’inventaire</Value>
+    </Record>
+    <Record>
+      <Key>Narration7D</Key>
+      <Value>Nous ne pouvons pas tout vous apprendre, mais nous pouvons nous assurer que vous avez les bases vers le bas: survivre dans le système solaire est à vous.
+Maintenez {KEY:MouseControl} pour accéder à votre inventaire, puis cliquez sur un panneau pour l’ouvrir.</Value>
+    </Record>
+    <Record>
+      <Key>OpenToolControlsDisc</Key>
+      <Value>Activer le curseur de la souris</Value>
+    </Record>
+    <Record>
+      <Key>OpenToolbeltT1Disc</Key>
+      <Value>Ouvrez votre ceinture d’outils pour accéder aux outils.</Value>
+    </Record>
+    <Record>
+      <Key>OpenBackControlsDisc</Key>
+      <Value>Ouvrez les emplacements d&apos;équipements</Value>
+    </Record>
+    <Record>
+      <Key>GettingTheBelt</Key>
+      <Value>Ouvrez votre ceinture d’outils</Value>
+    </Record>
+    <Record>
+      <Key>Narration8T</Key>
+      <Value>Fenêtres d’interface utilisateur</Value>
+    </Record>
+    <Record>
+      <Key>Narration8D</Key>
+      <Value>En tant que Stationeer, il existe de nombreuses façons d’atteindre un objectif : la manière dont vous y parviendrez ne dépends que de vous.
+Cela fonctionne aussi avec votre combinaison, essayez d&apos;ouvrir votre inventaire avec les touches numériques.</Value>
+    </Record>
+    <Record>
+      <Key>OpenBackPackDisc</Key>
+      <Value>Ouvrez votre ceinture d’outils</Value>
+    </Record>
+    <Record>
+      <Key>OpenBackPack</Key>
+      <Value>Ouvrez votre équipement dorsal</Value>
+    </Record>
+    <Record>
+      <Key>Narration9T</Key>
+      <Value>Navigation dans l’inventaire.</Value>
+    </Record>
+    <Record>
+      <Key>Narration9D</Key>
+      <Value>Savoir où quelque chose est, et comment l’obtenir rapidement, fait toute la différence: la gestion des stocks sauve des vies. Commencez par glisser des articles dans votre main à partir de votre inventaire.</Value>
+    </Record>
+    <Record>
+      <Key>HoldMiningBeltT1Disc</Key>
+      <Value>Déplacer la ceinture de mineur, du jetpack dans votre main gauche</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 2</Key>
+      <Value>Déplacer la ceinture de mineur, du jetpack dans votre main gauche</Value>
+    </Record>
+    <Record>
+      <Key>AltDragControls</Key>
+      <Value>{KEY:MouseControl} + Glisser</Value>
+    </Record>
+    <Record>
+      <Key>AltDragControlsDisc</Key>
+      <Value>Déplacer des objets.</Value>
+    </Record>
+    <Record>
+      <Key>DropT1 2</Key>
+      <Value>Lâcher ou jeter la ceinture de mineur</Value>
+    </Record>
+    <Record>
+      <Key>Narration10T</Key>
+      <Value>Déplacement dans l&apos;inventaire</Value>
+    </Record>
+    <Record>
+      <Key>Narration10D</Key>
+      <Value>En tant que Stationeer, vous allez ramasser beaucoup de choses. Le système solaire est un grand bazar. C’est comme ça.
+Essayez de déplacer des objets du monde directement dans votre inventaire.</Value>
+    </Record>
+    <Record>
+      <Key>DragFromWorldT1Disc</Key>
+      <Value>Déplacer la ceinture de mineur depuis le sol vers le jetpack</Value>
+    </Record>
+    <Record>
+      <Key>AltClickControlsDisc</Key>
+      <Value>Interagir avec la souris</Value>
+    </Record>
+    <Record>
+      <Key>OpenMaskControlsDisc</Key>
+      <Value>Ouverture de la visière du casque</Value>
+    </Record>
+    <Record>
+      <Key>StationpediaToggleControlsDisc</Key>
+      <Value>Ouvrir/Fermer la Stationpedia</Value>
+    </Record>
+    <Record>
+      <Key>QucikEquiptControls</Key>
+      <Value>Molette</Value>
+    </Record>
+    <Record>
+      <Key>QucikEquiptControlsDisc</Key>
+      <Value>Sélectionner l&apos;emplacement</Value>
+    </Record>
+    <Record>
+      <Key>QuickSelectItemControlsDisc</Key>
+      <Value>Interagir avec l&apos;inventaire</Value>
+    </Record>
+    <Record>
+      <Key>DoubleClickingControlsDisc</Key>
+      <Value>Interagir avec l&apos;inventaire</Value>
+    </Record>
+    <Record>
+      <Key>SecondaryActionControls</Key>
+      <Value>(maintenir) {KEY:SecondaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>SecondaryActionControlsDisc</Key>
+      <Value>Bouton Action secondaire</Value>
+    </Record>
+    <Record>
+      <Key>ControlLeftClickBuildDisc</Key>
+      <Value>Construire une structure.</Value>
+    </Record>
+    <Record>
+      <Key>BuildControlsDisc</Key>
+      <Value>Entrer en mode : Construction.</Value>
+    </Record>
+    <Record>
+      <Key>UseItemControls</Key>
+      <Value>Maintenir {KEY:SecondaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>UseItemControlsDisc</Key>
+      <Value>Activer l’objet</Value>
+    </Record>
+    <Record>
+      <Key>UsePrimeControls</Key>
+      <Value>Maintenir {KEY:PrimaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>UsePrimeControlsDisc</Key>
+      <Value>Utiliser l’objet</Value>
+    </Record>
+    <Record>
+      <Key>JetpackInsert</Key>
+      <Value>Déplacer la ceinture de mineur depuis le sol vers le jetpack</Value>
+    </Record>
+    <Record>
+      <Key>Narration11T</Key>
+      <Value>Raccourcis clavier</Value>
+    </Record>
+    <Record>
+      <Key>Narration11D</Key>
+      <Value>Jusqu’à ce qu’Asura Biomedia élève un Stationeer à quatre bras, vous êtes coincé avec deux mains. Mais il y a des moyens rapides de déplacer des éléments en eux.
+Utilisez MOUSE WHEEL pour sélectionner un élément dans une fenêtre d’interface utilisateur ouverte, puis appuyez sur « F » pour l’équiper.</Value>
+    </Record>
+    <Record>
+      <Key>RoadFlareT1Disc</Key>
+      <Value>Utilisez les &apos;raccourcis clavier&apos; pour vous équiper d&apos;une fusée éclairante</Value>
+    </Record>
+    <Record>
+      <Key>GetRoadFlare</Key>
+      <Value>Déplacer la fusée éclairante du Jetpack vers la main gauche</Value>
+    </Record>
+    <Record>
+      <Key>LightFlare</Key>
+      <Value>Allumer la fusée éclairante avec {KEY:SecondaryAction}</Value>
+    </Record>
+    <Record>
+      <Key>DropT1 3</Key>
+      <Value>Lâcher la fusée éclairante en utilisant la touche {KEY:Drop}.</Value>
+    </Record>
+    <Record>
+      <Key>Narration12T</Key>
+      <Value>Des objets dans les objets</Value>
+    </Record>
+    <Record>
+      <Key>Narration12D</Key>
+      <Value>L&apos;équipement du Stationeer est conçu pour la durabilité et la facilité de fabrication, pas pour qu&apos;ils soient beaux.
+Bon nombre d’entre eux, notament vos outils, contiennent une pile ou une bouteille de gaz.</Value>
+    </Record>
+    <Record>
+      <Key>ChildOnSlotOpenDisc</Key>
+      <Value>Ouvrez la ceinture de mineur dans votre jetpack.</Value>
+    </Record>
+    <Record>
+      <Key>OpeningTheMininngBelt</Key>
+      <Value>Ouvrir la ceinture de mineur</Value>
+    </Record>
+    <Record>
+      <Key>Narration13T</Key>
+      <Value>Utilisation de batterie</Value>
+    </Record>
+    <Record>
+      <Key>Narration13D</Key>
+      <Value>Tout coûte quelque chose et, loin de chez vous, vous devez utilisez vos ressources avec précaution.
+Les sources d&apos;énergies (batterie ou bouteille de gaz) de nombreux équipements peuvent être retirées et rechargées.</Value>
+    </Record>
+    <Record>
+      <Key>ReplaceBattT1Disc</Key>
+      <Value>Insérer une batterie de la caisse dans la foreuse.</Value>
+    </Record>
+    <Record>
+      <Key>ChangePowerCell</Key>
+      <Value>Insérer une batterie de la caisse dans la foreuse.</Value>
+    </Record>
+    <Record>
+      <Key>Narration14T</Key>
+      <Value>Faire des tas</Value>
+    </Record>
+    <Record>
+      <Key>Narration14D</Key>
+      <Value>Ils appellent ça : l&apos;espace. Mais ne vous y trompez pas : il n’y a jamais assez de place.
+Heureusement, de nombreux objets peuvent être regroupés ensembles.</Value>
+    </Record>
+    <Record>
+      <Key>MergeFramesT1Disc</Key>
+      <Value>Regrouper les cadres, en faisant glisser un tas sur l’autre.</Value>
+    </Record>
+    <Record>
+      <Key>Merege de frames</Key>
+      <Value>Regrouper les deux tas de cadres de fer. Ils sont dans la caisse</Value>
+    </Record>
+    <Record>
+      <Key>Narration15T</Key>
+      <Value>Fermer l’interface utilisateur avec {KEY:HideAllWindows}</Value>
+    </Record>
+    <Record>
+      <Key>Narration15D</Key>
+      <Value>Si votre HUD est encombré, vous pouvez fermer toutes les fenêtres d’inventaire en cliquant sur &apos;Tout fermer&apos; ou en appuyant sur {KEY:HideAllWindows}.</Value>
+    </Record>
+    <Record>
+      <Key>CloseAllUIT1Disc</Key>
+      <Value>Fermer toutes les fenêtres d’inventaires ouvertes</Value>
+    </Record>
+    <Record>
+      <Key>CloseUITask</Key>
+      <Value>Fermer toutes les fenêtres d’interface utilisateur ouvertes</Value>
+    </Record>
+    <Record>
+      <Key>ControlCloseUIDisc</Key>
+      <Value>Fermer toutes les fenêtres d’interface utilisateur ouvertes</Value>
+    </Record>
+    <Record>
+      <Key>Narration16D</Key>
+      <Value>Le comité d’évaluation de l’ODA est satisfait, vous n’êtes pas une menace imminente pour vous-même. Bon travail, cadet.
+Passez à la section suivante dans la base d&apos;entrainement pour la partie II : révision des bases de la construction.</Value>
+    </Record>
+    <Record>
+      <Key>EnterAreaT1Disc</Key>
+      <Value>Entrer dans la section B de la base d’entraînement.</Value>
+    </Record>
+    <Record>
+      <Key>EnterAreaT3</Key>
+      <Value>Entrer dans le sas suivant</Value>
+    </Record>
+    <Record>
+      <Key>ControlJetpackToggleDisc</Key>
+      <Value>Allumer/Eteindre le jetpack</Value>
+    </Record>
+    <Record>
+      <Key>ControlJetpackAsendMovementDisc</Key>
+      <Value>Monter</Value>
+    </Record>
+    <Record>
+      <Key>ControlJetpackDesendMovementDisc</Key>
+      <Value>Descendre</Value>
+    </Record>
+    <Record>
+      <Key>Narration17D</Key>
+      <Value>Dans cette phase de test, vous maîtriserez les compétences de base en construction, ou ... vous manquerez d’air.
+La zone de construction est trop haute pour être atteinte, alors testons votre jetpack.</Value>
+    </Record>
+    <Record>
+      <Key>Narration18T</Key>
+      <Value>Cadres</Value>
+    </Record>
+    <Record>
+      <Key>Narration18D</Key>
+      <Value>Simples à construire et faciles à pressuriser, les cadres en fer sont la base de toute structure Stationeer.
+Ramassez les cadres, cliquez avec le bouton droit de la souris pour entrer en mode Construction, puis cliquez avec le bouton gauche de la souris pour les placer.</Value>
+    </Record>
+    <Record>
+      <Key>BuildTheFrames</Key>
+      <Value>Utiliser des plaques de fer et le chalumeau pour compléter les cadres</Value>
+    </Record>
+    <Record>
+      <Key>Narration19T</Key>
+      <Value>Cadres</Value>
+    </Record>
+    <Record>
+      <Key>Narration19D</Key>
+      <Value>La plupart des constructions Stationeer se font en plusieurs étapes. Compléter les cadres et les rendre étanches à l’air en y soudant des plaques de fer.
+Vous aurez besoin du chalumeau dans votre main active, et de plaques de fer dans l’autre.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 9</Key>
+      <Value>Prendre les Kit (Cadres en Fer) dans la caisse</Value>
+    </Record>
+    <Record>
+      <Key>BuildFrameT1Disc</Key>
+      <Value>Compléter le toit en utilisant des Kit (Cadres en Fer) et des Plaques de Fer.</Value>
+    </Record>
+    <Record>
+      <Key>IronFrameBuildTaskT1</Key>
+      <Value>Construire le premier cadre dans la zone en surbrillance.</Value>
+    </Record>
+    <Record>
+      <Key>IronFrameBuildTaskT2</Key>
+      <Value>Construire le cadre #2 dans l’endroit en surbrillance.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 4</Key>
+      <Value>Prendre les Plaques de Fer dans la caisse</Value>
+    </Record>
+    <Record>
+      <Key>UsePrimeControlsBuildDisc</Key>
+      <Value>Construire</Value>
+    </Record>
+    <Record>
+      <Key>FinsihFramesT1Disc</Key>
+      <Value>Equipez-vous avec le Chalumeau et les Plaques d&apos;acier dans la caisse, et compléter la base d&apos;entraînement.</Value>
+    </Record>
+    <Record>
+      <Key>FillingWithAirT1Disc</Key>
+      <Value>Remplissez la base d’une atmosphère respirable.</Value>
+    </Record>
+    <Record>
+      <Key>OpenTheAPCPanel</Key>
+      <Value>Ouvrez le Contrôleur d&apos;Alimentation avec le Pieds de biche trouvé dans la caisse</Value>
+    </Record>
+    <Record>
+      <Key>TurnOnAPC</Key>
+      <Value>Allumez le Contrôleur d&apos;Alimentation</Value>
+    </Record>
+    <Record>
+      <Key>TurningOnTheOXygen</Key>
+      <Value>Attendez que la pression atmosphérique atteigne 60 kPa.</Value>
+    </Record>
+    <Record>
+      <Key>OpenHelmT1Disc</Key>
+      <Value>Ouvrez la visière de votre casque.</Value>
+    </Record>
+    <Record>
+      <Key>OpenHelmT1Task</Key>
+      <Value>Déverrouiller le casque</Value>
+    </Record>
+    <Record>
+      <Key>OpenHelmT2Task</Key>
+      <Value>Ouvrer la visière</Value>
+    </Record>
+    <Record>
+      <Key>Narration20T</Key>
+      <Value>Cadres</Value>
+    </Record>
+    <Record>
+      <Key>FinishFrameT1</Key>
+      <Value>Terminer la construction du Cadre en Fer avec des Plaques de Fer et un Chalumeau</Value>
+    </Record>
+    <Record>
+      <Key>Narration20D</Key>
+      <Value>Le bâtiment est étanche, maintenant vous pouvez ajouter une atmosphère. Activer le Contrôleur d&apos;Alimentation (APC) pour alimenter les Ventilations Actives. L’air affluera dans la pièce.
+Surveillez la pression atmosphérique sur votre panneau d’état.</Value>
+    </Record>
+    <Record>
+      <Key>Narration21T</Key>
+      <Value>Phase finale</Value>
+    </Record>
+    <Record>
+      <Key>Narration21D</Key>
+      <Value>Très bien, cadet, vous avez presque terminé la phase I des tests pratiques de Stationeers.
+Si vous voulez en savoir plus, consultez le Stationpedia en appuyant sur F1.</Value>
+    </Record>
+    <Record>
+      <Key>Narration22T</Key>
+      <Value>Phase finale</Value>
+    </Record>
+    <Record>
+      <Key>Narration22D</Key>
+      <Value>Très bien, Cadet, vous avez presque terminé la phase I des tests pratiques Stationeers.
+Si vous souhaitez en savoir plus, consultez la Stationpedia en appuyant sur F1. Une fois que vous l&apos;aurez lu, fermez la Stationpedia. Vous ferez d’autres tests bientôt, mais pour l’instant, faites comme chez vous. 
+Enlevez votre combinaison et placez-la dans le casier.</Value>
+    </Record>
+    <Record>
+      <Key>GettingHelp</Key>
+      <Value>Ouvrez la Stationpedia, et aller dans la section Personnel.</Value>
+    </Record>
+    <Record>
+      <Key>GettingHelpClose</Key>
+      <Value>Fermez la Stationpedia</Value>
+    </Record>
+    <Record>
+      <Key>Narration23T</Key>
+      <Value>Phase finale</Value>
+    </Record>
+    <Record>
+      <Key>Narration23D</Key>
+      <Value>Excellent, cadet. C’est la dernière étape de la phase I. L’ODA sera soulagée que vous ayez survécu jusqu’ici.
+Appuyez sur le bouton bleu &apos;Complete&apos; pour transmettre vos résultats à Stationeer Command.</Value>
+    </Record>
+    <Record>
+      <Key>HangUpSuitT1Disc</Key>
+      <Value>Déposer votre combinaison dans le Stockage de combinaison.</Value>
+    </Record>
+    <Record>
+      <Key>HangHelm</Key>
+      <Value>Déposer votre casque spatial dans le Stockage de combinaison</Value>
+    </Record>
+    <Record>
+      <Key>HangSuit</Key>
+      <Value>Déposer votre combinaison EVA dans le Stockage de combinaison</Value>
+    </Record>
+    <Record>
+      <Key>HangPack</Key>
+      <Value>Déposer le jetpack dans le Stockage de combinaison</Value>
+    </Record>
+    <Record>
+      <Key>JetpackOn</Key>
+      <Value>Activer le jetpack</Value>
+    </Record>
+    <Record>
+      <Key>JetpackOff</Key>
+      <Value>Désactiver le jetpack</Value>
+    </Record>
+    <Record>
+      <Key>JetpackT1Disc</Key>
+      <Value>Testez votre contrôle du jetpack.</Value>
+    </Record>
+    <Record>
+      <Key>PickUpT1 6</Key>
+      <Value>Ramasser le chalumeau sur la table</Value>
+    </Record>
+    <Record>
+      <Key>FillOutPaperworkT1Disc</Key>
+      <Value>Appuyez sur grand bouton bleu pour transmettre les résultats.</Value>
+    </Record>
+    <Record>
+      <Key>OnButtonPressTaskT1</Key>
+      <Value>Appuyez sur le bouton &apos;Confirmer&apos; pour terminer le test</Value>
+    </Record>
+    <Record>
+      <Key>UIBasicsEndDescription</Key>
+      <Value>Félicitations. Vos résultats ont été reçus par le Stationeer Command de l’ODA.</Value>
+    </Record>
+    <Record>
+      <Key>Dropflare</Key>
+      <Value>Laissez tomber la fusée dans votre main droite</Value>
+    </Record>
+    <Record>
+      <Key>NarrationClose</Key>
+      <Value>Fermer le panneau de narration</Value>
+    </Record>
+  </Interface>
+</Language>

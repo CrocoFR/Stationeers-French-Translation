@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>FR</Code>
+  <Interface>
+    <Record>
+      <Key>07BasicAirlocks</Key>
+      <Value>#7 Base des sas etanches</Value>
+    </Record>
+    <Record>
+      <Key>BasicAirlocksDescription</Key>
+      <Value>Apprenez à installer un sas hermétique pour créer un passage entre différents milieux atmosphèriques.</Value>
+    </Record>
+    <Record>
+      <Key>DisplayAlertAirlockMalfunction</Key>
+      <Value>Heureusement vous êtes là, cadet ! 
+En raison d’un problème de pressurisation, un dysfonctionnement a causé une défaillance catastrophique ayant entraîné la destruction du sas.</Value>
+    </Record>
+    <Record>
+      <Key>FramesAreStrong</Key>
+      <Value>Les cadres sont solides</Value>
+    </Record>
+    <Record>
+      <Key>FramesAreStrongDescription</Key>
+      <Value>Dans cette leçon, nous devons créer un sas pour remplacer celui qui a été détruit. Nous utiliserons des ventilations, des tuyaux, des consoles et des cartes mères. 
+            
+Commençons par une configuration de sas basique. Tout d’abord, nous allons construire l’extérieur du sas avec des {THING:ItemIronFrames}. Il est recommandé d’utiliser des {THING:ItemIronFrames} car ils servent de support à d&apos;autres dispositifs (ventilation, console, etc). Vous trouverez des {THING:ItemIronFrames} dans la caisse jaune.</Value>
+    </Record>
+    <Record>
+      <Key>FramesAreStrongTask1</Key>
+      <Value>Construire le {THING:ItemIronFrames} de gauche</Value>
+    </Record>
+    <Record>
+      <Key>FramesAreStrongTask2</Key>
+      <Value>Construire le {THING:ItemIronFrames} en haut</Value>
+    </Record>
+    <Record>
+      <Key>FeelsFamiliar</Key>
+      <Value>Sentiment de déjà-vu</Value>
+    </Record>
+    <Record>
+      <Key>FeelsFamiliarDescription</Key>
+      <Value>Afin de rendre les {THING:ItemIronFrames} étanches, soudez-y quelques {THING:ItemIronSheets}. Elles se trouvent dans la caisse orange.</Value>
+    </Record>
+    <Record>
+      <Key>FeelsFamiliarTask1</Key>
+      <Value>Terminer la construction du {THING:ItemIronFrames} à droite.</Value>
+    </Record>
+    <Record>
+      <Key>FeelsFamiliarTask2</Key>
+      <Value>Terminer la construction du {THING:ItemIronFrames} à gauche.</Value>
+    </Record>
+    <Record>
+      <Key>FeelsFamiliarTask3</Key>
+      <Value>Terminer la construction du {THING:ItemIronFrames} en haut.</Value>
+    </Record>
+    <Record>
+      <Key>CloseTheDoor</Key>
+      <Value>Fermez la porte !</Value>
+    </Record>
+    <Record>
+      <Key>CloseTheDoorDescription</Key>
+      <Value>Utilisez le {THING:ItemKitDoor} de la caisse jaune pour construire deux {THING:StructureCompositeDoor} dans les zones en surbrillance.</Value>
+    </Record>
+    <Record>
+      <Key>CloseTheDoorTask1</Key>
+      <Value>Installer la {THING:StructureCompositeDoor} intérieure</Value>
+    </Record>
+    <Record>
+      <Key>CloseTheDoorTask2</Key>
+      <Value>Installer la {THING:StructureCompositeDoor} extérieure</Value>
+    </Record>
+    <Record>
+      <Key>CloseTheDoorTask2.5</Key>
+      <Value>Prenez un {THING:ItemLabeller} dans la caisse orange.</Value>
+    </Record>
+    <Record>
+      <Key>CloseTheDoorTask2.6</Key>
+      <Value>Allumer la{THING:ItemLabeller}.</Value>
+    </Record>
+    <Record>
+      <Key>CloseTheDoorTask3</Key>
+      <Value>Renommez la {THING:StructureCompositeDoor} extérieure en &quot;Porte externe&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CloseTheDoorTask4</Key>
+      <Value>Renommez la {THING:StructureCompositeDoor} intérieure en &quot;Porte interne&quot;</Value>
+    </Record>
+    <Record>
+      <Key>CreatingASeal</Key>
+      <Value>Création d’un sas hermétique</Value>
+    </Record>
+    <Record>
+      <Key>CreatingASealDescription</Key>
+      <Value>Terminez la construction des {THING:StructureCompositeDoor} avec {THING:ItemPlasticSheets} et {THING:ItemGlassSheets}.
+Vous devez ensuite renommer les {THING:StructureCompositeDoor} nouvellement construites à l’aide de l&apos;{THING:ItemLabeller}, qui se trouve dans la caisse orange. </Value>
+    </Record>
+    <Record>
+      <Key>CreatingASealTask1</Key>
+      <Value>Construire la {THING:StructureCompositeDoor} intérieure</Value>
+    </Record>
+    <Record>
+      <Key>CreatingASealTask2</Key>
+      <Value>Construire la {THING:StructureCompositeDoor} extérieure</Value>
+    </Record>
+    <Record>
+      <Key>AirSensoresAndMore</Key>
+      <Value>Capteurs d’air et plus encore !</Value>
+    </Record>
+    <Record>
+      <Key>AirSensoresAndMoreDescription</Key>
+      <Value>Ensuite, mettez en place un {THING:StructureGasSensor} et une {THING:StructureActiveVent}. Un {THING:StructureGasSensor} est un composant clé du sas, car il informe la {THING:StructureConsole} de l’atmosphère actuelle à l’intérieur, tandis que la {THING:StructureActiveVent} pressurise et dépressurise le sas.</Value>
+    </Record>
+    <Record>
+      <Key>AirSensoresAndMoreTask1</Key>
+      <Value>Construisez un {THING:StructureGasSensor} dans la zone en surbrillance</Value>
+    </Record>
+    <Record>
+      <Key>AirSensoresAndMoreTask2</Key>
+      <Value>Construisez un {THING:StructureActiveVent} dans la zone en surbrillance</Value>
+    </Record>
+    <Record>
+      <Key>GasPipes</Key>
+      <Value>Tuyaux de gaz</Value>
+    </Record>
+    <Record>
+      <Key>GasPipesDescription</Key>
+      <Value>Les {THING:ItemKitPipe} sont utilisés pour transporter le gaz d’un point à un autre. Nous devrons utiliser des tuyaux pour connecter la {THING:StructureActiveVent} à la {THING:StructurePassiveVent}. Des {THING:ItemKitPipe} se trouvent dans la caisse jaune.
+            
+Remarque : lors de la construction d’un sas, vous pouvez simplement stocker les gaz dans le tuyau lui-même, si vous n’avez pas accès à une {THING:StructurePassiveVent}.
+</Value>
+    </Record>
+    <Record>
+      <Key>GasPipeCorner</Key>
+      <Value>Installer un {THING:StructurePipeCorner}.</Value>
+    </Record>
+    <Record>
+      <Key>GasPipeStraight</Key>
+      <Value>Installer un {THING:StructurePipeStraight}</Value>
+    </Record>
+    <Record>
+      <Key>PassiveVentBuild</Key>
+      <Value>Installer une {THING:StructurePassiveVent}.</Value>
+    </Record>
+    <Record>
+      <Key>DigitalScreens</Key>
+      <Value>Consoles et écrans numériques</Value>
+    </Record>
+    <Record>
+      <Key>DigitalScreensDescription</Key>
+      <Value>La {THING:StructureConsole} est un dispositif équipé d&apos;un {THING:CircuitboardAirlockControl} programmable. Lorsque un {THING:ItemDataDisk} est inséré dans la {THING:StructureConsole}, le {THING:CircuitboardAirlockControl} peut être programmé.</Value>
+    </Record>
+    <Record>
+      <Key>DigitalScreensTask1</Key>
+      <Value>Installez une {THING:StructureConsole} dans la zone en surbrillance sur le mur.  Un {THING:ItemKitConsole} se trouve dans la caisse jaune.</Value>
+    </Record>
+    <Record>
+      <Key>UnderPressure</Key>
+      <Value>Sous pression</Value>
+    </Record>
+    <Record>
+      <Key>UnderPressureDescription</Key>
+      <Value>Pour compléter la console, nous devons y ajouter un circuit imprimé. Il existe différents types de circuits imprimés pour différentes situations, Dans notre cas, nous allons construire un sas, donc nous devons utiliser le {THING:CircuitboardAirlockControl}, Vous aurez également besoin d’utiliser un {THING:ItemDataDisk} pour programmer le {THING:CircuitboardAirlockControl}.</Value>
+    </Record>
+    <Record>
+      <Key>UnderPressureTask1</Key>
+      <Value>Insérez le {THING:CircuitboardAirlockControl} dans la {THING:StructureConsole}.</Value>
+    </Record>
+    <Record>
+      <Key>UnderPressureTask2</Key>
+      <Value>Placez une {THING:ItemGlassSheets} sur la {THING:StructureConsole}.</Value>
+    </Record>
+    <Record>
+      <Key>UnderPressureTask3</Key>
+      <Value>Insérez le {THING:ItemDataDisk} dans la fente sur le coté gauche de la {THING:StructureConsole}.</Value>
+    </Record>
+    <Record>
+      <Key>AirLockProgramming</Key>
+      <Value>Programmation de sas</Value>
+    </Record>
+    <Record>
+      <Key>AirLockProgrammingDescription</Key>
+      <Value>Pour programmer un sas, commencez par allumer la {THING:StructureConsole}.
+Sélectionnez dans l&apos;ordre :
+- La Porte Externe (EXTERIOR)
+- La Porte Interne (INTERIOR)
+- La Ventilation Active (VENT)
+- Le Capteur de Gaz (SENSOR)
+
+Lors de la sélection des éléments, assurez-vous que l’option &amp;quot;INTERIEUR&amp;quot; est sélectionnée sur la porte intérieure. La lumière de la serrure passe du vert au rouge lorsque la porte est controlé par la {THING:StructureConsole}.
+Un élément sélectionné dans la {THING:StructureConsole}, est sous son contrôle et il sera verrouillé. Il ne répondra pas à vos interactions.
+
+Lorsque vous avez terminé la configuration de la {THING:StructureConsole}, l’interrupteur sur le côté droit s’allume en vert, vous pouvez ensuite retirez le disque de données de la {THING:StructureConsole}.</Value>
+    </Record>
+    <Record>
+      <Key>AirLockProgrammingTask1</Key>
+      <Value>Programmez le sas à l&apos;aide de la {THING:StructureConsole}.</Value>
+    </Record>
+    <Record>
+      <Key>ASimpleAirLock</Key>
+      <Value>Un simple sas</Value>
+    </Record>
+    <Record>
+      <Key>ASimpleAirLockDescription</Key>
+      <Value>Maintenant, pour tester le sas nouvellement construit, appuyez sur le bouton &quot;CYCLE TO INTERIOR&quot; pour initialiser la pressurisation, la pression doit atteindre au moins 101 kPa pour que le cycle se termine.
+Dans certains cas, &quot;l’Intérieur&quot; n’a pas suffisament de gaz pour atteindre la pression cible (101 kPa). Si cela se produit appuyez sur le bouton &quot;CANCEL PRESSURIZE&quot;.</Value>
+    </Record>
+    <Record>
+      <Key>ASimpleAirLockTask1</Key>
+      <Value>Retirez le {THING:ItemDataDisk} et appuyer sur le bouton &quot;CYCLE TO INTERIOR&quot;.</Value>
+    </Record>
+    <Record>
+      <Key>AirlockUpgrades</Key>
+      <Value>Améliorer le sas</Value>
+    </Record>
+    <Record>
+      <Key>AirlockUpgradesDescription</Key>
+      <Value>Maintenant que vous avez un sas de base, il est temps de faire quelques mises à niveau pour le convertir en un sas avancé. Les sas de base fonctionneront aussi bien sur la lune que les planètes sans atmosphère, mais si vous voulez empêcher les gaz toxiques ou les températures élevées/basses d&apos;entrer dans votre base, vous aurez besoin d’un sas avancé. Un sas avancé pompe toute atmosphère hors du sas avant de le pressuriser à nouveau avec l’atmosphère désirée.
+
+Pour construire un sas amélioré, vous aurez besoin d’une autre {THING:StructureActiveVent}, une {THING:StructurePassiveVent}, quelques {THING:ItemKitPipe}, des {THING:ItemCableCoil} et le {THING:CircuitboardAdvAirlockControl} pour remplacer le {THING:CircuitboardAirlockControl} du sas basique.</Value>
+    </Record>
+    <Record>
+      <Key>AirlockUpgradesTask1</Key>
+      <Value>Placez une autre {THING:StructureActiveVent} sur la zone en surbrillance.</Value>
+    </Record>
+    <Record>
+      <Key>AirlockCableCorner</Key>
+      <Value>Placez un {THING:StructureCableCorner}.</Value>
+    </Record>
+    <Record>
+      <Key>AirlockCableStraight</Key>
+      <Value>Placez un {THING:StructureCableStraight}.</Value>
+    </Record>
+    <Record>
+      <Key>AdvancedPressure</Key>
+      <Value>Amélioration de la pression</Value>
+    </Record>
+    <Record>
+      <Key>AdvancedPressureDescription</Key>
+      <Value>Maintenant que les différents éléments sont en place, nous devons remplacer le {THING:CircuitboardAirlockControl} par le {THING:CircuitboardAdvAirlockControl}.
+
+Eteignez la {THING:StructureConsole}</Value>
+    </Record>
+    <Record>
+      <Key>AdvancedPressureTask1</Key>
+      <Value>A l&apos;aide de votre {THING:ItemCrowbar}, démonter la {THING:StructureConsole}.</Value>
+    </Record>
+    <Record>
+      <Key>AdvancedPressureTask2</Key>
+      <Value>Permutez le {THING:CircuitboardAirlockControl} avec le {THING:CircuitboardAdvAirlockControl}.</Value>
+    </Record>
+    <Record>
+      <Key>AdvancedPressureTask3</Key>
+      <Value>Replacer les {THING:ItemGlassSheets}.</Value>
+    </Record>
+    <Record>
+      <Key>AdvancedPressureask4</Key>
+      <Value>Insérez le {THING:ItemDataDisk}.</Value>
+    </Record>
+    <Record>
+      <Key>AAdvancedAirLock</Key>
+      <Value>Un sas amélioré</Value>
+    </Record>
+    <Record>
+      <Key>AAdvancedAirLockDescription</Key>
+      <Value>Il existe quelques différences lors de la programmation du {THING:CircuitboardAdvAirlockControl}.
+Tout d’abord, avec votre {THING:ItemLabeller}, renommez la nouvelle {THING:StructureActiveVent} &apos;Ventilateur Externe&apos; et l’ancienne {THING:StructureActiveVent} &apos;Ventilateur Interne&apos;, afin de les affecter correctement dans la configuration de la {THING:StructureConsole}.
+Sélectionnez dans l&apos;ordre :
+- La Porte Externe (EXTERIOR)
+- La Porte Interne (INTERIOR)
+- La Ventilation Active Externe (EXTERIOR)
+- La Ventilation Active Interne (INTERIOR)
+- Le Capteur de Gaz (SENSOR)
+
+Vous devez sélectionner la {THING:StructureActiveVent} interne et externe. Vous aurez besoin de regarder l’interrupteur sur la {THING:StructureActiveVent} pour voir s&apos;il est verrouillé ou non. C’est ainsi que vous pouvez savoir quelle {THING:StructureActiveVent} correspond au menu de la {THING:StructureConsole}.
+La dernière chose que vous devez faire est de sélectionner la pression interne et externe souhaitée. Le réglage se trouve en haut du panneau de la {THING:StructureConsole}.</Value>
+    </Record>
+    <Record>
+      <Key>AAdvancedAirLockTask1</Key>
+      <Value>Terminez la programmation, retirez le {THING:ItemDataDisk}, et appuyer sur le bouton &quot;CYCLE TO INTERIOR&quot;.</Value>
+    </Record>
+  </Interface>
+</Language>
