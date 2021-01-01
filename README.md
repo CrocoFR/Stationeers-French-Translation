@@ -8,6 +8,9 @@ Répertoire d'installation Stationneers sur Steam :
 
 Copier coller les répetoires dans votre jeu Stationeers /rocketstation_Data/StreamingAssets/
 
+/Incidents/
+- traduction des incidents en jeu
+
 /Language/
 - traduction générale de Stationners
 
